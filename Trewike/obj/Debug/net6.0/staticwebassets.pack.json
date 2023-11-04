@@ -1,0 +1,2633 @@
+{
+  "Files": [
+    {
+      "Id": "D:\\visualstudio-code\\DoAnTotNghiep\\MainProject\\Trewike\\Trewike\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\Trewike.bundle.scp.css",
+      "PackagePath": "staticwebassets\\Trewike.bundle.scp.css"
+    },
+    {
+      "Id": "D:\\visualstudio-code\\DoAnTotNghiep\\MainProject\\Trewike\\Trewike\\wwwroot\\img\\alphabet-avatar\\A.png",
+      "PackagePath": "staticwebassets\\img\\alphabet-avatar\\A.png"
+    },
+    {
+      "Id": "D:\\visualstudio-code\\DoAnTotNghiep\\MainProject\\Trewike\\Trewike\\wwwroot\\img\\alphabet-avatar\\B.png",
+      "PackagePath": "staticwebassets\\img\\alphabet-avatar\\B.png"
+    },
+    {
+      "Id": "D:\\visualstudio-code\\DoAnTotNghiep\\MainProject\\Trewike\\Trewike\\wwwroot\\img\\alphabet-avatar\\C.png",
+      "PackagePath": "staticwebassets\\img\\alphabet-avatar\\C.png"
+    },
+    {
+      "Id": "D:\\visualstudio-code\\DoAnTotNghiep\\MainProject\\Trewike\\Trewike\\wwwroot\\img\\alphabet-avatar\\D.png",
+      "PackagePath": "staticwebassets\\img\\alphabet-avatar\\D.png"
+    },
+    {
+      "Id": "D:\\visualstudio-code\\DoAnTotNghiep\\MainProject\\Trewike\\Trewike\\wwwroot\\img\\alphabet-avatar\\E.png",
+      "PackagePath": "staticwebassets\\img\\alphabet-avatar\\E.png"
+    },
+    {
+      "Id": "D:\\visualstudio-code\\DoAnTotNghiep\\MainProject\\Trewike\\Trewike\\wwwroot\\img\\alphabet-avatar\\F.png",
+      "PackagePath": "staticwebassets\\img\\alphabet-avatar\\F.png"
+    },
+    {
+      "Id": "D:\\visualstudio-code\\DoAnTotNghiep\\MainProject\\Trewike\\Trewike\\wwwroot\\img\\alphabet-avatar\\G.png",
+      "PackagePath": "staticwebassets\\img\\alphabet-avatar\\G.png"
+    },
+    {
+      "Id": "D:\\visualstudio-code\\DoAnTotNghiep\\MainProject\\Trewike\\Trewike\\wwwroot\\img\\alphabet-avatar\\H.png",
+      "PackagePath": "staticwebassets\\img\\alphabet-avatar\\H.png"
+    },
+    {
+      "Id": "D:\\visualstudio-code\\DoAnTotNghiep\\MainProject\\Trewike\\Trewike\\wwwroot\\img\\alphabet-avatar\\I.png",
+      "PackagePath": "staticwebassets\\img\\alphabet-avatar\\I.png"
+    },
+    {
+      "Id": "D:\\visualstudio-code\\DoAnTotNghiep\\MainProject\\Trewike\\Trewike\\wwwroot\\img\\alphabet-avatar\\J.png",
+      "PackagePath": "staticwebassets\\img\\alphabet-avatar\\J.png"
+    },
+    {
+      "Id": "D:\\visualstudio-code\\DoAnTotNghiep\\MainProject\\Trewike\\Trewike\\wwwroot\\img\\alphabet-avatar\\K.png",
+      "PackagePath": "staticwebassets\\img\\alphabet-avatar\\K.png"
+    },
+    {
+      "Id": "D:\\visualstudio-code\\DoAnTotNghiep\\MainProject\\Trewike\\Trewike\\wwwroot\\img\\alphabet-avatar\\L.png",
+      "PackagePath": "staticwebassets\\img\\alphabet-avatar\\L.png"
+    },
+    {
+      "Id": "D:\\visualstudio-code\\DoAnTotNghiep\\MainProject\\Trewike\\Trewike\\wwwroot\\img\\alphabet-avatar\\M.png",
+      "PackagePath": "staticwebassets\\img\\alphabet-avatar\\M.png"
+    },
+    {
+      "Id": "D:\\visualstudio-code\\DoAnTotNghiep\\MainProject\\Trewike\\Trewike\\wwwroot\\img\\alphabet-avatar\\N.png",
+      "PackagePath": "staticwebassets\\img\\alphabet-avatar\\N.png"
+    },
+    {
+      "Id": "D:\\visualstudio-code\\DoAnTotNghiep\\MainProject\\Trewike\\Trewike\\wwwroot\\img\\alphabet-avatar\\O.png",
+      "PackagePath": "staticwebassets\\img\\alphabet-avatar\\O.png"
+    },
+    {
+      "Id": "D:\\visualstudio-code\\DoAnTotNghiep\\MainProject\\Trewike\\Trewike\\wwwroot\\img\\alphabet-avatar\\P.png",
+      "PackagePath": "staticwebassets\\img\\alphabet-avatar\\P.png"
+    },
+    {
+      "Id": "D:\\visualstudio-code\\DoAnTotNghiep\\MainProject\\Trewike\\Trewike\\wwwroot\\img\\alphabet-avatar\\Q.png",
+      "PackagePath": "staticwebassets\\img\\alphabet-avatar\\Q.png"
+    },
+    {
+      "Id": "D:\\visualstudio-code\\DoAnTotNghiep\\MainProject\\Trewike\\Trewike\\wwwroot\\img\\alphabet-avatar\\R.png",
+      "PackagePath": "staticwebassets\\img\\alphabet-avatar\\R.png"
+    },
+    {
+      "Id": "D:\\visualstudio-code\\DoAnTotNghiep\\MainProject\\Trewike\\Trewike\\wwwroot\\img\\alphabet-avatar\\S.png",
+      "PackagePath": "staticwebassets\\img\\alphabet-avatar\\S.png"
+    },
+    {
+      "Id": "D:\\visualstudio-code\\DoAnTotNghiep\\MainProject\\Trewike\\Trewike\\wwwroot\\img\\alphabet-avatar\\T.png",
+      "PackagePath": "staticwebassets\\img\\alphabet-avatar\\T.png"
+    },
+    {
+      "Id": "D:\\visualstudio-code\\DoAnTotNghiep\\MainProject\\Trewike\\Trewike\\wwwroot\\img\\alphabet-avatar\\U.png",
+      "PackagePath": "staticwebassets\\img\\alphabet-avatar\\U.png"
+    },
+    {
+      "Id": "D:\\visualstudio-code\\DoAnTotNghiep\\MainProject\\Trewike\\Trewike\\wwwroot\\img\\alphabet-avatar\\V.png",
+      "PackagePath": "staticwebassets\\img\\alphabet-avatar\\V.png"
+    },
+    {
+      "Id": "D:\\visualstudio-code\\DoAnTotNghiep\\MainProject\\Trewike\\Trewike\\wwwroot\\img\\alphabet-avatar\\W.png",
+      "PackagePath": "staticwebassets\\img\\alphabet-avatar\\W.png"
+    },
+    {
+      "Id": "D:\\visualstudio-code\\DoAnTotNghiep\\MainProject\\Trewike\\Trewike\\wwwroot\\img\\alphabet-avatar\\X.png",
+      "PackagePath": "staticwebassets\\img\\alphabet-avatar\\X.png"
+    },
+    {
+      "Id": "D:\\visualstudio-code\\DoAnTotNghiep\\MainProject\\Trewike\\Trewike\\wwwroot\\img\\alphabet-avatar\\Y.png",
+      "PackagePath": "staticwebassets\\img\\alphabet-avatar\\Y.png"
+    },
+    {
+      "Id": "D:\\visualstudio-code\\DoAnTotNghiep\\MainProject\\Trewike\\Trewike\\wwwroot\\img\\alphabet-avatar\\Z.png",
+      "PackagePath": "staticwebassets\\img\\alphabet-avatar\\Z.png"
+    },
+    {
+      "Id": "D:\\visualstudio-code\\DoAnTotNghiep\\MainProject\\Trewike\\Trewike\\wwwroot\\img\\background\\141a3a-01.png",
+      "PackagePath": "staticwebassets\\img\\background\\141a3a-01.png"
+    },
+    {
+      "Id": "D:\\visualstudio-code\\DoAnTotNghiep\\MainProject\\Trewike\\Trewike\\wwwroot\\img\\background\\absstract-background-1-01.png",
+      "PackagePath": "staticwebassets\\img\\background\\absstract-background-1-01.png"
+    },
+    {
+      "Id": "D:\\visualstudio-code\\DoAnTotNghiep\\MainProject\\Trewike\\Trewike\\wwwroot\\img\\background\\abstract-background.jpg",
+      "PackagePath": "staticwebassets\\img\\background\\abstract-background.jpg"
+    },
+    {
+      "Id": "D:\\visualstudio-code\\DoAnTotNghiep\\MainProject\\Trewike\\Trewike\\wwwroot\\img\\background\\rm380-12.eps",
+      "PackagePath": "staticwebassets\\img\\background\\rm380-12.eps"
+    },
+    {
+      "Id": "D:\\visualstudio-code\\DoAnTotNghiep\\MainProject\\Trewike\\Trewike\\wwwroot\\img\\background\\workspace\\windows_xp.jpg",
+      "PackagePath": "staticwebassets\\img\\background\\workspace\\windows_xp.jpg"
+    },
+    {
+      "Id": "D:\\visualstudio-code\\DoAnTotNghiep\\MainProject\\Trewike\\Trewike\\wwwroot\\img\\logo\\trewikelogo-01.png",
+      "PackagePath": "staticwebassets\\img\\logo\\trewikelogo-01.png"
+    },
+    {
+      "Id": "D:\\visualstudio-code\\DoAnTotNghiep\\MainProject\\Trewike\\Trewike\\wwwroot\\img\\logo\\trewikelogo-white-01.png",
+      "PackagePath": "staticwebassets\\img\\logo\\trewikelogo-white-01.png"
+    },
+    {
+      "Id": "D:\\visualstudio-code\\DoAnTotNghiep\\MainProject\\Trewike\\Trewike\\wwwroot\\landing_page\\assets\\bootstrap\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\landing_page\\assets\\bootstrap\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "D:\\visualstudio-code\\DoAnTotNghiep\\MainProject\\Trewike\\Trewike\\wwwroot\\landing_page\\assets\\bootstrap\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\landing_page\\assets\\bootstrap\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "D:\\visualstudio-code\\DoAnTotNghiep\\MainProject\\Trewike\\Trewike\\wwwroot\\landing_page\\assets\\bootstrap\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\landing_page\\assets\\bootstrap\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "D:\\visualstudio-code\\DoAnTotNghiep\\MainProject\\Trewike\\Trewike\\wwwroot\\landing_page\\assets\\bootstrap\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\landing_page\\assets\\bootstrap\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "D:\\visualstudio-code\\DoAnTotNghiep\\MainProject\\Trewike\\Trewike\\wwwroot\\landing_page\\assets\\bootstrap\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\landing_page\\assets\\bootstrap\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "D:\\visualstudio-code\\DoAnTotNghiep\\MainProject\\Trewike\\Trewike\\wwwroot\\landing_page\\assets\\bootstrap\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\landing_page\\assets\\bootstrap\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "D:\\visualstudio-code\\DoAnTotNghiep\\MainProject\\Trewike\\Trewike\\wwwroot\\landing_page\\assets\\bootstrap\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\landing_page\\assets\\bootstrap\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "D:\\visualstudio-code\\DoAnTotNghiep\\MainProject\\Trewike\\Trewike\\wwwroot\\landing_page\\assets\\bootstrap\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\landing_page\\assets\\bootstrap\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "D:\\visualstudio-code\\DoAnTotNghiep\\MainProject\\Trewike\\Trewike\\wwwroot\\landing_page\\assets\\bootstrap\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\landing_page\\assets\\bootstrap\\css\\bootstrap.css"
+    },
+    {
+      "Id": "D:\\visualstudio-code\\DoAnTotNghiep\\MainProject\\Trewike\\Trewike\\wwwroot\\landing_page\\assets\\bootstrap\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\landing_page\\assets\\bootstrap\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "D:\\visualstudio-code\\DoAnTotNghiep\\MainProject\\Trewike\\Trewike\\wwwroot\\landing_page\\assets\\bootstrap\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\landing_page\\assets\\bootstrap\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "D:\\visualstudio-code\\DoAnTotNghiep\\MainProject\\Trewike\\Trewike\\wwwroot\\landing_page\\assets\\bootstrap\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\landing_page\\assets\\bootstrap\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "D:\\visualstudio-code\\DoAnTotNghiep\\MainProject\\Trewike\\Trewike\\wwwroot\\landing_page\\assets\\bootstrap\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\landing_page\\assets\\bootstrap\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "D:\\visualstudio-code\\DoAnTotNghiep\\MainProject\\Trewike\\Trewike\\wwwroot\\landing_page\\assets\\bootstrap\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\landing_page\\assets\\bootstrap\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "D:\\visualstudio-code\\DoAnTotNghiep\\MainProject\\Trewike\\Trewike\\wwwroot\\landing_page\\assets\\bootstrap\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\landing_page\\assets\\bootstrap\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "D:\\visualstudio-code\\DoAnTotNghiep\\MainProject\\Trewike\\Trewike\\wwwroot\\landing_page\\assets\\bootstrap\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\landing_page\\assets\\bootstrap\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "D:\\visualstudio-code\\DoAnTotNghiep\\MainProject\\Trewike\\Trewike\\wwwroot\\landing_page\\assets\\bootstrap\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\landing_page\\assets\\bootstrap\\js\\bootstrap.js"
+    },
+    {
+      "Id": "D:\\visualstudio-code\\DoAnTotNghiep\\MainProject\\Trewike\\Trewike\\wwwroot\\landing_page\\assets\\bootstrap\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\landing_page\\assets\\bootstrap\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "D:\\visualstudio-code\\DoAnTotNghiep\\MainProject\\Trewike\\Trewike\\wwwroot\\landing_page\\assets\\bootstrap\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\landing_page\\assets\\bootstrap\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "D:\\visualstudio-code\\DoAnTotNghiep\\MainProject\\Trewike\\Trewike\\wwwroot\\landing_page\\assets\\bootstrap\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\landing_page\\assets\\bootstrap\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "D:\\visualstudio-code\\DoAnTotNghiep\\MainProject\\Trewike\\Trewike\\wwwroot\\landing_page\\assets\\css\\animate.css",
+      "PackagePath": "staticwebassets\\landing_page\\assets\\css\\animate.css"
+    },
+    {
+      "Id": "D:\\visualstudio-code\\DoAnTotNghiep\\MainProject\\Trewike\\Trewike\\wwwroot\\landing_page\\assets\\css\\magnific-popup.css",
+      "PackagePath": "staticwebassets\\landing_page\\assets\\css\\magnific-popup.css"
+    },
+    {
+      "Id": "D:\\visualstudio-code\\DoAnTotNghiep\\MainProject\\Trewike\\Trewike\\wwwroot\\landing_page\\assets\\css\\owl.carousel.min.css",
+      "PackagePath": "staticwebassets\\landing_page\\assets\\css\\owl.carousel.min.css"
+    },
+    {
+      "Id": "D:\\visualstudio-code\\DoAnTotNghiep\\MainProject\\Trewike\\Trewike\\wwwroot\\landing_page\\assets\\css\\style.css",
+      "PackagePath": "staticwebassets\\landing_page\\assets\\css\\style.css"
+    },
+    {
+      "Id": "D:\\visualstudio-code\\DoAnTotNghiep\\MainProject\\Trewike\\Trewike\\wwwroot\\landing_page\\assets\\font-awesome\\css\\fa-brands.css",
+      "PackagePath": "staticwebassets\\landing_page\\assets\\font-awesome\\css\\fa-brands.css"
+    },
+    {
+      "Id": "D:\\visualstudio-code\\DoAnTotNghiep\\MainProject\\Trewike\\Trewike\\wwwroot\\landing_page\\assets\\font-awesome\\css\\fa-brands.min.css",
+      "PackagePath": "staticwebassets\\landing_page\\assets\\font-awesome\\css\\fa-brands.min.css"
+    },
+    {
+      "Id": "D:\\visualstudio-code\\DoAnTotNghiep\\MainProject\\Trewike\\Trewike\\wwwroot\\landing_page\\assets\\font-awesome\\css\\fa-regular.css",
+      "PackagePath": "staticwebassets\\landing_page\\assets\\font-awesome\\css\\fa-regular.css"
+    },
+    {
+      "Id": "D:\\visualstudio-code\\DoAnTotNghiep\\MainProject\\Trewike\\Trewike\\wwwroot\\landing_page\\assets\\font-awesome\\css\\fa-regular.min.css",
+      "PackagePath": "staticwebassets\\landing_page\\assets\\font-awesome\\css\\fa-regular.min.css"
+    },
+    {
+      "Id": "D:\\visualstudio-code\\DoAnTotNghiep\\MainProject\\Trewike\\Trewike\\wwwroot\\landing_page\\assets\\font-awesome\\css\\fa-solid.css",
+      "PackagePath": "staticwebassets\\landing_page\\assets\\font-awesome\\css\\fa-solid.css"
+    },
+    {
+      "Id": "D:\\visualstudio-code\\DoAnTotNghiep\\MainProject\\Trewike\\Trewike\\wwwroot\\landing_page\\assets\\font-awesome\\css\\fa-solid.min.css",
+      "PackagePath": "staticwebassets\\landing_page\\assets\\font-awesome\\css\\fa-solid.min.css"
+    },
+    {
+      "Id": "D:\\visualstudio-code\\DoAnTotNghiep\\MainProject\\Trewike\\Trewike\\wwwroot\\landing_page\\assets\\font-awesome\\css\\fontawesome-all.css",
+      "PackagePath": "staticwebassets\\landing_page\\assets\\font-awesome\\css\\fontawesome-all.css"
+    },
+    {
+      "Id": "D:\\visualstudio-code\\DoAnTotNghiep\\MainProject\\Trewike\\Trewike\\wwwroot\\landing_page\\assets\\font-awesome\\css\\fontawesome-all.min.css",
+      "PackagePath": "staticwebassets\\landing_page\\assets\\font-awesome\\css\\fontawesome-all.min.css"
+    },
+    {
+      "Id": "D:\\visualstudio-code\\DoAnTotNghiep\\MainProject\\Trewike\\Trewike\\wwwroot\\landing_page\\assets\\font-awesome\\css\\fontawesome.css",
+      "PackagePath": "staticwebassets\\landing_page\\assets\\font-awesome\\css\\fontawesome.css"
+    },
+    {
+      "Id": "D:\\visualstudio-code\\DoAnTotNghiep\\MainProject\\Trewike\\Trewike\\wwwroot\\landing_page\\assets\\font-awesome\\css\\fontawesome.min.css",
+      "PackagePath": "staticwebassets\\landing_page\\assets\\font-awesome\\css\\fontawesome.min.css"
+    },
+    {
+      "Id": "D:\\visualstudio-code\\DoAnTotNghiep\\MainProject\\Trewike\\Trewike\\wwwroot\\landing_page\\assets\\font-awesome\\less\\_animated.less",
+      "PackagePath": "staticwebassets\\landing_page\\assets\\font-awesome\\less\\_animated.less"
+    },
+    {
+      "Id": "D:\\visualstudio-code\\DoAnTotNghiep\\MainProject\\Trewike\\Trewike\\wwwroot\\landing_page\\assets\\font-awesome\\less\\_bordered-pulled.less",
+      "PackagePath": "staticwebassets\\landing_page\\assets\\font-awesome\\less\\_bordered-pulled.less"
+    },
+    {
+      "Id": "D:\\visualstudio-code\\DoAnTotNghiep\\MainProject\\Trewike\\Trewike\\wwwroot\\landing_page\\assets\\font-awesome\\less\\_core.less",
+      "PackagePath": "staticwebassets\\landing_page\\assets\\font-awesome\\less\\_core.less"
+    },
+    {
+      "Id": "D:\\visualstudio-code\\DoAnTotNghiep\\MainProject\\Trewike\\Trewike\\wwwroot\\landing_page\\assets\\font-awesome\\less\\_fixed-width.less",
+      "PackagePath": "staticwebassets\\landing_page\\assets\\font-awesome\\less\\_fixed-width.less"
+    },
+    {
+      "Id": "D:\\visualstudio-code\\DoAnTotNghiep\\MainProject\\Trewike\\Trewike\\wwwroot\\landing_page\\assets\\font-awesome\\less\\_icons.less",
+      "PackagePath": "staticwebassets\\landing_page\\assets\\font-awesome\\less\\_icons.less"
+    },
+    {
+      "Id": "D:\\visualstudio-code\\DoAnTotNghiep\\MainProject\\Trewike\\Trewike\\wwwroot\\landing_page\\assets\\font-awesome\\less\\_larger.less",
+      "PackagePath": "staticwebassets\\landing_page\\assets\\font-awesome\\less\\_larger.less"
+    },
+    {
+      "Id": "D:\\visualstudio-code\\DoAnTotNghiep\\MainProject\\Trewike\\Trewike\\wwwroot\\landing_page\\assets\\font-awesome\\less\\_list.less",
+      "PackagePath": "staticwebassets\\landing_page\\assets\\font-awesome\\less\\_list.less"
+    },
+    {
+      "Id": "D:\\visualstudio-code\\DoAnTotNghiep\\MainProject\\Trewike\\Trewike\\wwwroot\\landing_page\\assets\\font-awesome\\less\\_mixins.less",
+      "PackagePath": "staticwebassets\\landing_page\\assets\\font-awesome\\less\\_mixins.less"
+    },
+    {
+      "Id": "D:\\visualstudio-code\\DoAnTotNghiep\\MainProject\\Trewike\\Trewike\\wwwroot\\landing_page\\assets\\font-awesome\\less\\_rotated-flipped.less",
+      "PackagePath": "staticwebassets\\landing_page\\assets\\font-awesome\\less\\_rotated-flipped.less"
+    },
+    {
+      "Id": "D:\\visualstudio-code\\DoAnTotNghiep\\MainProject\\Trewike\\Trewike\\wwwroot\\landing_page\\assets\\font-awesome\\less\\_screen-reader.less",
+      "PackagePath": "staticwebassets\\landing_page\\assets\\font-awesome\\less\\_screen-reader.less"
+    },
+    {
+      "Id": "D:\\visualstudio-code\\DoAnTotNghiep\\MainProject\\Trewike\\Trewike\\wwwroot\\landing_page\\assets\\font-awesome\\less\\_stacked.less",
+      "PackagePath": "staticwebassets\\landing_page\\assets\\font-awesome\\less\\_stacked.less"
+    },
+    {
+      "Id": "D:\\visualstudio-code\\DoAnTotNghiep\\MainProject\\Trewike\\Trewike\\wwwroot\\landing_page\\assets\\font-awesome\\less\\_variables.less",
+      "PackagePath": "staticwebassets\\landing_page\\assets\\font-awesome\\less\\_variables.less"
+    },
+    {
+      "Id": "D:\\visualstudio-code\\DoAnTotNghiep\\MainProject\\Trewike\\Trewike\\wwwroot\\landing_page\\assets\\font-awesome\\less\\fa-brands.less",
+      "PackagePath": "staticwebassets\\landing_page\\assets\\font-awesome\\less\\fa-brands.less"
+    },
+    {
+      "Id": "D:\\visualstudio-code\\DoAnTotNghiep\\MainProject\\Trewike\\Trewike\\wwwroot\\landing_page\\assets\\font-awesome\\less\\fa-regular.less",
+      "PackagePath": "staticwebassets\\landing_page\\assets\\font-awesome\\less\\fa-regular.less"
+    },
+    {
+      "Id": "D:\\visualstudio-code\\DoAnTotNghiep\\MainProject\\Trewike\\Trewike\\wwwroot\\landing_page\\assets\\font-awesome\\less\\fa-solid.less",
+      "PackagePath": "staticwebassets\\landing_page\\assets\\font-awesome\\less\\fa-solid.less"
+    },
+    {
+      "Id": "D:\\visualstudio-code\\DoAnTotNghiep\\MainProject\\Trewike\\Trewike\\wwwroot\\landing_page\\assets\\font-awesome\\less\\fontawesome.less",
+      "PackagePath": "staticwebassets\\landing_page\\assets\\font-awesome\\less\\fontawesome.less"
+    },
+    {
+      "Id": "D:\\visualstudio-code\\DoAnTotNghiep\\MainProject\\Trewike\\Trewike\\wwwroot\\landing_page\\assets\\font-awesome\\scss\\_animated.scss",
+      "PackagePath": "staticwebassets\\landing_page\\assets\\font-awesome\\scss\\_animated.scss"
+    },
+    {
+      "Id": "D:\\visualstudio-code\\DoAnTotNghiep\\MainProject\\Trewike\\Trewike\\wwwroot\\landing_page\\assets\\font-awesome\\scss\\_bordered-pulled.scss",
+      "PackagePath": "staticwebassets\\landing_page\\assets\\font-awesome\\scss\\_bordered-pulled.scss"
+    },
+    {
+      "Id": "D:\\visualstudio-code\\DoAnTotNghiep\\MainProject\\Trewike\\Trewike\\wwwroot\\landing_page\\assets\\font-awesome\\scss\\_core.scss",
+      "PackagePath": "staticwebassets\\landing_page\\assets\\font-awesome\\scss\\_core.scss"
+    },
+    {
+      "Id": "D:\\visualstudio-code\\DoAnTotNghiep\\MainProject\\Trewike\\Trewike\\wwwroot\\landing_page\\assets\\font-awesome\\scss\\_fixed-width.scss",
+      "PackagePath": "staticwebassets\\landing_page\\assets\\font-awesome\\scss\\_fixed-width.scss"
+    },
+    {
+      "Id": "D:\\visualstudio-code\\DoAnTotNghiep\\MainProject\\Trewike\\Trewike\\wwwroot\\landing_page\\assets\\font-awesome\\scss\\_icons.scss",
+      "PackagePath": "staticwebassets\\landing_page\\assets\\font-awesome\\scss\\_icons.scss"
+    },
+    {
+      "Id": "D:\\visualstudio-code\\DoAnTotNghiep\\MainProject\\Trewike\\Trewike\\wwwroot\\landing_page\\assets\\font-awesome\\scss\\_larger.scss",
+      "PackagePath": "staticwebassets\\landing_page\\assets\\font-awesome\\scss\\_larger.scss"
+    },
+    {
+      "Id": "D:\\visualstudio-code\\DoAnTotNghiep\\MainProject\\Trewike\\Trewike\\wwwroot\\landing_page\\assets\\font-awesome\\scss\\_list.scss",
+      "PackagePath": "staticwebassets\\landing_page\\assets\\font-awesome\\scss\\_list.scss"
+    },
+    {
+      "Id": "D:\\visualstudio-code\\DoAnTotNghiep\\MainProject\\Trewike\\Trewike\\wwwroot\\landing_page\\assets\\font-awesome\\scss\\_mixins.scss",
+      "PackagePath": "staticwebassets\\landing_page\\assets\\font-awesome\\scss\\_mixins.scss"
+    },
+    {
+      "Id": "D:\\visualstudio-code\\DoAnTotNghiep\\MainProject\\Trewike\\Trewike\\wwwroot\\landing_page\\assets\\font-awesome\\scss\\_rotated-flipped.scss",
+      "PackagePath": "staticwebassets\\landing_page\\assets\\font-awesome\\scss\\_rotated-flipped.scss"
+    },
+    {
+      "Id": "D:\\visualstudio-code\\DoAnTotNghiep\\MainProject\\Trewike\\Trewike\\wwwroot\\landing_page\\assets\\font-awesome\\scss\\_screen-reader.scss",
+      "PackagePath": "staticwebassets\\landing_page\\assets\\font-awesome\\scss\\_screen-reader.scss"
+    },
+    {
+      "Id": "D:\\visualstudio-code\\DoAnTotNghiep\\MainProject\\Trewike\\Trewike\\wwwroot\\landing_page\\assets\\font-awesome\\scss\\_stacked.scss",
+      "PackagePath": "staticwebassets\\landing_page\\assets\\font-awesome\\scss\\_stacked.scss"
+    },
+    {
+      "Id": "D:\\visualstudio-code\\DoAnTotNghiep\\MainProject\\Trewike\\Trewike\\wwwroot\\landing_page\\assets\\font-awesome\\scss\\_variables.scss",
+      "PackagePath": "staticwebassets\\landing_page\\assets\\font-awesome\\scss\\_variables.scss"
+    },
+    {
+      "Id": "D:\\visualstudio-code\\DoAnTotNghiep\\MainProject\\Trewike\\Trewike\\wwwroot\\landing_page\\assets\\font-awesome\\scss\\fa-brands.scss",
+      "PackagePath": "staticwebassets\\landing_page\\assets\\font-awesome\\scss\\fa-brands.scss"
+    },
+    {
+      "Id": "D:\\visualstudio-code\\DoAnTotNghiep\\MainProject\\Trewike\\Trewike\\wwwroot\\landing_page\\assets\\font-awesome\\scss\\fa-regular.scss",
+      "PackagePath": "staticwebassets\\landing_page\\assets\\font-awesome\\scss\\fa-regular.scss"
+    },
+    {
+      "Id": "D:\\visualstudio-code\\DoAnTotNghiep\\MainProject\\Trewike\\Trewike\\wwwroot\\landing_page\\assets\\font-awesome\\scss\\fa-solid.scss",
+      "PackagePath": "staticwebassets\\landing_page\\assets\\font-awesome\\scss\\fa-solid.scss"
+    },
+    {
+      "Id": "D:\\visualstudio-code\\DoAnTotNghiep\\MainProject\\Trewike\\Trewike\\wwwroot\\landing_page\\assets\\font-awesome\\scss\\fontawesome.scss",
+      "PackagePath": "staticwebassets\\landing_page\\assets\\font-awesome\\scss\\fontawesome.scss"
+    },
+    {
+      "Id": "D:\\visualstudio-code\\DoAnTotNghiep\\MainProject\\Trewike\\Trewike\\wwwroot\\landing_page\\assets\\font-awesome\\webfonts\\fa-brands-400.eot",
+      "PackagePath": "staticwebassets\\landing_page\\assets\\font-awesome\\webfonts\\fa-brands-400.eot"
+    },
+    {
+      "Id": "D:\\visualstudio-code\\DoAnTotNghiep\\MainProject\\Trewike\\Trewike\\wwwroot\\landing_page\\assets\\font-awesome\\webfonts\\fa-brands-400.svg",
+      "PackagePath": "staticwebassets\\landing_page\\assets\\font-awesome\\webfonts\\fa-brands-400.svg"
+    },
+    {
+      "Id": "D:\\visualstudio-code\\DoAnTotNghiep\\MainProject\\Trewike\\Trewike\\wwwroot\\landing_page\\assets\\font-awesome\\webfonts\\fa-brands-400.ttf",
+      "PackagePath": "staticwebassets\\landing_page\\assets\\font-awesome\\webfonts\\fa-brands-400.ttf"
+    },
+    {
+      "Id": "D:\\visualstudio-code\\DoAnTotNghiep\\MainProject\\Trewike\\Trewike\\wwwroot\\landing_page\\assets\\font-awesome\\webfonts\\fa-brands-400.woff",
+      "PackagePath": "staticwebassets\\landing_page\\assets\\font-awesome\\webfonts\\fa-brands-400.woff"
+    },
+    {
+      "Id": "D:\\visualstudio-code\\DoAnTotNghiep\\MainProject\\Trewike\\Trewike\\wwwroot\\landing_page\\assets\\font-awesome\\webfonts\\fa-brands-400.woff2",
+      "PackagePath": "staticwebassets\\landing_page\\assets\\font-awesome\\webfonts\\fa-brands-400.woff2"
+    },
+    {
+      "Id": "D:\\visualstudio-code\\DoAnTotNghiep\\MainProject\\Trewike\\Trewike\\wwwroot\\landing_page\\assets\\font-awesome\\webfonts\\fa-regular-400.eot",
+      "PackagePath": "staticwebassets\\landing_page\\assets\\font-awesome\\webfonts\\fa-regular-400.eot"
+    },
+    {
+      "Id": "D:\\visualstudio-code\\DoAnTotNghiep\\MainProject\\Trewike\\Trewike\\wwwroot\\landing_page\\assets\\font-awesome\\webfonts\\fa-regular-400.svg",
+      "PackagePath": "staticwebassets\\landing_page\\assets\\font-awesome\\webfonts\\fa-regular-400.svg"
+    },
+    {
+      "Id": "D:\\visualstudio-code\\DoAnTotNghiep\\MainProject\\Trewike\\Trewike\\wwwroot\\landing_page\\assets\\font-awesome\\webfonts\\fa-regular-400.ttf",
+      "PackagePath": "staticwebassets\\landing_page\\assets\\font-awesome\\webfonts\\fa-regular-400.ttf"
+    },
+    {
+      "Id": "D:\\visualstudio-code\\DoAnTotNghiep\\MainProject\\Trewike\\Trewike\\wwwroot\\landing_page\\assets\\font-awesome\\webfonts\\fa-regular-400.woff",
+      "PackagePath": "staticwebassets\\landing_page\\assets\\font-awesome\\webfonts\\fa-regular-400.woff"
+    },
+    {
+      "Id": "D:\\visualstudio-code\\DoAnTotNghiep\\MainProject\\Trewike\\Trewike\\wwwroot\\landing_page\\assets\\font-awesome\\webfonts\\fa-regular-400.woff2",
+      "PackagePath": "staticwebassets\\landing_page\\assets\\font-awesome\\webfonts\\fa-regular-400.woff2"
+    },
+    {
+      "Id": "D:\\visualstudio-code\\DoAnTotNghiep\\MainProject\\Trewike\\Trewike\\wwwroot\\landing_page\\assets\\font-awesome\\webfonts\\fa-solid-900.eot",
+      "PackagePath": "staticwebassets\\landing_page\\assets\\font-awesome\\webfonts\\fa-solid-900.eot"
+    },
+    {
+      "Id": "D:\\visualstudio-code\\DoAnTotNghiep\\MainProject\\Trewike\\Trewike\\wwwroot\\landing_page\\assets\\font-awesome\\webfonts\\fa-solid-900.svg",
+      "PackagePath": "staticwebassets\\landing_page\\assets\\font-awesome\\webfonts\\fa-solid-900.svg"
+    },
+    {
+      "Id": "D:\\visualstudio-code\\DoAnTotNghiep\\MainProject\\Trewike\\Trewike\\wwwroot\\landing_page\\assets\\font-awesome\\webfonts\\fa-solid-900.ttf",
+      "PackagePath": "staticwebassets\\landing_page\\assets\\font-awesome\\webfonts\\fa-solid-900.ttf"
+    },
+    {
+      "Id": "D:\\visualstudio-code\\DoAnTotNghiep\\MainProject\\Trewike\\Trewike\\wwwroot\\landing_page\\assets\\font-awesome\\webfonts\\fa-solid-900.woff",
+      "PackagePath": "staticwebassets\\landing_page\\assets\\font-awesome\\webfonts\\fa-solid-900.woff"
+    },
+    {
+      "Id": "D:\\visualstudio-code\\DoAnTotNghiep\\MainProject\\Trewike\\Trewike\\wwwroot\\landing_page\\assets\\font-awesome\\webfonts\\fa-solid-900.woff2",
+      "PackagePath": "staticwebassets\\landing_page\\assets\\font-awesome\\webfonts\\fa-solid-900.woff2"
+    },
+    {
+      "Id": "D:\\visualstudio-code\\DoAnTotNghiep\\MainProject\\Trewike\\Trewike\\wwwroot\\landing_page\\assets\\img\\backgroundsign.jpg",
+      "PackagePath": "staticwebassets\\landing_page\\assets\\img\\backgroundsign.jpg"
+    },
+    {
+      "Id": "D:\\visualstudio-code\\DoAnTotNghiep\\MainProject\\Trewike\\Trewike\\wwwroot\\landing_page\\assets\\img\\backgroundwithlogo-01.png",
+      "PackagePath": "staticwebassets\\landing_page\\assets\\img\\backgroundwithlogo-01.png"
+    },
+    {
+      "Id": "D:\\visualstudio-code\\DoAnTotNghiep\\MainProject\\Trewike\\Trewike\\wwwroot\\landing_page\\assets\\img\\bg-finance-team.jpg",
+      "PackagePath": "staticwebassets\\landing_page\\assets\\img\\bg-finance-team.jpg"
+    },
+    {
+      "Id": "D:\\visualstudio-code\\DoAnTotNghiep\\MainProject\\Trewike\\Trewike\\wwwroot\\landing_page\\assets\\img\\bg-hand-mobile.jpg",
+      "PackagePath": "staticwebassets\\landing_page\\assets\\img\\bg-hand-mobile.jpg"
+    },
+    {
+      "Id": "D:\\visualstudio-code\\DoAnTotNghiep\\MainProject\\Trewike\\Trewike\\wwwroot\\landing_page\\assets\\img\\bg-man-sitting.jpg",
+      "PackagePath": "staticwebassets\\landing_page\\assets\\img\\bg-man-sitting.jpg"
+    },
+    {
+      "Id": "D:\\visualstudio-code\\DoAnTotNghiep\\MainProject\\Trewike\\Trewike\\wwwroot\\landing_page\\assets\\img\\bg-mountain.jpg",
+      "PackagePath": "staticwebassets\\landing_page\\assets\\img\\bg-mountain.jpg"
+    },
+    {
+      "Id": "D:\\visualstudio-code\\DoAnTotNghiep\\MainProject\\Trewike\\Trewike\\wwwroot\\landing_page\\assets\\img\\bg-pattern-dot.png",
+      "PackagePath": "staticwebassets\\landing_page\\assets\\img\\bg-pattern-dot.png"
+    },
+    {
+      "Id": "D:\\visualstudio-code\\DoAnTotNghiep\\MainProject\\Trewike\\Trewike\\wwwroot\\landing_page\\assets\\img\\bg-woman-standing.jpg",
+      "PackagePath": "staticwebassets\\landing_page\\assets\\img\\bg-woman-standing.jpg"
+    },
+    {
+      "Id": "D:\\visualstudio-code\\DoAnTotNghiep\\MainProject\\Trewike\\Trewike\\wwwroot\\landing_page\\assets\\img\\icon-bubble.png",
+      "PackagePath": "staticwebassets\\landing_page\\assets\\img\\icon-bubble.png"
+    },
+    {
+      "Id": "D:\\visualstudio-code\\DoAnTotNghiep\\MainProject\\Trewike\\Trewike\\wwwroot\\landing_page\\assets\\img\\icon-heart.png",
+      "PackagePath": "staticwebassets\\landing_page\\assets\\img\\icon-heart.png"
+    },
+    {
+      "Id": "D:\\visualstudio-code\\DoAnTotNghiep\\MainProject\\Trewike\\Trewike\\wwwroot\\landing_page\\assets\\img\\icon-knobs.png",
+      "PackagePath": "staticwebassets\\landing_page\\assets\\img\\icon-knobs.png"
+    },
+    {
+      "Id": "D:\\visualstudio-code\\DoAnTotNghiep\\MainProject\\Trewike\\Trewike\\wwwroot\\landing_page\\assets\\img\\icon-preview-01.png",
+      "PackagePath": "staticwebassets\\landing_page\\assets\\img\\icon-preview-01.png"
+    },
+    {
+      "Id": "D:\\visualstudio-code\\DoAnTotNghiep\\MainProject\\Trewike\\Trewike\\wwwroot\\landing_page\\assets\\img\\icon-preview-02.png",
+      "PackagePath": "staticwebassets\\landing_page\\assets\\img\\icon-preview-02.png"
+    },
+    {
+      "Id": "D:\\visualstudio-code\\DoAnTotNghiep\\MainProject\\Trewike\\Trewike\\wwwroot\\landing_page\\assets\\img\\icon-preview-03.png",
+      "PackagePath": "staticwebassets\\landing_page\\assets\\img\\icon-preview-03.png"
+    },
+    {
+      "Id": "D:\\visualstudio-code\\DoAnTotNghiep\\MainProject\\Trewike\\Trewike\\wwwroot\\landing_page\\assets\\img\\img-01.jpg",
+      "PackagePath": "staticwebassets\\landing_page\\assets\\img\\img-01.jpg"
+    },
+    {
+      "Id": "D:\\visualstudio-code\\DoAnTotNghiep\\MainProject\\Trewike\\Trewike\\wwwroot\\landing_page\\assets\\img\\img-02.jpg",
+      "PackagePath": "staticwebassets\\landing_page\\assets\\img\\img-02.jpg"
+    },
+    {
+      "Id": "D:\\visualstudio-code\\DoAnTotNghiep\\MainProject\\Trewike\\Trewike\\wwwroot\\landing_page\\assets\\img\\img-03.jpg",
+      "PackagePath": "staticwebassets\\landing_page\\assets\\img\\img-03.jpg"
+    },
+    {
+      "Id": "D:\\visualstudio-code\\DoAnTotNghiep\\MainProject\\Trewike\\Trewike\\wwwroot\\landing_page\\assets\\img\\img-04.jpg",
+      "PackagePath": "staticwebassets\\landing_page\\assets\\img\\img-04.jpg"
+    },
+    {
+      "Id": "D:\\visualstudio-code\\DoAnTotNghiep\\MainProject\\Trewike\\Trewike\\wwwroot\\landing_page\\assets\\img\\img-05.jpg",
+      "PackagePath": "staticwebassets\\landing_page\\assets\\img\\img-05.jpg"
+    },
+    {
+      "Id": "D:\\visualstudio-code\\DoAnTotNghiep\\MainProject\\Trewike\\Trewike\\wwwroot\\landing_page\\assets\\img\\img-06.jpg",
+      "PackagePath": "staticwebassets\\landing_page\\assets\\img\\img-06.jpg"
+    },
+    {
+      "Id": "D:\\visualstudio-code\\DoAnTotNghiep\\MainProject\\Trewike\\Trewike\\wwwroot\\landing_page\\assets\\img\\img-07.jpg",
+      "PackagePath": "staticwebassets\\landing_page\\assets\\img\\img-07.jpg"
+    },
+    {
+      "Id": "D:\\visualstudio-code\\DoAnTotNghiep\\MainProject\\Trewike\\Trewike\\wwwroot\\landing_page\\assets\\img\\img-bw-food.jpg",
+      "PackagePath": "staticwebassets\\landing_page\\assets\\img\\img-bw-food.jpg"
+    },
+    {
+      "Id": "D:\\visualstudio-code\\DoAnTotNghiep\\MainProject\\Trewike\\Trewike\\wwwroot\\landing_page\\assets\\img\\img-bw-man-phone.jpg",
+      "PackagePath": "staticwebassets\\landing_page\\assets\\img\\img-bw-man-phone.jpg"
+    },
+    {
+      "Id": "D:\\visualstudio-code\\DoAnTotNghiep\\MainProject\\Trewike\\Trewike\\wwwroot\\landing_page\\assets\\img\\img-bw-student-drawing.jpg",
+      "PackagePath": "staticwebassets\\landing_page\\assets\\img\\img-bw-student-drawing.jpg"
+    },
+    {
+      "Id": "D:\\visualstudio-code\\DoAnTotNghiep\\MainProject\\Trewike\\Trewike\\wwwroot\\landing_page\\assets\\img\\loading.svg",
+      "PackagePath": "staticwebassets\\landing_page\\assets\\img\\loading.svg"
+    },
+    {
+      "Id": "D:\\visualstudio-code\\DoAnTotNghiep\\MainProject\\Trewike\\Trewike\\wwwroot\\landing_page\\assets\\img\\logo-01-w.png",
+      "PackagePath": "staticwebassets\\landing_page\\assets\\img\\logo-01-w.png"
+    },
+    {
+      "Id": "D:\\visualstudio-code\\DoAnTotNghiep\\MainProject\\Trewike\\Trewike\\wwwroot\\landing_page\\assets\\img\\logo-01.png",
+      "PackagePath": "staticwebassets\\landing_page\\assets\\img\\logo-01.png"
+    },
+    {
+      "Id": "D:\\visualstudio-code\\DoAnTotNghiep\\MainProject\\Trewike\\Trewike\\wwwroot\\landing_page\\assets\\img\\logo-02-w.png",
+      "PackagePath": "staticwebassets\\landing_page\\assets\\img\\logo-02-w.png"
+    },
+    {
+      "Id": "D:\\visualstudio-code\\DoAnTotNghiep\\MainProject\\Trewike\\Trewike\\wwwroot\\landing_page\\assets\\img\\logo-02.png",
+      "PackagePath": "staticwebassets\\landing_page\\assets\\img\\logo-02.png"
+    },
+    {
+      "Id": "D:\\visualstudio-code\\DoAnTotNghiep\\MainProject\\Trewike\\Trewike\\wwwroot\\landing_page\\assets\\img\\logo-03-w.png",
+      "PackagePath": "staticwebassets\\landing_page\\assets\\img\\logo-03-w.png"
+    },
+    {
+      "Id": "D:\\visualstudio-code\\DoAnTotNghiep\\MainProject\\Trewike\\Trewike\\wwwroot\\landing_page\\assets\\img\\logo-03.png",
+      "PackagePath": "staticwebassets\\landing_page\\assets\\img\\logo-03.png"
+    },
+    {
+      "Id": "D:\\visualstudio-code\\DoAnTotNghiep\\MainProject\\Trewike\\Trewike\\wwwroot\\landing_page\\assets\\img\\logo-04-w.png",
+      "PackagePath": "staticwebassets\\landing_page\\assets\\img\\logo-04-w.png"
+    },
+    {
+      "Id": "D:\\visualstudio-code\\DoAnTotNghiep\\MainProject\\Trewike\\Trewike\\wwwroot\\landing_page\\assets\\img\\logo-04.png",
+      "PackagePath": "staticwebassets\\landing_page\\assets\\img\\logo-04.png"
+    },
+    {
+      "Id": "D:\\visualstudio-code\\DoAnTotNghiep\\MainProject\\Trewike\\Trewike\\wwwroot\\landing_page\\assets\\img\\logo-05-w.png",
+      "PackagePath": "staticwebassets\\landing_page\\assets\\img\\logo-05-w.png"
+    },
+    {
+      "Id": "D:\\visualstudio-code\\DoAnTotNghiep\\MainProject\\Trewike\\Trewike\\wwwroot\\landing_page\\assets\\img\\logo-05.png",
+      "PackagePath": "staticwebassets\\landing_page\\assets\\img\\logo-05.png"
+    },
+    {
+      "Id": "D:\\visualstudio-code\\DoAnTotNghiep\\MainProject\\Trewike\\Trewike\\wwwroot\\landing_page\\assets\\img\\logo-w.png",
+      "PackagePath": "staticwebassets\\landing_page\\assets\\img\\logo-w.png"
+    },
+    {
+      "Id": "D:\\visualstudio-code\\DoAnTotNghiep\\MainProject\\Trewike\\Trewike\\wwwroot\\landing_page\\assets\\img\\logo.png",
+      "PackagePath": "staticwebassets\\landing_page\\assets\\img\\logo.png"
+    },
+    {
+      "Id": "D:\\visualstudio-code\\DoAnTotNghiep\\MainProject\\Trewike\\Trewike\\wwwroot\\landing_page\\assets\\img\\map-marker-w.png",
+      "PackagePath": "staticwebassets\\landing_page\\assets\\img\\map-marker-w.png"
+    },
+    {
+      "Id": "D:\\visualstudio-code\\DoAnTotNghiep\\MainProject\\Trewike\\Trewike\\wwwroot\\landing_page\\assets\\img\\map-marker.png",
+      "PackagePath": "staticwebassets\\landing_page\\assets\\img\\map-marker.png"
+    },
+    {
+      "Id": "D:\\visualstudio-code\\DoAnTotNghiep\\MainProject\\Trewike\\Trewike\\wwwroot\\landing_page\\assets\\img\\pattern-topo.png",
+      "PackagePath": "staticwebassets\\landing_page\\assets\\img\\pattern-topo.png"
+    },
+    {
+      "Id": "D:\\visualstudio-code\\DoAnTotNghiep\\MainProject\\Trewike\\Trewike\\wwwroot\\landing_page\\assets\\img\\person-01.jpg",
+      "PackagePath": "staticwebassets\\landing_page\\assets\\img\\person-01.jpg"
+    },
+    {
+      "Id": "D:\\visualstudio-code\\DoAnTotNghiep\\MainProject\\Trewike\\Trewike\\wwwroot\\landing_page\\assets\\img\\person-02.jpg",
+      "PackagePath": "staticwebassets\\landing_page\\assets\\img\\person-02.jpg"
+    },
+    {
+      "Id": "D:\\visualstudio-code\\DoAnTotNghiep\\MainProject\\Trewike\\Trewike\\wwwroot\\landing_page\\assets\\img\\person-03.jpg",
+      "PackagePath": "staticwebassets\\landing_page\\assets\\img\\person-03.jpg"
+    },
+    {
+      "Id": "D:\\visualstudio-code\\DoAnTotNghiep\\MainProject\\Trewike\\Trewike\\wwwroot\\landing_page\\assets\\img\\person-04.jpg",
+      "PackagePath": "staticwebassets\\landing_page\\assets\\img\\person-04.jpg"
+    },
+    {
+      "Id": "D:\\visualstudio-code\\DoAnTotNghiep\\MainProject\\Trewike\\Trewike\\wwwroot\\landing_page\\assets\\img\\person-05.jpg",
+      "PackagePath": "staticwebassets\\landing_page\\assets\\img\\person-05.jpg"
+    },
+    {
+      "Id": "D:\\visualstudio-code\\DoAnTotNghiep\\MainProject\\Trewike\\Trewike\\wwwroot\\landing_page\\assets\\img\\person-sm-01.jpg",
+      "PackagePath": "staticwebassets\\landing_page\\assets\\img\\person-sm-01.jpg"
+    },
+    {
+      "Id": "D:\\visualstudio-code\\DoAnTotNghiep\\MainProject\\Trewike\\Trewike\\wwwroot\\landing_page\\assets\\img\\person-sm-02.jpg",
+      "PackagePath": "staticwebassets\\landing_page\\assets\\img\\person-sm-02.jpg"
+    },
+    {
+      "Id": "D:\\visualstudio-code\\DoAnTotNghiep\\MainProject\\Trewike\\Trewike\\wwwroot\\landing_page\\assets\\img\\person-sm-03.jpg",
+      "PackagePath": "staticwebassets\\landing_page\\assets\\img\\person-sm-03.jpg"
+    },
+    {
+      "Id": "D:\\visualstudio-code\\DoAnTotNghiep\\MainProject\\Trewike\\Trewike\\wwwroot\\landing_page\\assets\\img\\person-sm-04.jpg",
+      "PackagePath": "staticwebassets\\landing_page\\assets\\img\\person-sm-04.jpg"
+    },
+    {
+      "Id": "D:\\visualstudio-code\\DoAnTotNghiep\\MainProject\\Trewike\\Trewike\\wwwroot\\landing_page\\assets\\img\\person-sm-05.jpg",
+      "PackagePath": "staticwebassets\\landing_page\\assets\\img\\person-sm-05.jpg"
+    },
+    {
+      "Id": "D:\\visualstudio-code\\DoAnTotNghiep\\MainProject\\Trewike\\Trewike\\wwwroot\\landing_page\\assets\\img\\person-sm-06.jpg",
+      "PackagePath": "staticwebassets\\landing_page\\assets\\img\\person-sm-06.jpg"
+    },
+    {
+      "Id": "D:\\visualstudio-code\\DoAnTotNghiep\\MainProject\\Trewike\\Trewike\\wwwroot\\landing_page\\assets\\img\\person-sm-07.jpg",
+      "PackagePath": "staticwebassets\\landing_page\\assets\\img\\person-sm-07.jpg"
+    },
+    {
+      "Id": "D:\\visualstudio-code\\DoAnTotNghiep\\MainProject\\Trewike\\Trewike\\wwwroot\\landing_page\\assets\\img\\person-sm-08.jpg",
+      "PackagePath": "staticwebassets\\landing_page\\assets\\img\\person-sm-08.jpg"
+    },
+    {
+      "Id": "D:\\visualstudio-code\\DoAnTotNghiep\\MainProject\\Trewike\\Trewike\\wwwroot\\landing_page\\assets\\img\\preview-01.png",
+      "PackagePath": "staticwebassets\\landing_page\\assets\\img\\preview-01.png"
+    },
+    {
+      "Id": "D:\\visualstudio-code\\DoAnTotNghiep\\MainProject\\Trewike\\Trewike\\wwwroot\\landing_page\\assets\\img\\preview-02.png",
+      "PackagePath": "staticwebassets\\landing_page\\assets\\img\\preview-02.png"
+    },
+    {
+      "Id": "D:\\visualstudio-code\\DoAnTotNghiep\\MainProject\\Trewike\\Trewike\\wwwroot\\landing_page\\assets\\img\\preview-03.png",
+      "PackagePath": "staticwebassets\\landing_page\\assets\\img\\preview-03.png"
+    },
+    {
+      "Id": "D:\\visualstudio-code\\DoAnTotNghiep\\MainProject\\Trewike\\Trewike\\wwwroot\\landing_page\\assets\\img\\preview-bg.jpg",
+      "PackagePath": "staticwebassets\\landing_page\\assets\\img\\preview-bg.jpg"
+    },
+    {
+      "Id": "D:\\visualstudio-code\\DoAnTotNghiep\\MainProject\\Trewike\\Trewike\\wwwroot\\landing_page\\assets\\js\\custom.hero.js",
+      "PackagePath": "staticwebassets\\landing_page\\assets\\js\\custom.hero.js"
+    },
+    {
+      "Id": "D:\\visualstudio-code\\DoAnTotNghiep\\MainProject\\Trewike\\Trewike\\wwwroot\\landing_page\\assets\\js\\custom.js",
+      "PackagePath": "staticwebassets\\landing_page\\assets\\js\\custom.js"
+    },
+    {
+      "Id": "D:\\visualstudio-code\\DoAnTotNghiep\\MainProject\\Trewike\\Trewike\\wwwroot\\landing_page\\assets\\js\\imagesloaded.pkgd.min.js",
+      "PackagePath": "staticwebassets\\landing_page\\assets\\js\\imagesloaded.pkgd.min.js"
+    },
+    {
+      "Id": "D:\\visualstudio-code\\DoAnTotNghiep\\MainProject\\Trewike\\Trewike\\wwwroot\\landing_page\\assets\\js\\isInViewport.jquery.js",
+      "PackagePath": "staticwebassets\\landing_page\\assets\\js\\isInViewport.jquery.js"
+    },
+    {
+      "Id": "D:\\visualstudio-code\\DoAnTotNghiep\\MainProject\\Trewike\\Trewike\\wwwroot\\landing_page\\assets\\js\\jquery-3.3.1.min.js",
+      "PackagePath": "staticwebassets\\landing_page\\assets\\js\\jquery-3.3.1.min.js"
+    },
+    {
+      "Id": "D:\\visualstudio-code\\DoAnTotNghiep\\MainProject\\Trewike\\Trewike\\wwwroot\\landing_page\\assets\\js\\jquery-svg-to-inline.min.js",
+      "PackagePath": "staticwebassets\\landing_page\\assets\\js\\jquery-svg-to-inline.min.js"
+    },
+    {
+      "Id": "D:\\visualstudio-code\\DoAnTotNghiep\\MainProject\\Trewike\\Trewike\\wwwroot\\landing_page\\assets\\js\\jquery-validate.bootstrap-tooltip.min.js",
+      "PackagePath": "staticwebassets\\landing_page\\assets\\js\\jquery-validate.bootstrap-tooltip.min.js"
+    },
+    {
+      "Id": "D:\\visualstudio-code\\DoAnTotNghiep\\MainProject\\Trewike\\Trewike\\wwwroot\\landing_page\\assets\\js\\jquery.magnific-popup.min.js",
+      "PackagePath": "staticwebassets\\landing_page\\assets\\js\\jquery.magnific-popup.min.js"
+    },
+    {
+      "Id": "D:\\visualstudio-code\\DoAnTotNghiep\\MainProject\\Trewike\\Trewike\\wwwroot\\landing_page\\assets\\js\\jquery.particleground.min.js",
+      "PackagePath": "staticwebassets\\landing_page\\assets\\js\\jquery.particleground.min.js"
+    },
+    {
+      "Id": "D:\\visualstudio-code\\DoAnTotNghiep\\MainProject\\Trewike\\Trewike\\wwwroot\\landing_page\\assets\\js\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\landing_page\\assets\\js\\jquery.validate.min.js"
+    },
+    {
+      "Id": "D:\\visualstudio-code\\DoAnTotNghiep\\MainProject\\Trewike\\Trewike\\wwwroot\\landing_page\\assets\\js\\jquery.wavify.js",
+      "PackagePath": "staticwebassets\\landing_page\\assets\\js\\jquery.wavify.js"
+    },
+    {
+      "Id": "D:\\visualstudio-code\\DoAnTotNghiep\\MainProject\\Trewike\\Trewike\\wwwroot\\landing_page\\assets\\js\\owl.carousel.min.js",
+      "PackagePath": "staticwebassets\\landing_page\\assets\\js\\owl.carousel.min.js"
+    },
+    {
+      "Id": "D:\\visualstudio-code\\DoAnTotNghiep\\MainProject\\Trewike\\Trewike\\wwwroot\\landing_page\\assets\\js\\popper.min.js",
+      "PackagePath": "staticwebassets\\landing_page\\assets\\js\\popper.min.js"
+    },
+    {
+      "Id": "D:\\visualstudio-code\\DoAnTotNghiep\\MainProject\\Trewike\\Trewike\\wwwroot\\landing_page\\assets\\js\\scrolla.jquery.min.js",
+      "PackagePath": "staticwebassets\\landing_page\\assets\\js\\scrolla.jquery.min.js"
+    },
+    {
+      "Id": "D:\\visualstudio-code\\DoAnTotNghiep\\MainProject\\Trewike\\Trewike\\wwwroot\\landing_page\\assets\\pcss\\components\\_block.pcss",
+      "PackagePath": "staticwebassets\\landing_page\\assets\\pcss\\components\\_block.pcss"
+    },
+    {
+      "Id": "D:\\visualstudio-code\\DoAnTotNghiep\\MainProject\\Trewike\\Trewike\\wwwroot\\landing_page\\assets\\pcss\\components\\_blockquote.pcss",
+      "PackagePath": "staticwebassets\\landing_page\\assets\\pcss\\components\\_blockquote.pcss"
+    },
+    {
+      "Id": "D:\\visualstudio-code\\DoAnTotNghiep\\MainProject\\Trewike\\Trewike\\wwwroot\\landing_page\\assets\\pcss\\components\\_box.pcss",
+      "PackagePath": "staticwebassets\\landing_page\\assets\\pcss\\components\\_box.pcss"
+    },
+    {
+      "Id": "D:\\visualstudio-code\\DoAnTotNghiep\\MainProject\\Trewike\\Trewike\\wwwroot\\landing_page\\assets\\pcss\\components\\_buttons.pcss",
+      "PackagePath": "staticwebassets\\landing_page\\assets\\pcss\\components\\_buttons.pcss"
+    },
+    {
+      "Id": "D:\\visualstudio-code\\DoAnTotNghiep\\MainProject\\Trewike\\Trewike\\wwwroot\\landing_page\\assets\\pcss\\components\\_card.pcss",
+      "PackagePath": "staticwebassets\\landing_page\\assets\\pcss\\components\\_card.pcss"
+    },
+    {
+      "Id": "D:\\visualstudio-code\\DoAnTotNghiep\\MainProject\\Trewike\\Trewike\\wwwroot\\landing_page\\assets\\pcss\\components\\_circle.pcss",
+      "PackagePath": "staticwebassets\\landing_page\\assets\\pcss\\components\\_circle.pcss"
+    },
+    {
+      "Id": "D:\\visualstudio-code\\DoAnTotNghiep\\MainProject\\Trewike\\Trewike\\wwwroot\\landing_page\\assets\\pcss\\components\\_forms.pcss",
+      "PackagePath": "staticwebassets\\landing_page\\assets\\pcss\\components\\_forms.pcss"
+    },
+    {
+      "Id": "D:\\visualstudio-code\\DoAnTotNghiep\\MainProject\\Trewike\\Trewike\\wwwroot\\landing_page\\assets\\pcss\\components\\_gallery.pcss",
+      "PackagePath": "staticwebassets\\landing_page\\assets\\pcss\\components\\_gallery.pcss"
+    },
+    {
+      "Id": "D:\\visualstudio-code\\DoAnTotNghiep\\MainProject\\Trewike\\Trewike\\wwwroot\\landing_page\\assets\\pcss\\components\\_hero.pcss",
+      "PackagePath": "staticwebassets\\landing_page\\assets\\pcss\\components\\_hero.pcss"
+    },
+    {
+      "Id": "D:\\visualstudio-code\\DoAnTotNghiep\\MainProject\\Trewike\\Trewike\\wwwroot\\landing_page\\assets\\pcss\\components\\_hr.pcss",
+      "PackagePath": "staticwebassets\\landing_page\\assets\\pcss\\components\\_hr.pcss"
+    },
+    {
+      "Id": "D:\\visualstudio-code\\DoAnTotNghiep\\MainProject\\Trewike\\Trewike\\wwwroot\\landing_page\\assets\\pcss\\components\\_inputs.pcss",
+      "PackagePath": "staticwebassets\\landing_page\\assets\\pcss\\components\\_inputs.pcss"
+    },
+    {
+      "Id": "D:\\visualstudio-code\\DoAnTotNghiep\\MainProject\\Trewike\\Trewike\\wwwroot\\landing_page\\assets\\pcss\\components\\_item.pcss",
+      "PackagePath": "staticwebassets\\landing_page\\assets\\pcss\\components\\_item.pcss"
+    },
+    {
+      "Id": "D:\\visualstudio-code\\DoAnTotNghiep\\MainProject\\Trewike\\Trewike\\wwwroot\\landing_page\\assets\\pcss\\components\\_list.pcss",
+      "PackagePath": "staticwebassets\\landing_page\\assets\\pcss\\components\\_list.pcss"
+    },
+    {
+      "Id": "D:\\visualstudio-code\\DoAnTotNghiep\\MainProject\\Trewike\\Trewike\\wwwroot\\landing_page\\assets\\pcss\\components\\_loading-screen.pcss",
+      "PackagePath": "staticwebassets\\landing_page\\assets\\pcss\\components\\_loading-screen.pcss"
+    },
+    {
+      "Id": "D:\\visualstudio-code\\DoAnTotNghiep\\MainProject\\Trewike\\Trewike\\wwwroot\\landing_page\\assets\\pcss\\components\\_map.pcss",
+      "PackagePath": "staticwebassets\\landing_page\\assets\\pcss\\components\\_map.pcss"
+    },
+    {
+      "Id": "D:\\visualstudio-code\\DoAnTotNghiep\\MainProject\\Trewike\\Trewike\\wwwroot\\landing_page\\assets\\pcss\\components\\_navbar.pcss",
+      "PackagePath": "staticwebassets\\landing_page\\assets\\pcss\\components\\_navbar.pcss"
+    },
+    {
+      "Id": "D:\\visualstudio-code\\DoAnTotNghiep\\MainProject\\Trewike\\Trewike\\wwwroot\\landing_page\\assets\\pcss\\components\\_page.pcss",
+      "PackagePath": "staticwebassets\\landing_page\\assets\\pcss\\components\\_page.pcss"
+    },
+    {
+      "Id": "D:\\visualstudio-code\\DoAnTotNghiep\\MainProject\\Trewike\\Trewike\\wwwroot\\landing_page\\assets\\pcss\\components\\_partners.pcss",
+      "PackagePath": "staticwebassets\\landing_page\\assets\\pcss\\components\\_partners.pcss"
+    },
+    {
+      "Id": "D:\\visualstudio-code\\DoAnTotNghiep\\MainProject\\Trewike\\Trewike\\wwwroot\\landing_page\\assets\\pcss\\components\\_plugins.pcss",
+      "PackagePath": "staticwebassets\\landing_page\\assets\\pcss\\components\\_plugins.pcss"
+    },
+    {
+      "Id": "D:\\visualstudio-code\\DoAnTotNghiep\\MainProject\\Trewike\\Trewike\\wwwroot\\landing_page\\assets\\pcss\\components\\_progress.pcss",
+      "PackagePath": "staticwebassets\\landing_page\\assets\\pcss\\components\\_progress.pcss"
+    },
+    {
+      "Id": "D:\\visualstudio-code\\DoAnTotNghiep\\MainProject\\Trewike\\Trewike\\wwwroot\\landing_page\\assets\\pcss\\components\\_promo-numbers.pcss",
+      "PackagePath": "staticwebassets\\landing_page\\assets\\pcss\\components\\_promo-numbers.pcss"
+    },
+    {
+      "Id": "D:\\visualstudio-code\\DoAnTotNghiep\\MainProject\\Trewike\\Trewike\\wwwroot\\landing_page\\assets\\pcss\\components\\_select.pcss",
+      "PackagePath": "staticwebassets\\landing_page\\assets\\pcss\\components\\_select.pcss"
+    },
+    {
+      "Id": "D:\\visualstudio-code\\DoAnTotNghiep\\MainProject\\Trewike\\Trewike\\wwwroot\\landing_page\\assets\\pcss\\components\\_slider.pcss",
+      "PackagePath": "staticwebassets\\landing_page\\assets\\pcss\\components\\_slider.pcss"
+    },
+    {
+      "Id": "D:\\visualstudio-code\\DoAnTotNghiep\\MainProject\\Trewike\\Trewike\\wwwroot\\landing_page\\assets\\pcss\\components\\_tabs.pcss",
+      "PackagePath": "staticwebassets\\landing_page\\assets\\pcss\\components\\_tabs.pcss"
+    },
+    {
+      "Id": "D:\\visualstudio-code\\DoAnTotNghiep\\MainProject\\Trewike\\Trewike\\wwwroot\\landing_page\\assets\\pcss\\helpers\\_animations.pcss",
+      "PackagePath": "staticwebassets\\landing_page\\assets\\pcss\\helpers\\_animations.pcss"
+    },
+    {
+      "Id": "D:\\visualstudio-code\\DoAnTotNghiep\\MainProject\\Trewike\\Trewike\\wwwroot\\landing_page\\assets\\pcss\\helpers\\_background.pcss",
+      "PackagePath": "staticwebassets\\landing_page\\assets\\pcss\\helpers\\_background.pcss"
+    },
+    {
+      "Id": "D:\\visualstudio-code\\DoAnTotNghiep\\MainProject\\Trewike\\Trewike\\wwwroot\\landing_page\\assets\\pcss\\helpers\\_borders.pcss",
+      "PackagePath": "staticwebassets\\landing_page\\assets\\pcss\\helpers\\_borders.pcss"
+    },
+    {
+      "Id": "D:\\visualstudio-code\\DoAnTotNghiep\\MainProject\\Trewike\\Trewike\\wwwroot\\landing_page\\assets\\pcss\\helpers\\_colors.pcss",
+      "PackagePath": "staticwebassets\\landing_page\\assets\\pcss\\helpers\\_colors.pcss"
+    },
+    {
+      "Id": "D:\\visualstudio-code\\DoAnTotNghiep\\MainProject\\Trewike\\Trewike\\wwwroot\\landing_page\\assets\\pcss\\helpers\\_column-count.pcss",
+      "PackagePath": "staticwebassets\\landing_page\\assets\\pcss\\helpers\\_column-count.pcss"
+    },
+    {
+      "Id": "D:\\visualstudio-code\\DoAnTotNghiep\\MainProject\\Trewike\\Trewike\\wwwroot\\landing_page\\assets\\pcss\\helpers\\_height.pcss",
+      "PackagePath": "staticwebassets\\landing_page\\assets\\pcss\\helpers\\_height.pcss"
+    },
+    {
+      "Id": "D:\\visualstudio-code\\DoAnTotNghiep\\MainProject\\Trewike\\Trewike\\wwwroot\\landing_page\\assets\\pcss\\helpers\\_margin.pcss",
+      "PackagePath": "staticwebassets\\landing_page\\assets\\pcss\\helpers\\_margin.pcss"
+    },
+    {
+      "Id": "D:\\visualstudio-code\\DoAnTotNghiep\\MainProject\\Trewike\\Trewike\\wwwroot\\landing_page\\assets\\pcss\\helpers\\_no-gutters.pcss",
+      "PackagePath": "staticwebassets\\landing_page\\assets\\pcss\\helpers\\_no-gutters.pcss"
+    },
+    {
+      "Id": "D:\\visualstudio-code\\DoAnTotNghiep\\MainProject\\Trewike\\Trewike\\wwwroot\\landing_page\\assets\\pcss\\helpers\\_opacity.pcss",
+      "PackagePath": "staticwebassets\\landing_page\\assets\\pcss\\helpers\\_opacity.pcss"
+    },
+    {
+      "Id": "D:\\visualstudio-code\\DoAnTotNghiep\\MainProject\\Trewike\\Trewike\\wwwroot\\landing_page\\assets\\pcss\\helpers\\_overflow.pcss",
+      "PackagePath": "staticwebassets\\landing_page\\assets\\pcss\\helpers\\_overflow.pcss"
+    },
+    {
+      "Id": "D:\\visualstudio-code\\DoAnTotNghiep\\MainProject\\Trewike\\Trewike\\wwwroot\\landing_page\\assets\\pcss\\helpers\\_padding.pcss",
+      "PackagePath": "staticwebassets\\landing_page\\assets\\pcss\\helpers\\_padding.pcss"
+    },
+    {
+      "Id": "D:\\visualstudio-code\\DoAnTotNghiep\\MainProject\\Trewike\\Trewike\\wwwroot\\landing_page\\assets\\pcss\\helpers\\_position.pcss",
+      "PackagePath": "staticwebassets\\landing_page\\assets\\pcss\\helpers\\_position.pcss"
+    },
+    {
+      "Id": "D:\\visualstudio-code\\DoAnTotNghiep\\MainProject\\Trewike\\Trewike\\wwwroot\\landing_page\\assets\\pcss\\helpers\\_responsive.pcss",
+      "PackagePath": "staticwebassets\\landing_page\\assets\\pcss\\helpers\\_responsive.pcss"
+    },
+    {
+      "Id": "D:\\visualstudio-code\\DoAnTotNghiep\\MainProject\\Trewike\\Trewike\\wwwroot\\landing_page\\assets\\pcss\\helpers\\_shadow.pcss",
+      "PackagePath": "staticwebassets\\landing_page\\assets\\pcss\\helpers\\_shadow.pcss"
+    },
+    {
+      "Id": "D:\\visualstudio-code\\DoAnTotNghiep\\MainProject\\Trewike\\Trewike\\wwwroot\\landing_page\\assets\\pcss\\helpers\\_title.pcss",
+      "PackagePath": "staticwebassets\\landing_page\\assets\\pcss\\helpers\\_title.pcss"
+    },
+    {
+      "Id": "D:\\visualstudio-code\\DoAnTotNghiep\\MainProject\\Trewike\\Trewike\\wwwroot\\landing_page\\assets\\pcss\\helpers\\_transitions.pcss",
+      "PackagePath": "staticwebassets\\landing_page\\assets\\pcss\\helpers\\_transitions.pcss"
+    },
+    {
+      "Id": "D:\\visualstudio-code\\DoAnTotNghiep\\MainProject\\Trewike\\Trewike\\wwwroot\\landing_page\\assets\\pcss\\helpers\\_typography.pcss",
+      "PackagePath": "staticwebassets\\landing_page\\assets\\pcss\\helpers\\_typography.pcss"
+    },
+    {
+      "Id": "D:\\visualstudio-code\\DoAnTotNghiep\\MainProject\\Trewike\\Trewike\\wwwroot\\landing_page\\assets\\pcss\\helpers\\_utilities.pcss",
+      "PackagePath": "staticwebassets\\landing_page\\assets\\pcss\\helpers\\_utilities.pcss"
+    },
+    {
+      "Id": "D:\\visualstudio-code\\DoAnTotNghiep\\MainProject\\Trewike\\Trewike\\wwwroot\\landing_page\\assets\\pcss\\helpers\\_video-bg.pcss",
+      "PackagePath": "staticwebassets\\landing_page\\assets\\pcss\\helpers\\_video-bg.pcss"
+    },
+    {
+      "Id": "D:\\visualstudio-code\\DoAnTotNghiep\\MainProject\\Trewike\\Trewike\\wwwroot\\landing_page\\assets\\pcss\\helpers\\_width.pcss",
+      "PackagePath": "staticwebassets\\landing_page\\assets\\pcss\\helpers\\_width.pcss"
+    },
+    {
+      "Id": "D:\\visualstudio-code\\DoAnTotNghiep\\MainProject\\Trewike\\Trewike\\wwwroot\\landing_page\\assets\\pcss\\helpers\\_z-index.pcss",
+      "PackagePath": "staticwebassets\\landing_page\\assets\\pcss\\helpers\\_z-index.pcss"
+    },
+    {
+      "Id": "D:\\visualstudio-code\\DoAnTotNghiep\\MainProject\\Trewike\\Trewike\\wwwroot\\landing_page\\assets\\pcss\\plugins\\_magnific-popup.pcss",
+      "PackagePath": "staticwebassets\\landing_page\\assets\\pcss\\plugins\\_magnific-popup.pcss"
+    },
+    {
+      "Id": "D:\\visualstudio-code\\DoAnTotNghiep\\MainProject\\Trewike\\Trewike\\wwwroot\\landing_page\\assets\\pcss\\plugins\\_owl-carousel.pcss",
+      "PackagePath": "staticwebassets\\landing_page\\assets\\pcss\\plugins\\_owl-carousel.pcss"
+    },
+    {
+      "Id": "D:\\visualstudio-code\\DoAnTotNghiep\\MainProject\\Trewike\\Trewike\\wwwroot\\landing_page\\assets\\pcss\\postcss.config.js",
+      "PackagePath": "staticwebassets\\landing_page\\assets\\pcss\\postcss.config.js"
+    },
+    {
+      "Id": "D:\\visualstudio-code\\DoAnTotNghiep\\MainProject\\Trewike\\Trewike\\wwwroot\\landing_page\\assets\\pcss\\style.pcss",
+      "PackagePath": "staticwebassets\\landing_page\\assets\\pcss\\style.pcss"
+    },
+    {
+      "Id": "D:\\visualstudio-code\\DoAnTotNghiep\\MainProject\\Trewike\\Trewike\\wwwroot\\landing_page\\assets\\pcss\\template-specific\\_carousel-centered.pcss",
+      "PackagePath": "staticwebassets\\landing_page\\assets\\pcss\\template-specific\\_carousel-centered.pcss"
+    },
+    {
+      "Id": "D:\\visualstudio-code\\DoAnTotNghiep\\MainProject\\Trewike\\Trewike\\wwwroot\\landing_page\\assets\\pcss\\template-specific\\_hero-form.pcss",
+      "PackagePath": "staticwebassets\\landing_page\\assets\\pcss\\template-specific\\_hero-form.pcss"
+    },
+    {
+      "Id": "D:\\visualstudio-code\\DoAnTotNghiep\\MainProject\\Trewike\\Trewike\\wwwroot\\landing_page\\assets\\pcss\\template-specific\\_other.pcss",
+      "PackagePath": "staticwebassets\\landing_page\\assets\\pcss\\template-specific\\_other.pcss"
+    },
+    {
+      "Id": "D:\\visualstudio-code\\DoAnTotNghiep\\MainProject\\Trewike\\Trewike\\wwwroot\\landing_page\\assets\\pcss\\template-specific\\_price-box.pcss",
+      "PackagePath": "staticwebassets\\landing_page\\assets\\pcss\\template-specific\\_price-box.pcss"
+    },
+    {
+      "Id": "D:\\visualstudio-code\\DoAnTotNghiep\\MainProject\\Trewike\\Trewike\\wwwroot\\landing_page\\assets\\pcss\\template-specific\\_story.pcss",
+      "PackagePath": "staticwebassets\\landing_page\\assets\\pcss\\template-specific\\_story.pcss"
+    },
+    {
+      "Id": "D:\\visualstudio-code\\DoAnTotNghiep\\MainProject\\Trewike\\Trewike\\wwwroot\\landing_page\\assets\\pcss\\template-specific\\_styling.pcss",
+      "PackagePath": "staticwebassets\\landing_page\\assets\\pcss\\template-specific\\_styling.pcss"
+    },
+    {
+      "Id": "D:\\visualstudio-code\\DoAnTotNghiep\\MainProject\\Trewike\\Trewike\\wwwroot\\landing_page\\assets\\pcss\\template-specific\\_svg-shapes.pcss",
+      "PackagePath": "staticwebassets\\landing_page\\assets\\pcss\\template-specific\\_svg-shapes.pcss"
+    },
+    {
+      "Id": "D:\\visualstudio-code\\DoAnTotNghiep\\MainProject\\Trewike\\Trewike\\wwwroot\\landing_page\\assets\\pcss\\template-specific\\_time-line-horizontal.pcss",
+      "PackagePath": "staticwebassets\\landing_page\\assets\\pcss\\template-specific\\_time-line-horizontal.pcss"
+    },
+    {
+      "Id": "D:\\visualstudio-code\\DoAnTotNghiep\\MainProject\\Trewike\\Trewike\\wwwroot\\landing_page\\assets\\php\\email.php",
+      "PackagePath": "staticwebassets\\landing_page\\assets\\php\\email.php"
+    },
+    {
+      "Id": "D:\\visualstudio-code\\DoAnTotNghiep\\MainProject\\Trewike\\Trewike\\wwwroot\\landing_page\\assets\\svg\\shape-mask.svg",
+      "PackagePath": "staticwebassets\\landing_page\\assets\\svg\\shape-mask.svg"
+    },
+    {
+      "Id": "D:\\visualstudio-code\\DoAnTotNghiep\\MainProject\\Trewike\\Trewike\\wwwroot\\landing_page\\index-01.html",
+      "PackagePath": "staticwebassets\\landing_page\\index-01.html"
+    },
+    {
+      "Id": "D:\\visualstudio-code\\DoAnTotNghiep\\MainProject\\Trewike\\Trewike\\wwwroot\\login_page\\css\\main.css",
+      "PackagePath": "staticwebassets\\login_page\\css\\main.css"
+    },
+    {
+      "Id": "D:\\visualstudio-code\\DoAnTotNghiep\\MainProject\\Trewike\\Trewike\\wwwroot\\login_page\\css\\util.css",
+      "PackagePath": "staticwebassets\\login_page\\css\\util.css"
+    },
+    {
+      "Id": "D:\\visualstudio-code\\DoAnTotNghiep\\MainProject\\Trewike\\Trewike\\wwwroot\\login_page\\fonts\\font-awesome-4.7.0\\HELP-US-OUT.txt",
+      "PackagePath": "staticwebassets\\login_page\\fonts\\font-awesome-4.7.0\\HELP-US-OUT.txt"
+    },
+    {
+      "Id": "D:\\visualstudio-code\\DoAnTotNghiep\\MainProject\\Trewike\\Trewike\\wwwroot\\login_page\\fonts\\font-awesome-4.7.0\\css\\font-awesome.css",
+      "PackagePath": "staticwebassets\\login_page\\fonts\\font-awesome-4.7.0\\css\\font-awesome.css"
+    },
+    {
+      "Id": "D:\\visualstudio-code\\DoAnTotNghiep\\MainProject\\Trewike\\Trewike\\wwwroot\\login_page\\fonts\\font-awesome-4.7.0\\css\\font-awesome.min.css",
+      "PackagePath": "staticwebassets\\login_page\\fonts\\font-awesome-4.7.0\\css\\font-awesome.min.css"
+    },
+    {
+      "Id": "D:\\visualstudio-code\\DoAnTotNghiep\\MainProject\\Trewike\\Trewike\\wwwroot\\login_page\\fonts\\font-awesome-4.7.0\\fonts\\FontAwesome.otf",
+      "PackagePath": "staticwebassets\\login_page\\fonts\\font-awesome-4.7.0\\fonts\\FontAwesome.otf"
+    },
+    {
+      "Id": "D:\\visualstudio-code\\DoAnTotNghiep\\MainProject\\Trewike\\Trewike\\wwwroot\\login_page\\fonts\\font-awesome-4.7.0\\fonts\\fontawesome-webfont.eot",
+      "PackagePath": "staticwebassets\\login_page\\fonts\\font-awesome-4.7.0\\fonts\\fontawesome-webfont.eot"
+    },
+    {
+      "Id": "D:\\visualstudio-code\\DoAnTotNghiep\\MainProject\\Trewike\\Trewike\\wwwroot\\login_page\\fonts\\font-awesome-4.7.0\\fonts\\fontawesome-webfont.svg",
+      "PackagePath": "staticwebassets\\login_page\\fonts\\font-awesome-4.7.0\\fonts\\fontawesome-webfont.svg"
+    },
+    {
+      "Id": "D:\\visualstudio-code\\DoAnTotNghiep\\MainProject\\Trewike\\Trewike\\wwwroot\\login_page\\fonts\\font-awesome-4.7.0\\fonts\\fontawesome-webfont.ttf",
+      "PackagePath": "staticwebassets\\login_page\\fonts\\font-awesome-4.7.0\\fonts\\fontawesome-webfont.ttf"
+    },
+    {
+      "Id": "D:\\visualstudio-code\\DoAnTotNghiep\\MainProject\\Trewike\\Trewike\\wwwroot\\login_page\\fonts\\font-awesome-4.7.0\\fonts\\fontawesome-webfont.woff",
+      "PackagePath": "staticwebassets\\login_page\\fonts\\font-awesome-4.7.0\\fonts\\fontawesome-webfont.woff"
+    },
+    {
+      "Id": "D:\\visualstudio-code\\DoAnTotNghiep\\MainProject\\Trewike\\Trewike\\wwwroot\\login_page\\fonts\\font-awesome-4.7.0\\fonts\\fontawesome-webfont.woff2",
+      "PackagePath": "staticwebassets\\login_page\\fonts\\font-awesome-4.7.0\\fonts\\fontawesome-webfont.woff2"
+    },
+    {
+      "Id": "D:\\visualstudio-code\\DoAnTotNghiep\\MainProject\\Trewike\\Trewike\\wwwroot\\login_page\\fonts\\font-awesome-4.7.0\\less\\animated.less",
+      "PackagePath": "staticwebassets\\login_page\\fonts\\font-awesome-4.7.0\\less\\animated.less"
+    },
+    {
+      "Id": "D:\\visualstudio-code\\DoAnTotNghiep\\MainProject\\Trewike\\Trewike\\wwwroot\\login_page\\fonts\\font-awesome-4.7.0\\less\\bordered-pulled.less",
+      "PackagePath": "staticwebassets\\login_page\\fonts\\font-awesome-4.7.0\\less\\bordered-pulled.less"
+    },
+    {
+      "Id": "D:\\visualstudio-code\\DoAnTotNghiep\\MainProject\\Trewike\\Trewike\\wwwroot\\login_page\\fonts\\font-awesome-4.7.0\\less\\core.less",
+      "PackagePath": "staticwebassets\\login_page\\fonts\\font-awesome-4.7.0\\less\\core.less"
+    },
+    {
+      "Id": "D:\\visualstudio-code\\DoAnTotNghiep\\MainProject\\Trewike\\Trewike\\wwwroot\\login_page\\fonts\\font-awesome-4.7.0\\less\\fixed-width.less",
+      "PackagePath": "staticwebassets\\login_page\\fonts\\font-awesome-4.7.0\\less\\fixed-width.less"
+    },
+    {
+      "Id": "D:\\visualstudio-code\\DoAnTotNghiep\\MainProject\\Trewike\\Trewike\\wwwroot\\login_page\\fonts\\font-awesome-4.7.0\\less\\font-awesome.less",
+      "PackagePath": "staticwebassets\\login_page\\fonts\\font-awesome-4.7.0\\less\\font-awesome.less"
+    },
+    {
+      "Id": "D:\\visualstudio-code\\DoAnTotNghiep\\MainProject\\Trewike\\Trewike\\wwwroot\\login_page\\fonts\\font-awesome-4.7.0\\less\\icons.less",
+      "PackagePath": "staticwebassets\\login_page\\fonts\\font-awesome-4.7.0\\less\\icons.less"
+    },
+    {
+      "Id": "D:\\visualstudio-code\\DoAnTotNghiep\\MainProject\\Trewike\\Trewike\\wwwroot\\login_page\\fonts\\font-awesome-4.7.0\\less\\larger.less",
+      "PackagePath": "staticwebassets\\login_page\\fonts\\font-awesome-4.7.0\\less\\larger.less"
+    },
+    {
+      "Id": "D:\\visualstudio-code\\DoAnTotNghiep\\MainProject\\Trewike\\Trewike\\wwwroot\\login_page\\fonts\\font-awesome-4.7.0\\less\\list.less",
+      "PackagePath": "staticwebassets\\login_page\\fonts\\font-awesome-4.7.0\\less\\list.less"
+    },
+    {
+      "Id": "D:\\visualstudio-code\\DoAnTotNghiep\\MainProject\\Trewike\\Trewike\\wwwroot\\login_page\\fonts\\font-awesome-4.7.0\\less\\mixins.less",
+      "PackagePath": "staticwebassets\\login_page\\fonts\\font-awesome-4.7.0\\less\\mixins.less"
+    },
+    {
+      "Id": "D:\\visualstudio-code\\DoAnTotNghiep\\MainProject\\Trewike\\Trewike\\wwwroot\\login_page\\fonts\\font-awesome-4.7.0\\less\\path.less",
+      "PackagePath": "staticwebassets\\login_page\\fonts\\font-awesome-4.7.0\\less\\path.less"
+    },
+    {
+      "Id": "D:\\visualstudio-code\\DoAnTotNghiep\\MainProject\\Trewike\\Trewike\\wwwroot\\login_page\\fonts\\font-awesome-4.7.0\\less\\rotated-flipped.less",
+      "PackagePath": "staticwebassets\\login_page\\fonts\\font-awesome-4.7.0\\less\\rotated-flipped.less"
+    },
+    {
+      "Id": "D:\\visualstudio-code\\DoAnTotNghiep\\MainProject\\Trewike\\Trewike\\wwwroot\\login_page\\fonts\\font-awesome-4.7.0\\less\\screen-reader.less",
+      "PackagePath": "staticwebassets\\login_page\\fonts\\font-awesome-4.7.0\\less\\screen-reader.less"
+    },
+    {
+      "Id": "D:\\visualstudio-code\\DoAnTotNghiep\\MainProject\\Trewike\\Trewike\\wwwroot\\login_page\\fonts\\font-awesome-4.7.0\\less\\stacked.less",
+      "PackagePath": "staticwebassets\\login_page\\fonts\\font-awesome-4.7.0\\less\\stacked.less"
+    },
+    {
+      "Id": "D:\\visualstudio-code\\DoAnTotNghiep\\MainProject\\Trewike\\Trewike\\wwwroot\\login_page\\fonts\\font-awesome-4.7.0\\less\\variables.less",
+      "PackagePath": "staticwebassets\\login_page\\fonts\\font-awesome-4.7.0\\less\\variables.less"
+    },
+    {
+      "Id": "D:\\visualstudio-code\\DoAnTotNghiep\\MainProject\\Trewike\\Trewike\\wwwroot\\login_page\\fonts\\font-awesome-4.7.0\\scss\\_animated.scss",
+      "PackagePath": "staticwebassets\\login_page\\fonts\\font-awesome-4.7.0\\scss\\_animated.scss"
+    },
+    {
+      "Id": "D:\\visualstudio-code\\DoAnTotNghiep\\MainProject\\Trewike\\Trewike\\wwwroot\\login_page\\fonts\\font-awesome-4.7.0\\scss\\_bordered-pulled.scss",
+      "PackagePath": "staticwebassets\\login_page\\fonts\\font-awesome-4.7.0\\scss\\_bordered-pulled.scss"
+    },
+    {
+      "Id": "D:\\visualstudio-code\\DoAnTotNghiep\\MainProject\\Trewike\\Trewike\\wwwroot\\login_page\\fonts\\font-awesome-4.7.0\\scss\\_core.scss",
+      "PackagePath": "staticwebassets\\login_page\\fonts\\font-awesome-4.7.0\\scss\\_core.scss"
+    },
+    {
+      "Id": "D:\\visualstudio-code\\DoAnTotNghiep\\MainProject\\Trewike\\Trewike\\wwwroot\\login_page\\fonts\\font-awesome-4.7.0\\scss\\_fixed-width.scss",
+      "PackagePath": "staticwebassets\\login_page\\fonts\\font-awesome-4.7.0\\scss\\_fixed-width.scss"
+    },
+    {
+      "Id": "D:\\visualstudio-code\\DoAnTotNghiep\\MainProject\\Trewike\\Trewike\\wwwroot\\login_page\\fonts\\font-awesome-4.7.0\\scss\\_icons.scss",
+      "PackagePath": "staticwebassets\\login_page\\fonts\\font-awesome-4.7.0\\scss\\_icons.scss"
+    },
+    {
+      "Id": "D:\\visualstudio-code\\DoAnTotNghiep\\MainProject\\Trewike\\Trewike\\wwwroot\\login_page\\fonts\\font-awesome-4.7.0\\scss\\_larger.scss",
+      "PackagePath": "staticwebassets\\login_page\\fonts\\font-awesome-4.7.0\\scss\\_larger.scss"
+    },
+    {
+      "Id": "D:\\visualstudio-code\\DoAnTotNghiep\\MainProject\\Trewike\\Trewike\\wwwroot\\login_page\\fonts\\font-awesome-4.7.0\\scss\\_list.scss",
+      "PackagePath": "staticwebassets\\login_page\\fonts\\font-awesome-4.7.0\\scss\\_list.scss"
+    },
+    {
+      "Id": "D:\\visualstudio-code\\DoAnTotNghiep\\MainProject\\Trewike\\Trewike\\wwwroot\\login_page\\fonts\\font-awesome-4.7.0\\scss\\_mixins.scss",
+      "PackagePath": "staticwebassets\\login_page\\fonts\\font-awesome-4.7.0\\scss\\_mixins.scss"
+    },
+    {
+      "Id": "D:\\visualstudio-code\\DoAnTotNghiep\\MainProject\\Trewike\\Trewike\\wwwroot\\login_page\\fonts\\font-awesome-4.7.0\\scss\\_path.scss",
+      "PackagePath": "staticwebassets\\login_page\\fonts\\font-awesome-4.7.0\\scss\\_path.scss"
+    },
+    {
+      "Id": "D:\\visualstudio-code\\DoAnTotNghiep\\MainProject\\Trewike\\Trewike\\wwwroot\\login_page\\fonts\\font-awesome-4.7.0\\scss\\_rotated-flipped.scss",
+      "PackagePath": "staticwebassets\\login_page\\fonts\\font-awesome-4.7.0\\scss\\_rotated-flipped.scss"
+    },
+    {
+      "Id": "D:\\visualstudio-code\\DoAnTotNghiep\\MainProject\\Trewike\\Trewike\\wwwroot\\login_page\\fonts\\font-awesome-4.7.0\\scss\\_screen-reader.scss",
+      "PackagePath": "staticwebassets\\login_page\\fonts\\font-awesome-4.7.0\\scss\\_screen-reader.scss"
+    },
+    {
+      "Id": "D:\\visualstudio-code\\DoAnTotNghiep\\MainProject\\Trewike\\Trewike\\wwwroot\\login_page\\fonts\\font-awesome-4.7.0\\scss\\_stacked.scss",
+      "PackagePath": "staticwebassets\\login_page\\fonts\\font-awesome-4.7.0\\scss\\_stacked.scss"
+    },
+    {
+      "Id": "D:\\visualstudio-code\\DoAnTotNghiep\\MainProject\\Trewike\\Trewike\\wwwroot\\login_page\\fonts\\font-awesome-4.7.0\\scss\\_variables.scss",
+      "PackagePath": "staticwebassets\\login_page\\fonts\\font-awesome-4.7.0\\scss\\_variables.scss"
+    },
+    {
+      "Id": "D:\\visualstudio-code\\DoAnTotNghiep\\MainProject\\Trewike\\Trewike\\wwwroot\\login_page\\fonts\\font-awesome-4.7.0\\scss\\font-awesome.scss",
+      "PackagePath": "staticwebassets\\login_page\\fonts\\font-awesome-4.7.0\\scss\\font-awesome.scss"
+    },
+    {
+      "Id": "D:\\visualstudio-code\\DoAnTotNghiep\\MainProject\\Trewike\\Trewike\\wwwroot\\login_page\\fonts\\iconic\\css\\material-design-iconic-font.css",
+      "PackagePath": "staticwebassets\\login_page\\fonts\\iconic\\css\\material-design-iconic-font.css"
+    },
+    {
+      "Id": "D:\\visualstudio-code\\DoAnTotNghiep\\MainProject\\Trewike\\Trewike\\wwwroot\\login_page\\fonts\\iconic\\css\\material-design-iconic-font.min.css",
+      "PackagePath": "staticwebassets\\login_page\\fonts\\iconic\\css\\material-design-iconic-font.min.css"
+    },
+    {
+      "Id": "D:\\visualstudio-code\\DoAnTotNghiep\\MainProject\\Trewike\\Trewike\\wwwroot\\login_page\\fonts\\iconic\\fonts\\Material-Design-Iconic-Font.eot",
+      "PackagePath": "staticwebassets\\login_page\\fonts\\iconic\\fonts\\Material-Design-Iconic-Font.eot"
+    },
+    {
+      "Id": "D:\\visualstudio-code\\DoAnTotNghiep\\MainProject\\Trewike\\Trewike\\wwwroot\\login_page\\fonts\\iconic\\fonts\\Material-Design-Iconic-Font.svg",
+      "PackagePath": "staticwebassets\\login_page\\fonts\\iconic\\fonts\\Material-Design-Iconic-Font.svg"
+    },
+    {
+      "Id": "D:\\visualstudio-code\\DoAnTotNghiep\\MainProject\\Trewike\\Trewike\\wwwroot\\login_page\\fonts\\iconic\\fonts\\Material-Design-Iconic-Font.ttf",
+      "PackagePath": "staticwebassets\\login_page\\fonts\\iconic\\fonts\\Material-Design-Iconic-Font.ttf"
+    },
+    {
+      "Id": "D:\\visualstudio-code\\DoAnTotNghiep\\MainProject\\Trewike\\Trewike\\wwwroot\\login_page\\fonts\\iconic\\fonts\\Material-Design-Iconic-Font.woff",
+      "PackagePath": "staticwebassets\\login_page\\fonts\\iconic\\fonts\\Material-Design-Iconic-Font.woff"
+    },
+    {
+      "Id": "D:\\visualstudio-code\\DoAnTotNghiep\\MainProject\\Trewike\\Trewike\\wwwroot\\login_page\\fonts\\iconic\\fonts\\Material-Design-Iconic-Font.woff2",
+      "PackagePath": "staticwebassets\\login_page\\fonts\\iconic\\fonts\\Material-Design-Iconic-Font.woff2"
+    },
+    {
+      "Id": "D:\\visualstudio-code\\DoAnTotNghiep\\MainProject\\Trewike\\Trewike\\wwwroot\\login_page\\fonts\\poppins\\Poppins-Black.ttf",
+      "PackagePath": "staticwebassets\\login_page\\fonts\\poppins\\Poppins-Black.ttf"
+    },
+    {
+      "Id": "D:\\visualstudio-code\\DoAnTotNghiep\\MainProject\\Trewike\\Trewike\\wwwroot\\login_page\\fonts\\poppins\\Poppins-BlackItalic.ttf",
+      "PackagePath": "staticwebassets\\login_page\\fonts\\poppins\\Poppins-BlackItalic.ttf"
+    },
+    {
+      "Id": "D:\\visualstudio-code\\DoAnTotNghiep\\MainProject\\Trewike\\Trewike\\wwwroot\\login_page\\fonts\\poppins\\Poppins-Bold.ttf",
+      "PackagePath": "staticwebassets\\login_page\\fonts\\poppins\\Poppins-Bold.ttf"
+    },
+    {
+      "Id": "D:\\visualstudio-code\\DoAnTotNghiep\\MainProject\\Trewike\\Trewike\\wwwroot\\login_page\\fonts\\poppins\\Poppins-BoldItalic.ttf",
+      "PackagePath": "staticwebassets\\login_page\\fonts\\poppins\\Poppins-BoldItalic.ttf"
+    },
+    {
+      "Id": "D:\\visualstudio-code\\DoAnTotNghiep\\MainProject\\Trewike\\Trewike\\wwwroot\\login_page\\fonts\\poppins\\Poppins-ExtraBold.ttf",
+      "PackagePath": "staticwebassets\\login_page\\fonts\\poppins\\Poppins-ExtraBold.ttf"
+    },
+    {
+      "Id": "D:\\visualstudio-code\\DoAnTotNghiep\\MainProject\\Trewike\\Trewike\\wwwroot\\login_page\\fonts\\poppins\\Poppins-ExtraBoldItalic.ttf",
+      "PackagePath": "staticwebassets\\login_page\\fonts\\poppins\\Poppins-ExtraBoldItalic.ttf"
+    },
+    {
+      "Id": "D:\\visualstudio-code\\DoAnTotNghiep\\MainProject\\Trewike\\Trewike\\wwwroot\\login_page\\fonts\\poppins\\Poppins-ExtraLight.ttf",
+      "PackagePath": "staticwebassets\\login_page\\fonts\\poppins\\Poppins-ExtraLight.ttf"
+    },
+    {
+      "Id": "D:\\visualstudio-code\\DoAnTotNghiep\\MainProject\\Trewike\\Trewike\\wwwroot\\login_page\\fonts\\poppins\\Poppins-ExtraLightItalic.ttf",
+      "PackagePath": "staticwebassets\\login_page\\fonts\\poppins\\Poppins-ExtraLightItalic.ttf"
+    },
+    {
+      "Id": "D:\\visualstudio-code\\DoAnTotNghiep\\MainProject\\Trewike\\Trewike\\wwwroot\\login_page\\fonts\\poppins\\Poppins-Italic.ttf",
+      "PackagePath": "staticwebassets\\login_page\\fonts\\poppins\\Poppins-Italic.ttf"
+    },
+    {
+      "Id": "D:\\visualstudio-code\\DoAnTotNghiep\\MainProject\\Trewike\\Trewike\\wwwroot\\login_page\\fonts\\poppins\\Poppins-Light.ttf",
+      "PackagePath": "staticwebassets\\login_page\\fonts\\poppins\\Poppins-Light.ttf"
+    },
+    {
+      "Id": "D:\\visualstudio-code\\DoAnTotNghiep\\MainProject\\Trewike\\Trewike\\wwwroot\\login_page\\fonts\\poppins\\Poppins-LightItalic.ttf",
+      "PackagePath": "staticwebassets\\login_page\\fonts\\poppins\\Poppins-LightItalic.ttf"
+    },
+    {
+      "Id": "D:\\visualstudio-code\\DoAnTotNghiep\\MainProject\\Trewike\\Trewike\\wwwroot\\login_page\\fonts\\poppins\\Poppins-Medium.ttf",
+      "PackagePath": "staticwebassets\\login_page\\fonts\\poppins\\Poppins-Medium.ttf"
+    },
+    {
+      "Id": "D:\\visualstudio-code\\DoAnTotNghiep\\MainProject\\Trewike\\Trewike\\wwwroot\\login_page\\fonts\\poppins\\Poppins-MediumItalic.ttf",
+      "PackagePath": "staticwebassets\\login_page\\fonts\\poppins\\Poppins-MediumItalic.ttf"
+    },
+    {
+      "Id": "D:\\visualstudio-code\\DoAnTotNghiep\\MainProject\\Trewike\\Trewike\\wwwroot\\login_page\\fonts\\poppins\\Poppins-Regular.ttf",
+      "PackagePath": "staticwebassets\\login_page\\fonts\\poppins\\Poppins-Regular.ttf"
+    },
+    {
+      "Id": "D:\\visualstudio-code\\DoAnTotNghiep\\MainProject\\Trewike\\Trewike\\wwwroot\\login_page\\fonts\\poppins\\Poppins-SemiBold.ttf",
+      "PackagePath": "staticwebassets\\login_page\\fonts\\poppins\\Poppins-SemiBold.ttf"
+    },
+    {
+      "Id": "D:\\visualstudio-code\\DoAnTotNghiep\\MainProject\\Trewike\\Trewike\\wwwroot\\login_page\\fonts\\poppins\\Poppins-SemiBoldItalic.ttf",
+      "PackagePath": "staticwebassets\\login_page\\fonts\\poppins\\Poppins-SemiBoldItalic.ttf"
+    },
+    {
+      "Id": "D:\\visualstudio-code\\DoAnTotNghiep\\MainProject\\Trewike\\Trewike\\wwwroot\\login_page\\fonts\\poppins\\Poppins-Thin.ttf",
+      "PackagePath": "staticwebassets\\login_page\\fonts\\poppins\\Poppins-Thin.ttf"
+    },
+    {
+      "Id": "D:\\visualstudio-code\\DoAnTotNghiep\\MainProject\\Trewike\\Trewike\\wwwroot\\login_page\\fonts\\poppins\\Poppins-ThinItalic.ttf",
+      "PackagePath": "staticwebassets\\login_page\\fonts\\poppins\\Poppins-ThinItalic.ttf"
+    },
+    {
+      "Id": "D:\\visualstudio-code\\DoAnTotNghiep\\MainProject\\Trewike\\Trewike\\wwwroot\\login_page\\images\\bg-01.jpg",
+      "PackagePath": "staticwebassets\\login_page\\images\\bg-01.jpg"
+    },
+    {
+      "Id": "D:\\visualstudio-code\\DoAnTotNghiep\\MainProject\\Trewike\\Trewike\\wwwroot\\login_page\\images\\icons\\favicon.ico",
+      "PackagePath": "staticwebassets\\login_page\\images\\icons\\favicon.ico"
+    },
+    {
+      "Id": "D:\\visualstudio-code\\DoAnTotNghiep\\MainProject\\Trewike\\Trewike\\wwwroot\\login_page\\js\\main.js",
+      "PackagePath": "staticwebassets\\login_page\\js\\main.js"
+    },
+    {
+      "Id": "D:\\visualstudio-code\\DoAnTotNghiep\\MainProject\\Trewike\\Trewike\\wwwroot\\login_page\\vendor\\animate\\animate.css",
+      "PackagePath": "staticwebassets\\login_page\\vendor\\animate\\animate.css"
+    },
+    {
+      "Id": "D:\\visualstudio-code\\DoAnTotNghiep\\MainProject\\Trewike\\Trewike\\wwwroot\\login_page\\vendor\\animsition\\css\\animsition.css",
+      "PackagePath": "staticwebassets\\login_page\\vendor\\animsition\\css\\animsition.css"
+    },
+    {
+      "Id": "D:\\visualstudio-code\\DoAnTotNghiep\\MainProject\\Trewike\\Trewike\\wwwroot\\login_page\\vendor\\animsition\\css\\animsition.min.css",
+      "PackagePath": "staticwebassets\\login_page\\vendor\\animsition\\css\\animsition.min.css"
+    },
+    {
+      "Id": "D:\\visualstudio-code\\DoAnTotNghiep\\MainProject\\Trewike\\Trewike\\wwwroot\\login_page\\vendor\\animsition\\js\\animsition.js",
+      "PackagePath": "staticwebassets\\login_page\\vendor\\animsition\\js\\animsition.js"
+    },
+    {
+      "Id": "D:\\visualstudio-code\\DoAnTotNghiep\\MainProject\\Trewike\\Trewike\\wwwroot\\login_page\\vendor\\animsition\\js\\animsition.min.js",
+      "PackagePath": "staticwebassets\\login_page\\vendor\\animsition\\js\\animsition.min.js"
+    },
+    {
+      "Id": "D:\\visualstudio-code\\DoAnTotNghiep\\MainProject\\Trewike\\Trewike\\wwwroot\\login_page\\vendor\\bootstrap\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\login_page\\vendor\\bootstrap\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "D:\\visualstudio-code\\DoAnTotNghiep\\MainProject\\Trewike\\Trewike\\wwwroot\\login_page\\vendor\\bootstrap\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\login_page\\vendor\\bootstrap\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "D:\\visualstudio-code\\DoAnTotNghiep\\MainProject\\Trewike\\Trewike\\wwwroot\\login_page\\vendor\\bootstrap\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\login_page\\vendor\\bootstrap\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "D:\\visualstudio-code\\DoAnTotNghiep\\MainProject\\Trewike\\Trewike\\wwwroot\\login_page\\vendor\\bootstrap\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\login_page\\vendor\\bootstrap\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "D:\\visualstudio-code\\DoAnTotNghiep\\MainProject\\Trewike\\Trewike\\wwwroot\\login_page\\vendor\\bootstrap\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\login_page\\vendor\\bootstrap\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "D:\\visualstudio-code\\DoAnTotNghiep\\MainProject\\Trewike\\Trewike\\wwwroot\\login_page\\vendor\\bootstrap\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\login_page\\vendor\\bootstrap\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "D:\\visualstudio-code\\DoAnTotNghiep\\MainProject\\Trewike\\Trewike\\wwwroot\\login_page\\vendor\\bootstrap\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\login_page\\vendor\\bootstrap\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "D:\\visualstudio-code\\DoAnTotNghiep\\MainProject\\Trewike\\Trewike\\wwwroot\\login_page\\vendor\\bootstrap\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\login_page\\vendor\\bootstrap\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "D:\\visualstudio-code\\DoAnTotNghiep\\MainProject\\Trewike\\Trewike\\wwwroot\\login_page\\vendor\\bootstrap\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\login_page\\vendor\\bootstrap\\css\\bootstrap.css"
+    },
+    {
+      "Id": "D:\\visualstudio-code\\DoAnTotNghiep\\MainProject\\Trewike\\Trewike\\wwwroot\\login_page\\vendor\\bootstrap\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\login_page\\vendor\\bootstrap\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "D:\\visualstudio-code\\DoAnTotNghiep\\MainProject\\Trewike\\Trewike\\wwwroot\\login_page\\vendor\\bootstrap\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\login_page\\vendor\\bootstrap\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "D:\\visualstudio-code\\DoAnTotNghiep\\MainProject\\Trewike\\Trewike\\wwwroot\\login_page\\vendor\\bootstrap\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\login_page\\vendor\\bootstrap\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "D:\\visualstudio-code\\DoAnTotNghiep\\MainProject\\Trewike\\Trewike\\wwwroot\\login_page\\vendor\\bootstrap\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\login_page\\vendor\\bootstrap\\js\\bootstrap.js"
+    },
+    {
+      "Id": "D:\\visualstudio-code\\DoAnTotNghiep\\MainProject\\Trewike\\Trewike\\wwwroot\\login_page\\vendor\\bootstrap\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\login_page\\vendor\\bootstrap\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "D:\\visualstudio-code\\DoAnTotNghiep\\MainProject\\Trewike\\Trewike\\wwwroot\\login_page\\vendor\\bootstrap\\js\\popper.js",
+      "PackagePath": "staticwebassets\\login_page\\vendor\\bootstrap\\js\\popper.js"
+    },
+    {
+      "Id": "D:\\visualstudio-code\\DoAnTotNghiep\\MainProject\\Trewike\\Trewike\\wwwroot\\login_page\\vendor\\bootstrap\\js\\popper.min.js",
+      "PackagePath": "staticwebassets\\login_page\\vendor\\bootstrap\\js\\popper.min.js"
+    },
+    {
+      "Id": "D:\\visualstudio-code\\DoAnTotNghiep\\MainProject\\Trewike\\Trewike\\wwwroot\\login_page\\vendor\\bootstrap\\js\\tooltip.js",
+      "PackagePath": "staticwebassets\\login_page\\vendor\\bootstrap\\js\\tooltip.js"
+    },
+    {
+      "Id": "D:\\visualstudio-code\\DoAnTotNghiep\\MainProject\\Trewike\\Trewike\\wwwroot\\login_page\\vendor\\countdowntime\\countdowntime.js",
+      "PackagePath": "staticwebassets\\login_page\\vendor\\countdowntime\\countdowntime.js"
+    },
+    {
+      "Id": "D:\\visualstudio-code\\DoAnTotNghiep\\MainProject\\Trewike\\Trewike\\wwwroot\\login_page\\vendor\\css-hamburgers\\hamburgers.css",
+      "PackagePath": "staticwebassets\\login_page\\vendor\\css-hamburgers\\hamburgers.css"
+    },
+    {
+      "Id": "D:\\visualstudio-code\\DoAnTotNghiep\\MainProject\\Trewike\\Trewike\\wwwroot\\login_page\\vendor\\css-hamburgers\\hamburgers.min.css",
+      "PackagePath": "staticwebassets\\login_page\\vendor\\css-hamburgers\\hamburgers.min.css"
+    },
+    {
+      "Id": "D:\\visualstudio-code\\DoAnTotNghiep\\MainProject\\Trewike\\Trewike\\wwwroot\\login_page\\vendor\\daterangepicker\\daterangepicker.css",
+      "PackagePath": "staticwebassets\\login_page\\vendor\\daterangepicker\\daterangepicker.css"
+    },
+    {
+      "Id": "D:\\visualstudio-code\\DoAnTotNghiep\\MainProject\\Trewike\\Trewike\\wwwroot\\login_page\\vendor\\daterangepicker\\daterangepicker.js",
+      "PackagePath": "staticwebassets\\login_page\\vendor\\daterangepicker\\daterangepicker.js"
+    },
+    {
+      "Id": "D:\\visualstudio-code\\DoAnTotNghiep\\MainProject\\Trewike\\Trewike\\wwwroot\\login_page\\vendor\\daterangepicker\\moment.js",
+      "PackagePath": "staticwebassets\\login_page\\vendor\\daterangepicker\\moment.js"
+    },
+    {
+      "Id": "D:\\visualstudio-code\\DoAnTotNghiep\\MainProject\\Trewike\\Trewike\\wwwroot\\login_page\\vendor\\daterangepicker\\moment.min.js",
+      "PackagePath": "staticwebassets\\login_page\\vendor\\daterangepicker\\moment.min.js"
+    },
+    {
+      "Id": "D:\\visualstudio-code\\DoAnTotNghiep\\MainProject\\Trewike\\Trewike\\wwwroot\\login_page\\vendor\\jquery\\jquery-3.2.1.min.js",
+      "PackagePath": "staticwebassets\\login_page\\vendor\\jquery\\jquery-3.2.1.min.js"
+    },
+    {
+      "Id": "D:\\visualstudio-code\\DoAnTotNghiep\\MainProject\\Trewike\\Trewike\\wwwroot\\login_page\\vendor\\perfect-scrollbar\\perfect-scrollbar.css",
+      "PackagePath": "staticwebassets\\login_page\\vendor\\perfect-scrollbar\\perfect-scrollbar.css"
+    },
+    {
+      "Id": "D:\\visualstudio-code\\DoAnTotNghiep\\MainProject\\Trewike\\Trewike\\wwwroot\\login_page\\vendor\\perfect-scrollbar\\perfect-scrollbar.min.js",
+      "PackagePath": "staticwebassets\\login_page\\vendor\\perfect-scrollbar\\perfect-scrollbar.min.js"
+    },
+    {
+      "Id": "D:\\visualstudio-code\\DoAnTotNghiep\\MainProject\\Trewike\\Trewike\\wwwroot\\login_page\\vendor\\select2\\select2.css",
+      "PackagePath": "staticwebassets\\login_page\\vendor\\select2\\select2.css"
+    },
+    {
+      "Id": "D:\\visualstudio-code\\DoAnTotNghiep\\MainProject\\Trewike\\Trewike\\wwwroot\\login_page\\vendor\\select2\\select2.js",
+      "PackagePath": "staticwebassets\\login_page\\vendor\\select2\\select2.js"
+    },
+    {
+      "Id": "D:\\visualstudio-code\\DoAnTotNghiep\\MainProject\\Trewike\\Trewike\\wwwroot\\login_page\\vendor\\select2\\select2.min.css",
+      "PackagePath": "staticwebassets\\login_page\\vendor\\select2\\select2.min.css"
+    },
+    {
+      "Id": "D:\\visualstudio-code\\DoAnTotNghiep\\MainProject\\Trewike\\Trewike\\wwwroot\\login_page\\vendor\\select2\\select2.min.js",
+      "PackagePath": "staticwebassets\\login_page\\vendor\\select2\\select2.min.js"
+    },
+    {
+      "Id": "D:\\visualstudio-code\\DoAnTotNghiep\\MainProject\\Trewike\\Trewike\\wwwroot\\work_page\\assets\\css\\all-ie-only.css",
+      "PackagePath": "staticwebassets\\work_page\\assets\\css\\all-ie-only.css"
+    },
+    {
+      "Id": "D:\\visualstudio-code\\DoAnTotNghiep\\MainProject\\Trewike\\Trewike\\wwwroot\\work_page\\assets\\css\\animate.min.css",
+      "PackagePath": "staticwebassets\\work_page\\assets\\css\\animate.min.css"
+    },
+    {
+      "Id": "D:\\visualstudio-code\\DoAnTotNghiep\\MainProject\\Trewike\\Trewike\\wwwroot\\work_page\\assets\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\work_page\\assets\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "D:\\visualstudio-code\\DoAnTotNghiep\\MainProject\\Trewike\\Trewike\\wwwroot\\work_page\\assets\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\work_page\\assets\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "D:\\visualstudio-code\\DoAnTotNghiep\\MainProject\\Trewike\\Trewike\\wwwroot\\work_page\\assets\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\work_page\\assets\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "D:\\visualstudio-code\\DoAnTotNghiep\\MainProject\\Trewike\\Trewike\\wwwroot\\work_page\\assets\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\work_page\\assets\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "D:\\visualstudio-code\\DoAnTotNghiep\\MainProject\\Trewike\\Trewike\\wwwroot\\work_page\\assets\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\work_page\\assets\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "D:\\visualstudio-code\\DoAnTotNghiep\\MainProject\\Trewike\\Trewike\\wwwroot\\work_page\\assets\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\work_page\\assets\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "D:\\visualstudio-code\\DoAnTotNghiep\\MainProject\\Trewike\\Trewike\\wwwroot\\work_page\\assets\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\work_page\\assets\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "D:\\visualstudio-code\\DoAnTotNghiep\\MainProject\\Trewike\\Trewike\\wwwroot\\work_page\\assets\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\work_page\\assets\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\visualstudio-code\\DoAnTotNghiep\\MainProject\\Trewike\\Trewike\\wwwroot\\work_page\\assets\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\work_page\\assets\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "D:\\visualstudio-code\\DoAnTotNghiep\\MainProject\\Trewike\\Trewike\\wwwroot\\work_page\\assets\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\work_page\\assets\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "D:\\visualstudio-code\\DoAnTotNghiep\\MainProject\\Trewike\\Trewike\\wwwroot\\work_page\\assets\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\work_page\\assets\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "D:\\visualstudio-code\\DoAnTotNghiep\\MainProject\\Trewike\\Trewike\\wwwroot\\work_page\\assets\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\work_page\\assets\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "D:\\visualstudio-code\\DoAnTotNghiep\\MainProject\\Trewike\\Trewike\\wwwroot\\work_page\\assets\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\work_page\\assets\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "D:\\visualstudio-code\\DoAnTotNghiep\\MainProject\\Trewike\\Trewike\\wwwroot\\work_page\\assets\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\work_page\\assets\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "D:\\visualstudio-code\\DoAnTotNghiep\\MainProject\\Trewike\\Trewike\\wwwroot\\work_page\\assets\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\work_page\\assets\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "D:\\visualstudio-code\\DoAnTotNghiep\\MainProject\\Trewike\\Trewike\\wwwroot\\work_page\\assets\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\work_page\\assets\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\visualstudio-code\\DoAnTotNghiep\\MainProject\\Trewike\\Trewike\\wwwroot\\work_page\\assets\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\work_page\\assets\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "D:\\visualstudio-code\\DoAnTotNghiep\\MainProject\\Trewike\\Trewike\\wwwroot\\work_page\\assets\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\work_page\\assets\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "D:\\visualstudio-code\\DoAnTotNghiep\\MainProject\\Trewike\\Trewike\\wwwroot\\work_page\\assets\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\work_page\\assets\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "D:\\visualstudio-code\\DoAnTotNghiep\\MainProject\\Trewike\\Trewike\\wwwroot\\work_page\\assets\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\work_page\\assets\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "D:\\visualstudio-code\\DoAnTotNghiep\\MainProject\\Trewike\\Trewike\\wwwroot\\work_page\\assets\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\work_page\\assets\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "D:\\visualstudio-code\\DoAnTotNghiep\\MainProject\\Trewike\\Trewike\\wwwroot\\work_page\\assets\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\work_page\\assets\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "D:\\visualstudio-code\\DoAnTotNghiep\\MainProject\\Trewike\\Trewike\\wwwroot\\work_page\\assets\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\work_page\\assets\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "D:\\visualstudio-code\\DoAnTotNghiep\\MainProject\\Trewike\\Trewike\\wwwroot\\work_page\\assets\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\work_page\\assets\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\visualstudio-code\\DoAnTotNghiep\\MainProject\\Trewike\\Trewike\\wwwroot\\work_page\\assets\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\work_page\\assets\\css\\bootstrap.css"
+    },
+    {
+      "Id": "D:\\visualstudio-code\\DoAnTotNghiep\\MainProject\\Trewike\\Trewike\\wwwroot\\work_page\\assets\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\work_page\\assets\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "D:\\visualstudio-code\\DoAnTotNghiep\\MainProject\\Trewike\\Trewike\\wwwroot\\work_page\\assets\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\work_page\\assets\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "D:\\visualstudio-code\\DoAnTotNghiep\\MainProject\\Trewike\\Trewike\\wwwroot\\work_page\\assets\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\work_page\\assets\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "D:\\visualstudio-code\\DoAnTotNghiep\\MainProject\\Trewike\\Trewike\\wwwroot\\work_page\\assets\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\work_page\\assets\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "D:\\visualstudio-code\\DoAnTotNghiep\\MainProject\\Trewike\\Trewike\\wwwroot\\work_page\\assets\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\work_page\\assets\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "D:\\visualstudio-code\\DoAnTotNghiep\\MainProject\\Trewike\\Trewike\\wwwroot\\work_page\\assets\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\work_page\\assets\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "D:\\visualstudio-code\\DoAnTotNghiep\\MainProject\\Trewike\\Trewike\\wwwroot\\work_page\\assets\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\work_page\\assets\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\visualstudio-code\\DoAnTotNghiep\\MainProject\\Trewike\\Trewike\\wwwroot\\work_page\\assets\\css\\font-awesome.min.css",
+      "PackagePath": "staticwebassets\\work_page\\assets\\css\\font-awesome.min.css"
+    },
+    {
+      "Id": "D:\\visualstudio-code\\DoAnTotNghiep\\MainProject\\Trewike\\Trewike\\wwwroot\\work_page\\assets\\css\\jquery.bxslider.css",
+      "PackagePath": "staticwebassets\\work_page\\assets\\css\\jquery.bxslider.css"
+    },
+    {
+      "Id": "D:\\visualstudio-code\\DoAnTotNghiep\\MainProject\\Trewike\\Trewike\\wwwroot\\work_page\\assets\\css\\jquery.fancybox.css",
+      "PackagePath": "staticwebassets\\work_page\\assets\\css\\jquery.fancybox.css"
+    },
+    {
+      "Id": "D:\\visualstudio-code\\DoAnTotNghiep\\MainProject\\Trewike\\Trewike\\wwwroot\\work_page\\assets\\css\\jquery.mCustomScrollbar.min.css",
+      "PackagePath": "staticwebassets\\work_page\\assets\\css\\jquery.mCustomScrollbar.min.css"
+    },
+    {
+      "Id": "D:\\visualstudio-code\\DoAnTotNghiep\\MainProject\\Trewike\\Trewike\\wwwroot\\work_page\\assets\\css\\owl.carousel.min.css",
+      "PackagePath": "staticwebassets\\work_page\\assets\\css\\owl.carousel.min.css"
+    },
+    {
+      "Id": "D:\\visualstudio-code\\DoAnTotNghiep\\MainProject\\Trewike\\Trewike\\wwwroot\\work_page\\assets\\css\\responsive.css",
+      "PackagePath": "staticwebassets\\work_page\\assets\\css\\responsive.css"
+    },
+    {
+      "Id": "D:\\visualstudio-code\\DoAnTotNghiep\\MainProject\\Trewike\\Trewike\\wwwroot\\work_page\\assets\\css\\strock-icon.css",
+      "PackagePath": "staticwebassets\\work_page\\assets\\css\\strock-icon.css"
+    },
+    {
+      "Id": "D:\\visualstudio-code\\DoAnTotNghiep\\MainProject\\Trewike\\Trewike\\wwwroot\\work_page\\assets\\css\\style.css",
+      "PackagePath": "staticwebassets\\work_page\\assets\\css\\style.css"
+    },
+    {
+      "Id": "D:\\visualstudio-code\\DoAnTotNghiep\\MainProject\\Trewike\\Trewike\\wwwroot\\work_page\\assets\\css\\zebra-datepicker\\calendar-disabled.png",
+      "PackagePath": "staticwebassets\\work_page\\assets\\css\\zebra-datepicker\\calendar-disabled.png"
+    },
+    {
+      "Id": "D:\\visualstudio-code\\DoAnTotNghiep\\MainProject\\Trewike\\Trewike\\wwwroot\\work_page\\assets\\css\\zebra-datepicker\\calendar.png",
+      "PackagePath": "staticwebassets\\work_page\\assets\\css\\zebra-datepicker\\calendar.png"
+    },
+    {
+      "Id": "D:\\visualstudio-code\\DoAnTotNghiep\\MainProject\\Trewike\\Trewike\\wwwroot\\work_page\\assets\\css\\zebra-datepicker\\default.css",
+      "PackagePath": "staticwebassets\\work_page\\assets\\css\\zebra-datepicker\\default.css"
+    },
+    {
+      "Id": "D:\\visualstudio-code\\DoAnTotNghiep\\MainProject\\Trewike\\Trewike\\wwwroot\\work_page\\assets\\favicon\\favicon-16x16.png",
+      "PackagePath": "staticwebassets\\work_page\\assets\\favicon\\favicon-16x16.png"
+    },
+    {
+      "Id": "D:\\visualstudio-code\\DoAnTotNghiep\\MainProject\\Trewike\\Trewike\\wwwroot\\work_page\\assets\\fonts\\fontawesome-webfont-1.eot",
+      "PackagePath": "staticwebassets\\work_page\\assets\\fonts\\fontawesome-webfont-1.eot"
+    },
+    {
+      "Id": "D:\\visualstudio-code\\DoAnTotNghiep\\MainProject\\Trewike\\Trewike\\wwwroot\\work_page\\assets\\fonts\\fontawesome-webfont.eot",
+      "PackagePath": "staticwebassets\\work_page\\assets\\fonts\\fontawesome-webfont.eot"
+    },
+    {
+      "Id": "D:\\visualstudio-code\\DoAnTotNghiep\\MainProject\\Trewike\\Trewike\\wwwroot\\work_page\\assets\\fonts\\fontawesome-webfont.svg",
+      "PackagePath": "staticwebassets\\work_page\\assets\\fonts\\fontawesome-webfont.svg"
+    },
+    {
+      "Id": "D:\\visualstudio-code\\DoAnTotNghiep\\MainProject\\Trewike\\Trewike\\wwwroot\\work_page\\assets\\fonts\\fontawesome-webfont.ttf",
+      "PackagePath": "staticwebassets\\work_page\\assets\\fonts\\fontawesome-webfont.ttf"
+    },
+    {
+      "Id": "D:\\visualstudio-code\\DoAnTotNghiep\\MainProject\\Trewike\\Trewike\\wwwroot\\work_page\\assets\\fonts\\fontawesome-webfont.woff",
+      "PackagePath": "staticwebassets\\work_page\\assets\\fonts\\fontawesome-webfont.woff"
+    },
+    {
+      "Id": "D:\\visualstudio-code\\DoAnTotNghiep\\MainProject\\Trewike\\Trewike\\wwwroot\\work_page\\assets\\fonts\\fontawesome-webfont.woff2",
+      "PackagePath": "staticwebassets\\work_page\\assets\\fonts\\fontawesome-webfont.woff2"
+    },
+    {
+      "Id": "D:\\visualstudio-code\\DoAnTotNghiep\\MainProject\\Trewike\\Trewike\\wwwroot\\work_page\\assets\\fonts\\glyphicons-halflings-regular-1.eot",
+      "PackagePath": "staticwebassets\\work_page\\assets\\fonts\\glyphicons-halflings-regular-1.eot"
+    },
+    {
+      "Id": "D:\\visualstudio-code\\DoAnTotNghiep\\MainProject\\Trewike\\Trewike\\wwwroot\\work_page\\assets\\fonts\\glyphicons-halflings-regular.eot",
+      "PackagePath": "staticwebassets\\work_page\\assets\\fonts\\glyphicons-halflings-regular.eot"
+    },
+    {
+      "Id": "D:\\visualstudio-code\\DoAnTotNghiep\\MainProject\\Trewike\\Trewike\\wwwroot\\work_page\\assets\\fonts\\glyphicons-halflings-regular.svg",
+      "PackagePath": "staticwebassets\\work_page\\assets\\fonts\\glyphicons-halflings-regular.svg"
+    },
+    {
+      "Id": "D:\\visualstudio-code\\DoAnTotNghiep\\MainProject\\Trewike\\Trewike\\wwwroot\\work_page\\assets\\fonts\\glyphicons-halflings-regular.ttf",
+      "PackagePath": "staticwebassets\\work_page\\assets\\fonts\\glyphicons-halflings-regular.ttf"
+    },
+    {
+      "Id": "D:\\visualstudio-code\\DoAnTotNghiep\\MainProject\\Trewike\\Trewike\\wwwroot\\work_page\\assets\\fonts\\glyphicons-halflings-regular.woff",
+      "PackagePath": "staticwebassets\\work_page\\assets\\fonts\\glyphicons-halflings-regular.woff"
+    },
+    {
+      "Id": "D:\\visualstudio-code\\DoAnTotNghiep\\MainProject\\Trewike\\Trewike\\wwwroot\\work_page\\assets\\fonts\\glyphicons-halflings-regular.woff2",
+      "PackagePath": "staticwebassets\\work_page\\assets\\fonts\\glyphicons-halflings-regular.woff2"
+    },
+    {
+      "Id": "D:\\visualstudio-code\\DoAnTotNghiep\\MainProject\\Trewike\\Trewike\\wwwroot\\work_page\\assets\\images\\about\\1.jpg",
+      "PackagePath": "staticwebassets\\work_page\\assets\\images\\about\\1.jpg"
+    },
+    {
+      "Id": "D:\\visualstudio-code\\DoAnTotNghiep\\MainProject\\Trewike\\Trewike\\wwwroot\\work_page\\assets\\images\\about\\check.png",
+      "PackagePath": "staticwebassets\\work_page\\assets\\images\\about\\check.png"
+    },
+    {
+      "Id": "D:\\visualstudio-code\\DoAnTotNghiep\\MainProject\\Trewike\\Trewike\\wwwroot\\work_page\\assets\\images\\about\\video-overlay.jpg",
+      "PackagePath": "staticwebassets\\work_page\\assets\\images\\about\\video-overlay.jpg"
+    },
+    {
+      "Id": "D:\\visualstudio-code\\DoAnTotNghiep\\MainProject\\Trewike\\Trewike\\wwwroot\\work_page\\assets\\images\\about\\video1.jpg",
+      "PackagePath": "staticwebassets\\work_page\\assets\\images\\about\\video1.jpg"
+    },
+    {
+      "Id": "D:\\visualstudio-code\\DoAnTotNghiep\\MainProject\\Trewike\\Trewike\\wwwroot\\work_page\\assets\\images\\activities\\1.jpg",
+      "PackagePath": "staticwebassets\\work_page\\assets\\images\\activities\\1.jpg"
+    },
+    {
+      "Id": "D:\\visualstudio-code\\DoAnTotNghiep\\MainProject\\Trewike\\Trewike\\wwwroot\\work_page\\assets\\images\\activities\\10.jpg",
+      "PackagePath": "staticwebassets\\work_page\\assets\\images\\activities\\10.jpg"
+    },
+    {
+      "Id": "D:\\visualstudio-code\\DoAnTotNghiep\\MainProject\\Trewike\\Trewike\\wwwroot\\work_page\\assets\\images\\activities\\11.jpg",
+      "PackagePath": "staticwebassets\\work_page\\assets\\images\\activities\\11.jpg"
+    },
+    {
+      "Id": "D:\\visualstudio-code\\DoAnTotNghiep\\MainProject\\Trewike\\Trewike\\wwwroot\\work_page\\assets\\images\\activities\\2.jpg",
+      "PackagePath": "staticwebassets\\work_page\\assets\\images\\activities\\2.jpg"
+    },
+    {
+      "Id": "D:\\visualstudio-code\\DoAnTotNghiep\\MainProject\\Trewike\\Trewike\\wwwroot\\work_page\\assets\\images\\activities\\3.jpg",
+      "PackagePath": "staticwebassets\\work_page\\assets\\images\\activities\\3.jpg"
+    },
+    {
+      "Id": "D:\\visualstudio-code\\DoAnTotNghiep\\MainProject\\Trewike\\Trewike\\wwwroot\\work_page\\assets\\images\\activities\\4.jpg",
+      "PackagePath": "staticwebassets\\work_page\\assets\\images\\activities\\4.jpg"
+    },
+    {
+      "Id": "D:\\visualstudio-code\\DoAnTotNghiep\\MainProject\\Trewike\\Trewike\\wwwroot\\work_page\\assets\\images\\activities\\5.jpg",
+      "PackagePath": "staticwebassets\\work_page\\assets\\images\\activities\\5.jpg"
+    },
+    {
+      "Id": "D:\\visualstudio-code\\DoAnTotNghiep\\MainProject\\Trewike\\Trewike\\wwwroot\\work_page\\assets\\images\\activities\\6.jpg",
+      "PackagePath": "staticwebassets\\work_page\\assets\\images\\activities\\6.jpg"
+    },
+    {
+      "Id": "D:\\visualstudio-code\\DoAnTotNghiep\\MainProject\\Trewike\\Trewike\\wwwroot\\work_page\\assets\\images\\activities\\7.jpg",
+      "PackagePath": "staticwebassets\\work_page\\assets\\images\\activities\\7.jpg"
+    },
+    {
+      "Id": "D:\\visualstudio-code\\DoAnTotNghiep\\MainProject\\Trewike\\Trewike\\wwwroot\\work_page\\assets\\images\\activities\\8.jpg",
+      "PackagePath": "staticwebassets\\work_page\\assets\\images\\activities\\8.jpg"
+    },
+    {
+      "Id": "D:\\visualstudio-code\\DoAnTotNghiep\\MainProject\\Trewike\\Trewike\\wwwroot\\work_page\\assets\\images\\activities\\9.jpg",
+      "PackagePath": "staticwebassets\\work_page\\assets\\images\\activities\\9.jpg"
+    },
+    {
+      "Id": "D:\\visualstudio-code\\DoAnTotNghiep\\MainProject\\Trewike\\Trewike\\wwwroot\\work_page\\assets\\images\\aminities\\hover-bg.jpg",
+      "PackagePath": "staticwebassets\\work_page\\assets\\images\\aminities\\hover-bg.jpg"
+    },
+    {
+      "Id": "D:\\visualstudio-code\\DoAnTotNghiep\\MainProject\\Trewike\\Trewike\\wwwroot\\work_page\\assets\\images\\aminities\\icon-hover.png",
+      "PackagePath": "staticwebassets\\work_page\\assets\\images\\aminities\\icon-hover.png"
+    },
+    {
+      "Id": "D:\\visualstudio-code\\DoAnTotNghiep\\MainProject\\Trewike\\Trewike\\wwwroot\\work_page\\assets\\images\\aminities\\icon.png",
+      "PackagePath": "staticwebassets\\work_page\\assets\\images\\aminities\\icon.png"
+    },
+    {
+      "Id": "D:\\visualstudio-code\\DoAnTotNghiep\\MainProject\\Trewike\\Trewike\\wwwroot\\work_page\\assets\\images\\booking\\1.jpg",
+      "PackagePath": "staticwebassets\\work_page\\assets\\images\\booking\\1.jpg"
+    },
+    {
+      "Id": "D:\\visualstudio-code\\DoAnTotNghiep\\MainProject\\Trewike\\Trewike\\wwwroot\\work_page\\assets\\images\\bx-slider\\bx_loader.gif",
+      "PackagePath": "staticwebassets\\work_page\\assets\\images\\bx-slider\\bx_loader.gif"
+    },
+    {
+      "Id": "D:\\visualstudio-code\\DoAnTotNghiep\\MainProject\\Trewike\\Trewike\\wwwroot\\work_page\\assets\\images\\core-vanue.jpg",
+      "PackagePath": "staticwebassets\\work_page\\assets\\images\\core-vanue.jpg"
+    },
+    {
+      "Id": "D:\\visualstudio-code\\DoAnTotNghiep\\MainProject\\Trewike\\Trewike\\wwwroot\\work_page\\assets\\images\\counter\\1.jpg",
+      "PackagePath": "staticwebassets\\work_page\\assets\\images\\counter\\1.jpg"
+    },
+    {
+      "Id": "D:\\visualstudio-code\\DoAnTotNghiep\\MainProject\\Trewike\\Trewike\\wwwroot\\work_page\\assets\\images\\driving.png",
+      "PackagePath": "staticwebassets\\work_page\\assets\\images\\driving.png"
+    },
+    {
+      "Id": "D:\\visualstudio-code\\DoAnTotNghiep\\MainProject\\Trewike\\Trewike\\wwwroot\\work_page\\assets\\images\\event\\1.jpg",
+      "PackagePath": "staticwebassets\\work_page\\assets\\images\\event\\1.jpg"
+    },
+    {
+      "Id": "D:\\visualstudio-code\\DoAnTotNghiep\\MainProject\\Trewike\\Trewike\\wwwroot\\work_page\\assets\\images\\event\\2.jpg",
+      "PackagePath": "staticwebassets\\work_page\\assets\\images\\event\\2.jpg"
+    },
+    {
+      "Id": "D:\\visualstudio-code\\DoAnTotNghiep\\MainProject\\Trewike\\Trewike\\wwwroot\\work_page\\assets\\images\\event\\3.jpg",
+      "PackagePath": "staticwebassets\\work_page\\assets\\images\\event\\3.jpg"
+    },
+    {
+      "Id": "D:\\visualstudio-code\\DoAnTotNghiep\\MainProject\\Trewike\\Trewike\\wwwroot\\work_page\\assets\\images\\family-fun\\1.jpg",
+      "PackagePath": "staticwebassets\\work_page\\assets\\images\\family-fun\\1.jpg"
+    },
+    {
+      "Id": "D:\\visualstudio-code\\DoAnTotNghiep\\MainProject\\Trewike\\Trewike\\wwwroot\\work_page\\assets\\images\\family-fun\\10.jpg",
+      "PackagePath": "staticwebassets\\work_page\\assets\\images\\family-fun\\10.jpg"
+    },
+    {
+      "Id": "D:\\visualstudio-code\\DoAnTotNghiep\\MainProject\\Trewike\\Trewike\\wwwroot\\work_page\\assets\\images\\family-fun\\11.jpg",
+      "PackagePath": "staticwebassets\\work_page\\assets\\images\\family-fun\\11.jpg"
+    },
+    {
+      "Id": "D:\\visualstudio-code\\DoAnTotNghiep\\MainProject\\Trewike\\Trewike\\wwwroot\\work_page\\assets\\images\\family-fun\\12.jpg",
+      "PackagePath": "staticwebassets\\work_page\\assets\\images\\family-fun\\12.jpg"
+    },
+    {
+      "Id": "D:\\visualstudio-code\\DoAnTotNghiep\\MainProject\\Trewike\\Trewike\\wwwroot\\work_page\\assets\\images\\family-fun\\13.jpg",
+      "PackagePath": "staticwebassets\\work_page\\assets\\images\\family-fun\\13.jpg"
+    },
+    {
+      "Id": "D:\\visualstudio-code\\DoAnTotNghiep\\MainProject\\Trewike\\Trewike\\wwwroot\\work_page\\assets\\images\\family-fun\\2.jpg",
+      "PackagePath": "staticwebassets\\work_page\\assets\\images\\family-fun\\2.jpg"
+    },
+    {
+      "Id": "D:\\visualstudio-code\\DoAnTotNghiep\\MainProject\\Trewike\\Trewike\\wwwroot\\work_page\\assets\\images\\family-fun\\3.jpg",
+      "PackagePath": "staticwebassets\\work_page\\assets\\images\\family-fun\\3.jpg"
+    },
+    {
+      "Id": "D:\\visualstudio-code\\DoAnTotNghiep\\MainProject\\Trewike\\Trewike\\wwwroot\\work_page\\assets\\images\\family-fun\\4.jpg",
+      "PackagePath": "staticwebassets\\work_page\\assets\\images\\family-fun\\4.jpg"
+    },
+    {
+      "Id": "D:\\visualstudio-code\\DoAnTotNghiep\\MainProject\\Trewike\\Trewike\\wwwroot\\work_page\\assets\\images\\family-fun\\5.jpg",
+      "PackagePath": "staticwebassets\\work_page\\assets\\images\\family-fun\\5.jpg"
+    },
+    {
+      "Id": "D:\\visualstudio-code\\DoAnTotNghiep\\MainProject\\Trewike\\Trewike\\wwwroot\\work_page\\assets\\images\\family-fun\\6.jpg",
+      "PackagePath": "staticwebassets\\work_page\\assets\\images\\family-fun\\6.jpg"
+    },
+    {
+      "Id": "D:\\visualstudio-code\\DoAnTotNghiep\\MainProject\\Trewike\\Trewike\\wwwroot\\work_page\\assets\\images\\family-fun\\7.jpg",
+      "PackagePath": "staticwebassets\\work_page\\assets\\images\\family-fun\\7.jpg"
+    },
+    {
+      "Id": "D:\\visualstudio-code\\DoAnTotNghiep\\MainProject\\Trewike\\Trewike\\wwwroot\\work_page\\assets\\images\\family-fun\\8.jpg",
+      "PackagePath": "staticwebassets\\work_page\\assets\\images\\family-fun\\8.jpg"
+    },
+    {
+      "Id": "D:\\visualstudio-code\\DoAnTotNghiep\\MainProject\\Trewike\\Trewike\\wwwroot\\work_page\\assets\\images\\family-fun\\9.jpg",
+      "PackagePath": "staticwebassets\\work_page\\assets\\images\\family-fun\\9.jpg"
+    },
+    {
+      "Id": "D:\\visualstudio-code\\DoAnTotNghiep\\MainProject\\Trewike\\Trewike\\wwwroot\\work_page\\assets\\images\\fancybox\\blank.gif",
+      "PackagePath": "staticwebassets\\work_page\\assets\\images\\fancybox\\blank.gif"
+    },
+    {
+      "Id": "D:\\visualstudio-code\\DoAnTotNghiep\\MainProject\\Trewike\\Trewike\\wwwroot\\work_page\\assets\\images\\fancybox\\fancybox_loading.gif",
+      "PackagePath": "staticwebassets\\work_page\\assets\\images\\fancybox\\fancybox_loading.gif"
+    },
+    {
+      "Id": "D:\\visualstudio-code\\DoAnTotNghiep\\MainProject\\Trewike\\Trewike\\wwwroot\\work_page\\assets\\images\\fancybox\\fancybox_loading@2x.gif",
+      "PackagePath": "staticwebassets\\work_page\\assets\\images\\fancybox\\fancybox_loading@2x.gif"
+    },
+    {
+      "Id": "D:\\visualstudio-code\\DoAnTotNghiep\\MainProject\\Trewike\\Trewike\\wwwroot\\work_page\\assets\\images\\fancybox\\fancybox_overlay.png",
+      "PackagePath": "staticwebassets\\work_page\\assets\\images\\fancybox\\fancybox_overlay.png"
+    },
+    {
+      "Id": "D:\\visualstudio-code\\DoAnTotNghiep\\MainProject\\Trewike\\Trewike\\wwwroot\\work_page\\assets\\images\\fancybox\\fancybox_sprite.png",
+      "PackagePath": "staticwebassets\\work_page\\assets\\images\\fancybox\\fancybox_sprite.png"
+    },
+    {
+      "Id": "D:\\visualstudio-code\\DoAnTotNghiep\\MainProject\\Trewike\\Trewike\\wwwroot\\work_page\\assets\\images\\fancybox\\fancybox_sprite@2x.png",
+      "PackagePath": "staticwebassets\\work_page\\assets\\images\\fancybox\\fancybox_sprite@2x.png"
+    },
+    {
+      "Id": "D:\\visualstudio-code\\DoAnTotNghiep\\MainProject\\Trewike\\Trewike\\wwwroot\\work_page\\assets\\images\\footer\\1.jpg",
+      "PackagePath": "staticwebassets\\work_page\\assets\\images\\footer\\1.jpg"
+    },
+    {
+      "Id": "D:\\visualstudio-code\\DoAnTotNghiep\\MainProject\\Trewike\\Trewike\\wwwroot\\work_page\\assets\\images\\footer\\logo.png",
+      "PackagePath": "staticwebassets\\work_page\\assets\\images\\footer\\logo.png"
+    },
+    {
+      "Id": "D:\\visualstudio-code\\DoAnTotNghiep\\MainProject\\Trewike\\Trewike\\wwwroot\\work_page\\assets\\images\\gallery-thumb\\1.jpg",
+      "PackagePath": "staticwebassets\\work_page\\assets\\images\\gallery-thumb\\1.jpg"
+    },
+    {
+      "Id": "D:\\visualstudio-code\\DoAnTotNghiep\\MainProject\\Trewike\\Trewike\\wwwroot\\work_page\\assets\\images\\gallery-thumb\\2.jpg",
+      "PackagePath": "staticwebassets\\work_page\\assets\\images\\gallery-thumb\\2.jpg"
+    },
+    {
+      "Id": "D:\\visualstudio-code\\DoAnTotNghiep\\MainProject\\Trewike\\Trewike\\wwwroot\\work_page\\assets\\images\\gallery-thumb\\3.jpg",
+      "PackagePath": "staticwebassets\\work_page\\assets\\images\\gallery-thumb\\3.jpg"
+    },
+    {
+      "Id": "D:\\visualstudio-code\\DoAnTotNghiep\\MainProject\\Trewike\\Trewike\\wwwroot\\work_page\\assets\\images\\gallery-thumb\\4.jpg",
+      "PackagePath": "staticwebassets\\work_page\\assets\\images\\gallery-thumb\\4.jpg"
+    },
+    {
+      "Id": "D:\\visualstudio-code\\DoAnTotNghiep\\MainProject\\Trewike\\Trewike\\wwwroot\\work_page\\assets\\images\\gallery-thumb\\5.jpg",
+      "PackagePath": "staticwebassets\\work_page\\assets\\images\\gallery-thumb\\5.jpg"
+    },
+    {
+      "Id": "D:\\visualstudio-code\\DoAnTotNghiep\\MainProject\\Trewike\\Trewike\\wwwroot\\work_page\\assets\\images\\gallery-thumb\\6.jpg",
+      "PackagePath": "staticwebassets\\work_page\\assets\\images\\gallery-thumb\\6.jpg"
+    },
+    {
+      "Id": "D:\\visualstudio-code\\DoAnTotNghiep\\MainProject\\Trewike\\Trewike\\wwwroot\\work_page\\assets\\images\\gallery-thumb\\7.jpg",
+      "PackagePath": "staticwebassets\\work_page\\assets\\images\\gallery-thumb\\7.jpg"
+    },
+    {
+      "Id": "D:\\visualstudio-code\\DoAnTotNghiep\\MainProject\\Trewike\\Trewike\\wwwroot\\work_page\\assets\\images\\gallery-thumb\\8.jpg",
+      "PackagePath": "staticwebassets\\work_page\\assets\\images\\gallery-thumb\\8.jpg"
+    },
+    {
+      "Id": "D:\\visualstudio-code\\DoAnTotNghiep\\MainProject\\Trewike\\Trewike\\wwwroot\\work_page\\assets\\images\\gallery-two\\1.jpg",
+      "PackagePath": "staticwebassets\\work_page\\assets\\images\\gallery-two\\1.jpg"
+    },
+    {
+      "Id": "D:\\visualstudio-code\\DoAnTotNghiep\\MainProject\\Trewike\\Trewike\\wwwroot\\work_page\\assets\\images\\gallery-two\\2.jpg",
+      "PackagePath": "staticwebassets\\work_page\\assets\\images\\gallery-two\\2.jpg"
+    },
+    {
+      "Id": "D:\\visualstudio-code\\DoAnTotNghiep\\MainProject\\Trewike\\Trewike\\wwwroot\\work_page\\assets\\images\\gallery-two\\3.jpg",
+      "PackagePath": "staticwebassets\\work_page\\assets\\images\\gallery-two\\3.jpg"
+    },
+    {
+      "Id": "D:\\visualstudio-code\\DoAnTotNghiep\\MainProject\\Trewike\\Trewike\\wwwroot\\work_page\\assets\\images\\gallery-two\\4.jpg",
+      "PackagePath": "staticwebassets\\work_page\\assets\\images\\gallery-two\\4.jpg"
+    },
+    {
+      "Id": "D:\\visualstudio-code\\DoAnTotNghiep\\MainProject\\Trewike\\Trewike\\wwwroot\\work_page\\assets\\images\\gallery-two\\5.jpg",
+      "PackagePath": "staticwebassets\\work_page\\assets\\images\\gallery-two\\5.jpg"
+    },
+    {
+      "Id": "D:\\visualstudio-code\\DoAnTotNghiep\\MainProject\\Trewike\\Trewike\\wwwroot\\work_page\\assets\\images\\gallery-two\\bg.jpg",
+      "PackagePath": "staticwebassets\\work_page\\assets\\images\\gallery-two\\bg.jpg"
+    },
+    {
+      "Id": "D:\\visualstudio-code\\DoAnTotNghiep\\MainProject\\Trewike\\Trewike\\wwwroot\\work_page\\assets\\images\\gallery\\1.jpg",
+      "PackagePath": "staticwebassets\\work_page\\assets\\images\\gallery\\1.jpg"
+    },
+    {
+      "Id": "D:\\visualstudio-code\\DoAnTotNghiep\\MainProject\\Trewike\\Trewike\\wwwroot\\work_page\\assets\\images\\gallery\\2.jpg",
+      "PackagePath": "staticwebassets\\work_page\\assets\\images\\gallery\\2.jpg"
+    },
+    {
+      "Id": "D:\\visualstudio-code\\DoAnTotNghiep\\MainProject\\Trewike\\Trewike\\wwwroot\\work_page\\assets\\images\\gallery\\3.jpg",
+      "PackagePath": "staticwebassets\\work_page\\assets\\images\\gallery\\3.jpg"
+    },
+    {
+      "Id": "D:\\visualstudio-code\\DoAnTotNghiep\\MainProject\\Trewike\\Trewike\\wwwroot\\work_page\\assets\\images\\gallery\\4.jpg",
+      "PackagePath": "staticwebassets\\work_page\\assets\\images\\gallery\\4.jpg"
+    },
+    {
+      "Id": "D:\\visualstudio-code\\DoAnTotNghiep\\MainProject\\Trewike\\Trewike\\wwwroot\\work_page\\assets\\images\\gallery\\5.jpg",
+      "PackagePath": "staticwebassets\\work_page\\assets\\images\\gallery\\5.jpg"
+    },
+    {
+      "Id": "D:\\visualstudio-code\\DoAnTotNghiep\\MainProject\\Trewike\\Trewike\\wwwroot\\work_page\\assets\\images\\gallery\\6.jpg",
+      "PackagePath": "staticwebassets\\work_page\\assets\\images\\gallery\\6.jpg"
+    },
+    {
+      "Id": "D:\\visualstudio-code\\DoAnTotNghiep\\MainProject\\Trewike\\Trewike\\wwwroot\\work_page\\assets\\images\\gallery\\7.jpg",
+      "PackagePath": "staticwebassets\\work_page\\assets\\images\\gallery\\7.jpg"
+    },
+    {
+      "Id": "D:\\visualstudio-code\\DoAnTotNghiep\\MainProject\\Trewike\\Trewike\\wwwroot\\work_page\\assets\\images\\header\\logo.png",
+      "PackagePath": "staticwebassets\\work_page\\assets\\images\\header\\logo.png"
+    },
+    {
+      "Id": "D:\\visualstudio-code\\DoAnTotNghiep\\MainProject\\Trewike\\Trewike\\wwwroot\\work_page\\assets\\images\\header\\logo2.png",
+      "PackagePath": "staticwebassets\\work_page\\assets\\images\\header\\logo2.png"
+    },
+    {
+      "Id": "D:\\visualstudio-code\\DoAnTotNghiep\\MainProject\\Trewike\\Trewike\\wwwroot\\work_page\\assets\\images\\icon\\lr-home.png",
+      "PackagePath": "staticwebassets\\work_page\\assets\\images\\icon\\lr-home.png"
+    },
+    {
+      "Id": "D:\\visualstudio-code\\DoAnTotNghiep\\MainProject\\Trewike\\Trewike\\wwwroot\\work_page\\assets\\images\\inner-header2.jpg",
+      "PackagePath": "staticwebassets\\work_page\\assets\\images\\inner-header2.jpg"
+    },
+    {
+      "Id": "D:\\visualstudio-code\\DoAnTotNghiep\\MainProject\\Trewike\\Trewike\\wwwroot\\work_page\\assets\\images\\inner-header\\1.jpg",
+      "PackagePath": "staticwebassets\\work_page\\assets\\images\\inner-header\\1.jpg"
+    },
+    {
+      "Id": "D:\\visualstudio-code\\DoAnTotNghiep\\MainProject\\Trewike\\Trewike\\wwwroot\\work_page\\assets\\images\\know-about-us\\1.jpg",
+      "PackagePath": "staticwebassets\\work_page\\assets\\images\\know-about-us\\1.jpg"
+    },
+    {
+      "Id": "D:\\visualstudio-code\\DoAnTotNghiep\\MainProject\\Trewike\\Trewike\\wwwroot\\work_page\\assets\\images\\know-about-us\\bg.jpg",
+      "PackagePath": "staticwebassets\\work_page\\assets\\images\\know-about-us\\bg.jpg"
+    },
+    {
+      "Id": "D:\\visualstudio-code\\DoAnTotNghiep\\MainProject\\Trewike\\Trewike\\wwwroot\\work_page\\assets\\images\\know-about-us\\icon1.png",
+      "PackagePath": "staticwebassets\\work_page\\assets\\images\\know-about-us\\icon1.png"
+    },
+    {
+      "Id": "D:\\visualstudio-code\\DoAnTotNghiep\\MainProject\\Trewike\\Trewike\\wwwroot\\work_page\\assets\\images\\know-about-us\\icon2.png",
+      "PackagePath": "staticwebassets\\work_page\\assets\\images\\know-about-us\\icon2.png"
+    },
+    {
+      "Id": "D:\\visualstudio-code\\DoAnTotNghiep\\MainProject\\Trewike\\Trewike\\wwwroot\\work_page\\assets\\images\\know-about-us\\icon3.png",
+      "PackagePath": "staticwebassets\\work_page\\assets\\images\\know-about-us\\icon3.png"
+    },
+    {
+      "Id": "D:\\visualstudio-code\\DoAnTotNghiep\\MainProject\\Trewike\\Trewike\\wwwroot\\work_page\\assets\\images\\mountain-tracking\\1.png",
+      "PackagePath": "staticwebassets\\work_page\\assets\\images\\mountain-tracking\\1.png"
+    },
+    {
+      "Id": "D:\\visualstudio-code\\DoAnTotNghiep\\MainProject\\Trewike\\Trewike\\wwwroot\\work_page\\assets\\images\\mountain-tracking\\2.png",
+      "PackagePath": "staticwebassets\\work_page\\assets\\images\\mountain-tracking\\2.png"
+    },
+    {
+      "Id": "D:\\visualstudio-code\\DoAnTotNghiep\\MainProject\\Trewike\\Trewike\\wwwroot\\work_page\\assets\\images\\mountain-tracking\\3.png",
+      "PackagePath": "staticwebassets\\work_page\\assets\\images\\mountain-tracking\\3.png"
+    },
+    {
+      "Id": "D:\\visualstudio-code\\DoAnTotNghiep\\MainProject\\Trewike\\Trewike\\wwwroot\\work_page\\assets\\images\\mountain-tracking\\4.png",
+      "PackagePath": "staticwebassets\\work_page\\assets\\images\\mountain-tracking\\4.png"
+    },
+    {
+      "Id": "D:\\visualstudio-code\\DoAnTotNghiep\\MainProject\\Trewike\\Trewike\\wwwroot\\work_page\\assets\\images\\mountain-tracking\\5.png",
+      "PackagePath": "staticwebassets\\work_page\\assets\\images\\mountain-tracking\\5.png"
+    },
+    {
+      "Id": "D:\\visualstudio-code\\DoAnTotNghiep\\MainProject\\Trewike\\Trewike\\wwwroot\\work_page\\assets\\images\\mountain-tracking\\6.png",
+      "PackagePath": "staticwebassets\\work_page\\assets\\images\\mountain-tracking\\6.png"
+    },
+    {
+      "Id": "D:\\visualstudio-code\\DoAnTotNghiep\\MainProject\\Trewike\\Trewike\\wwwroot\\work_page\\assets\\images\\nasiruddin.com\\grid-room\\1.jpg",
+      "PackagePath": "staticwebassets\\work_page\\assets\\images\\nasiruddin.com\\grid-room\\1.jpg"
+    },
+    {
+      "Id": "D:\\visualstudio-code\\DoAnTotNghiep\\MainProject\\Trewike\\Trewike\\wwwroot\\work_page\\assets\\images\\nasiruddin.com\\grid-room\\2.jpg",
+      "PackagePath": "staticwebassets\\work_page\\assets\\images\\nasiruddin.com\\grid-room\\2.jpg"
+    },
+    {
+      "Id": "D:\\visualstudio-code\\DoAnTotNghiep\\MainProject\\Trewike\\Trewike\\wwwroot\\work_page\\assets\\images\\nasiruddin.com\\grid-room\\3.jpg",
+      "PackagePath": "staticwebassets\\work_page\\assets\\images\\nasiruddin.com\\grid-room\\3.jpg"
+    },
+    {
+      "Id": "D:\\visualstudio-code\\DoAnTotNghiep\\MainProject\\Trewike\\Trewike\\wwwroot\\work_page\\assets\\images\\news\\1.jpg",
+      "PackagePath": "staticwebassets\\work_page\\assets\\images\\news\\1.jpg"
+    },
+    {
+      "Id": "D:\\visualstudio-code\\DoAnTotNghiep\\MainProject\\Trewike\\Trewike\\wwwroot\\work_page\\assets\\images\\news\\2.jpg",
+      "PackagePath": "staticwebassets\\work_page\\assets\\images\\news\\2.jpg"
+    },
+    {
+      "Id": "D:\\visualstudio-code\\DoAnTotNghiep\\MainProject\\Trewike\\Trewike\\wwwroot\\work_page\\assets\\images\\news\\3.jpg",
+      "PackagePath": "staticwebassets\\work_page\\assets\\images\\news\\3.jpg"
+    },
+    {
+      "Id": "D:\\visualstudio-code\\DoAnTotNghiep\\MainProject\\Trewike\\Trewike\\wwwroot\\work_page\\assets\\images\\news\\4.jpg",
+      "PackagePath": "staticwebassets\\work_page\\assets\\images\\news\\4.jpg"
+    },
+    {
+      "Id": "D:\\visualstudio-code\\DoAnTotNghiep\\MainProject\\Trewike\\Trewike\\wwwroot\\work_page\\assets\\images\\news\\5.jpg",
+      "PackagePath": "staticwebassets\\work_page\\assets\\images\\news\\5.jpg"
+    },
+    {
+      "Id": "D:\\visualstudio-code\\DoAnTotNghiep\\MainProject\\Trewike\\Trewike\\wwwroot\\work_page\\assets\\images\\news\\6.jpg",
+      "PackagePath": "staticwebassets\\work_page\\assets\\images\\news\\6.jpg"
+    },
+    {
+      "Id": "D:\\visualstudio-code\\DoAnTotNghiep\\MainProject\\Trewike\\Trewike\\wwwroot\\work_page\\assets\\images\\news\\7.jpg",
+      "PackagePath": "staticwebassets\\work_page\\assets\\images\\news\\7.jpg"
+    },
+    {
+      "Id": "D:\\visualstudio-code\\DoAnTotNghiep\\MainProject\\Trewike\\Trewike\\wwwroot\\work_page\\assets\\images\\news\\coments1.jpg",
+      "PackagePath": "staticwebassets\\work_page\\assets\\images\\news\\coments1.jpg"
+    },
+    {
+      "Id": "D:\\visualstudio-code\\DoAnTotNghiep\\MainProject\\Trewike\\Trewike\\wwwroot\\work_page\\assets\\images\\news\\coments2.jpg",
+      "PackagePath": "staticwebassets\\work_page\\assets\\images\\news\\coments2.jpg"
+    },
+    {
+      "Id": "D:\\visualstudio-code\\DoAnTotNghiep\\MainProject\\Trewike\\Trewike\\wwwroot\\work_page\\assets\\images\\news\\coments3.jpg",
+      "PackagePath": "staticwebassets\\work_page\\assets\\images\\news\\coments3.jpg"
+    },
+    {
+      "Id": "D:\\visualstudio-code\\DoAnTotNghiep\\MainProject\\Trewike\\Trewike\\wwwroot\\work_page\\assets\\images\\offer\\1.jpg",
+      "PackagePath": "staticwebassets\\work_page\\assets\\images\\offer\\1.jpg"
+    },
+    {
+      "Id": "D:\\visualstudio-code\\DoAnTotNghiep\\MainProject\\Trewike\\Trewike\\wwwroot\\work_page\\assets\\images\\offer\\2.jpg",
+      "PackagePath": "staticwebassets\\work_page\\assets\\images\\offer\\2.jpg"
+    },
+    {
+      "Id": "D:\\visualstudio-code\\DoAnTotNghiep\\MainProject\\Trewike\\Trewike\\wwwroot\\work_page\\assets\\images\\offer\\3.jpg",
+      "PackagePath": "staticwebassets\\work_page\\assets\\images\\offer\\3.jpg"
+    },
+    {
+      "Id": "D:\\visualstudio-code\\DoAnTotNghiep\\MainProject\\Trewike\\Trewike\\wwwroot\\work_page\\assets\\images\\offer\\4.jpg",
+      "PackagePath": "staticwebassets\\work_page\\assets\\images\\offer\\4.jpg"
+    },
+    {
+      "Id": "D:\\visualstudio-code\\DoAnTotNghiep\\MainProject\\Trewike\\Trewike\\wwwroot\\work_page\\assets\\images\\offer\\5.jpg",
+      "PackagePath": "staticwebassets\\work_page\\assets\\images\\offer\\5.jpg"
+    },
+    {
+      "Id": "D:\\visualstudio-code\\DoAnTotNghiep\\MainProject\\Trewike\\Trewike\\wwwroot\\work_page\\assets\\images\\our-resort-values\\1.jpg",
+      "PackagePath": "staticwebassets\\work_page\\assets\\images\\our-resort-values\\1.jpg"
+    },
+    {
+      "Id": "D:\\visualstudio-code\\DoAnTotNghiep\\MainProject\\Trewike\\Trewike\\wwwroot\\work_page\\assets\\images\\our-resort-values\\2.jpg",
+      "PackagePath": "staticwebassets\\work_page\\assets\\images\\our-resort-values\\2.jpg"
+    },
+    {
+      "Id": "D:\\visualstudio-code\\DoAnTotNghiep\\MainProject\\Trewike\\Trewike\\wwwroot\\work_page\\assets\\images\\our-resort-values\\3.jpg",
+      "PackagePath": "staticwebassets\\work_page\\assets\\images\\our-resort-values\\3.jpg"
+    },
+    {
+      "Id": "D:\\visualstudio-code\\DoAnTotNghiep\\MainProject\\Trewike\\Trewike\\wwwroot\\work_page\\assets\\images\\our-resort\\1.jpg",
+      "PackagePath": "staticwebassets\\work_page\\assets\\images\\our-resort\\1.jpg"
+    },
+    {
+      "Id": "D:\\visualstudio-code\\DoAnTotNghiep\\MainProject\\Trewike\\Trewike\\wwwroot\\work_page\\assets\\images\\our-resort\\2.jpg",
+      "PackagePath": "staticwebassets\\work_page\\assets\\images\\our-resort\\2.jpg"
+    },
+    {
+      "Id": "D:\\visualstudio-code\\DoAnTotNghiep\\MainProject\\Trewike\\Trewike\\wwwroot\\work_page\\assets\\images\\our-resort\\3.jpg",
+      "PackagePath": "staticwebassets\\work_page\\assets\\images\\our-resort\\3.jpg"
+    },
+    {
+      "Id": "D:\\visualstudio-code\\DoAnTotNghiep\\MainProject\\Trewike\\Trewike\\wwwroot\\work_page\\assets\\images\\our-resort\\border.png",
+      "PackagePath": "staticwebassets\\work_page\\assets\\images\\our-resort\\border.png"
+    },
+    {
+      "Id": "D:\\visualstudio-code\\DoAnTotNghiep\\MainProject\\Trewike\\Trewike\\wwwroot\\work_page\\assets\\images\\our-resort\\icon.png",
+      "PackagePath": "staticwebassets\\work_page\\assets\\images\\our-resort\\icon.png"
+    },
+    {
+      "Id": "D:\\visualstudio-code\\DoAnTotNghiep\\MainProject\\Trewike\\Trewike\\wwwroot\\work_page\\assets\\images\\p-1.jpg",
+      "PackagePath": "staticwebassets\\work_page\\assets\\images\\p-1.jpg"
+    },
+    {
+      "Id": "D:\\visualstudio-code\\DoAnTotNghiep\\MainProject\\Trewike\\Trewike\\wwwroot\\work_page\\assets\\images\\p-2.jpg",
+      "PackagePath": "staticwebassets\\work_page\\assets\\images\\p-2.jpg"
+    },
+    {
+      "Id": "D:\\visualstudio-code\\DoAnTotNghiep\\MainProject\\Trewike\\Trewike\\wwwroot\\work_page\\assets\\images\\p-3.jpg",
+      "PackagePath": "staticwebassets\\work_page\\assets\\images\\p-3.jpg"
+    },
+    {
+      "Id": "D:\\visualstudio-code\\DoAnTotNghiep\\MainProject\\Trewike\\Trewike\\wwwroot\\work_page\\assets\\images\\p-4.jpg",
+      "PackagePath": "staticwebassets\\work_page\\assets\\images\\p-4.jpg"
+    },
+    {
+      "Id": "D:\\visualstudio-code\\DoAnTotNghiep\\MainProject\\Trewike\\Trewike\\wwwroot\\work_page\\assets\\images\\packages\\1.jpg",
+      "PackagePath": "staticwebassets\\work_page\\assets\\images\\packages\\1.jpg"
+    },
+    {
+      "Id": "D:\\visualstudio-code\\DoAnTotNghiep\\MainProject\\Trewike\\Trewike\\wwwroot\\work_page\\assets\\images\\packages\\2.jpg",
+      "PackagePath": "staticwebassets\\work_page\\assets\\images\\packages\\2.jpg"
+    },
+    {
+      "Id": "D:\\visualstudio-code\\DoAnTotNghiep\\MainProject\\Trewike\\Trewike\\wwwroot\\work_page\\assets\\images\\packages\\3.jpg",
+      "PackagePath": "staticwebassets\\work_page\\assets\\images\\packages\\3.jpg"
+    },
+    {
+      "Id": "D:\\visualstudio-code\\DoAnTotNghiep\\MainProject\\Trewike\\Trewike\\wwwroot\\work_page\\assets\\images\\packages\\4.jpg",
+      "PackagePath": "staticwebassets\\work_page\\assets\\images\\packages\\4.jpg"
+    },
+    {
+      "Id": "D:\\visualstudio-code\\DoAnTotNghiep\\MainProject\\Trewike\\Trewike\\wwwroot\\work_page\\assets\\images\\restaurant\\1.jpg",
+      "PackagePath": "staticwebassets\\work_page\\assets\\images\\restaurant\\1.jpg"
+    },
+    {
+      "Id": "D:\\visualstudio-code\\DoAnTotNghiep\\MainProject\\Trewike\\Trewike\\wwwroot\\work_page\\assets\\images\\restaurant\\2.jpg",
+      "PackagePath": "staticwebassets\\work_page\\assets\\images\\restaurant\\2.jpg"
+    },
+    {
+      "Id": "D:\\visualstudio-code\\DoAnTotNghiep\\MainProject\\Trewike\\Trewike\\wwwroot\\work_page\\assets\\images\\restaurant\\3.jpg",
+      "PackagePath": "staticwebassets\\work_page\\assets\\images\\restaurant\\3.jpg"
+    },
+    {
+      "Id": "D:\\visualstudio-code\\DoAnTotNghiep\\MainProject\\Trewike\\Trewike\\wwwroot\\work_page\\assets\\images\\restaurant\\4.jpg",
+      "PackagePath": "staticwebassets\\work_page\\assets\\images\\restaurant\\4.jpg"
+    },
+    {
+      "Id": "D:\\visualstudio-code\\DoAnTotNghiep\\MainProject\\Trewike\\Trewike\\wwwroot\\work_page\\assets\\images\\restaurant\\5.jpg",
+      "PackagePath": "staticwebassets\\work_page\\assets\\images\\restaurant\\5.jpg"
+    },
+    {
+      "Id": "D:\\visualstudio-code\\DoAnTotNghiep\\MainProject\\Trewike\\Trewike\\wwwroot\\work_page\\assets\\images\\restaurant\\6.jpg",
+      "PackagePath": "staticwebassets\\work_page\\assets\\images\\restaurant\\6.jpg"
+    },
+    {
+      "Id": "D:\\visualstudio-code\\DoAnTotNghiep\\MainProject\\Trewike\\Trewike\\wwwroot\\work_page\\assets\\images\\restaurant\\7bg.jpg",
+      "PackagePath": "staticwebassets\\work_page\\assets\\images\\restaurant\\7bg.jpg"
+    },
+    {
+      "Id": "D:\\visualstudio-code\\DoAnTotNghiep\\MainProject\\Trewike\\Trewike\\wwwroot\\work_page\\assets\\images\\room\\1.jpg",
+      "PackagePath": "staticwebassets\\work_page\\assets\\images\\room\\1.jpg"
+    },
+    {
+      "Id": "D:\\visualstudio-code\\DoAnTotNghiep\\MainProject\\Trewike\\Trewike\\wwwroot\\work_page\\assets\\images\\room\\2.jpg",
+      "PackagePath": "staticwebassets\\work_page\\assets\\images\\room\\2.jpg"
+    },
+    {
+      "Id": "D:\\visualstudio-code\\DoAnTotNghiep\\MainProject\\Trewike\\Trewike\\wwwroot\\work_page\\assets\\images\\room\\3.jpg",
+      "PackagePath": "staticwebassets\\work_page\\assets\\images\\room\\3.jpg"
+    },
+    {
+      "Id": "D:\\visualstudio-code\\DoAnTotNghiep\\MainProject\\Trewike\\Trewike\\wwwroot\\work_page\\assets\\images\\room\\4.jpg",
+      "PackagePath": "staticwebassets\\work_page\\assets\\images\\room\\4.jpg"
+    },
+    {
+      "Id": "D:\\visualstudio-code\\DoAnTotNghiep\\MainProject\\Trewike\\Trewike\\wwwroot\\work_page\\assets\\images\\room\\5.jpg",
+      "PackagePath": "staticwebassets\\work_page\\assets\\images\\room\\5.jpg"
+    },
+    {
+      "Id": "D:\\visualstudio-code\\DoAnTotNghiep\\MainProject\\Trewike\\Trewike\\wwwroot\\work_page\\assets\\images\\room\\6.jpg",
+      "PackagePath": "staticwebassets\\work_page\\assets\\images\\room\\6.jpg"
+    },
+    {
+      "Id": "D:\\visualstudio-code\\DoAnTotNghiep\\MainProject\\Trewike\\Trewike\\wwwroot\\work_page\\assets\\images\\room\\7.jpg",
+      "PackagePath": "staticwebassets\\work_page\\assets\\images\\room\\7.jpg"
+    },
+    {
+      "Id": "D:\\visualstudio-code\\DoAnTotNghiep\\MainProject\\Trewike\\Trewike\\wwwroot\\work_page\\assets\\images\\room\\8.jpg",
+      "PackagePath": "staticwebassets\\work_page\\assets\\images\\room\\8.jpg"
+    },
+    {
+      "Id": "D:\\visualstudio-code\\DoAnTotNghiep\\MainProject\\Trewike\\Trewike\\wwwroot\\work_page\\assets\\images\\rooms-suits.jpg",
+      "PackagePath": "staticwebassets\\work_page\\assets\\images\\rooms-suits.jpg"
+    },
+    {
+      "Id": "D:\\visualstudio-code\\DoAnTotNghiep\\MainProject\\Trewike\\Trewike\\wwwroot\\work_page\\assets\\images\\rooms\\1.jpg",
+      "PackagePath": "staticwebassets\\work_page\\assets\\images\\rooms\\1.jpg"
+    },
+    {
+      "Id": "D:\\visualstudio-code\\DoAnTotNghiep\\MainProject\\Trewike\\Trewike\\wwwroot\\work_page\\assets\\images\\rooms\\10.jpg",
+      "PackagePath": "staticwebassets\\work_page\\assets\\images\\rooms\\10.jpg"
+    },
+    {
+      "Id": "D:\\visualstudio-code\\DoAnTotNghiep\\MainProject\\Trewike\\Trewike\\wwwroot\\work_page\\assets\\images\\rooms\\11.jpg",
+      "PackagePath": "staticwebassets\\work_page\\assets\\images\\rooms\\11.jpg"
+    },
+    {
+      "Id": "D:\\visualstudio-code\\DoAnTotNghiep\\MainProject\\Trewike\\Trewike\\wwwroot\\work_page\\assets\\images\\rooms\\2.jpg",
+      "PackagePath": "staticwebassets\\work_page\\assets\\images\\rooms\\2.jpg"
+    },
+    {
+      "Id": "D:\\visualstudio-code\\DoAnTotNghiep\\MainProject\\Trewike\\Trewike\\wwwroot\\work_page\\assets\\images\\rooms\\3.jpg",
+      "PackagePath": "staticwebassets\\work_page\\assets\\images\\rooms\\3.jpg"
+    },
+    {
+      "Id": "D:\\visualstudio-code\\DoAnTotNghiep\\MainProject\\Trewike\\Trewike\\wwwroot\\work_page\\assets\\images\\rooms\\4.jpg",
+      "PackagePath": "staticwebassets\\work_page\\assets\\images\\rooms\\4.jpg"
+    },
+    {
+      "Id": "D:\\visualstudio-code\\DoAnTotNghiep\\MainProject\\Trewike\\Trewike\\wwwroot\\work_page\\assets\\images\\rooms\\5.jpg",
+      "PackagePath": "staticwebassets\\work_page\\assets\\images\\rooms\\5.jpg"
+    },
+    {
+      "Id": "D:\\visualstudio-code\\DoAnTotNghiep\\MainProject\\Trewike\\Trewike\\wwwroot\\work_page\\assets\\images\\rooms\\6.jpg",
+      "PackagePath": "staticwebassets\\work_page\\assets\\images\\rooms\\6.jpg"
+    },
+    {
+      "Id": "D:\\visualstudio-code\\DoAnTotNghiep\\MainProject\\Trewike\\Trewike\\wwwroot\\work_page\\assets\\images\\rooms\\7.jpg",
+      "PackagePath": "staticwebassets\\work_page\\assets\\images\\rooms\\7.jpg"
+    },
+    {
+      "Id": "D:\\visualstudio-code\\DoAnTotNghiep\\MainProject\\Trewike\\Trewike\\wwwroot\\work_page\\assets\\images\\rooms\\8.jpg",
+      "PackagePath": "staticwebassets\\work_page\\assets\\images\\rooms\\8.jpg"
+    },
+    {
+      "Id": "D:\\visualstudio-code\\DoAnTotNghiep\\MainProject\\Trewike\\Trewike\\wwwroot\\work_page\\assets\\images\\rooms\\9.jpg",
+      "PackagePath": "staticwebassets\\work_page\\assets\\images\\rooms\\9.jpg"
+    },
+    {
+      "Id": "D:\\visualstudio-code\\DoAnTotNghiep\\MainProject\\Trewike\\Trewike\\wwwroot\\work_page\\assets\\images\\rooms\\gallery\\1.jpg",
+      "PackagePath": "staticwebassets\\work_page\\assets\\images\\rooms\\gallery\\1.jpg"
+    },
+    {
+      "Id": "D:\\visualstudio-code\\DoAnTotNghiep\\MainProject\\Trewike\\Trewike\\wwwroot\\work_page\\assets\\images\\rooms\\gallery\\2.jpg",
+      "PackagePath": "staticwebassets\\work_page\\assets\\images\\rooms\\gallery\\2.jpg"
+    },
+    {
+      "Id": "D:\\visualstudio-code\\DoAnTotNghiep\\MainProject\\Trewike\\Trewike\\wwwroot\\work_page\\assets\\images\\rooms\\gallery\\3.jpg",
+      "PackagePath": "staticwebassets\\work_page\\assets\\images\\rooms\\gallery\\3.jpg"
+    },
+    {
+      "Id": "D:\\visualstudio-code\\DoAnTotNghiep\\MainProject\\Trewike\\Trewike\\wwwroot\\work_page\\assets\\images\\rooms\\gallery\\4.jpg",
+      "PackagePath": "staticwebassets\\work_page\\assets\\images\\rooms\\gallery\\4.jpg"
+    },
+    {
+      "Id": "D:\\visualstudio-code\\DoAnTotNghiep\\MainProject\\Trewike\\Trewike\\wwwroot\\work_page\\assets\\images\\rooms\\gallery\\5.jpg",
+      "PackagePath": "staticwebassets\\work_page\\assets\\images\\rooms\\gallery\\5.jpg"
+    },
+    {
+      "Id": "D:\\visualstudio-code\\DoAnTotNghiep\\MainProject\\Trewike\\Trewike\\wwwroot\\work_page\\assets\\images\\rooms\\gallery\\6.jpg",
+      "PackagePath": "staticwebassets\\work_page\\assets\\images\\rooms\\gallery\\6.jpg"
+    },
+    {
+      "Id": "D:\\visualstudio-code\\DoAnTotNghiep\\MainProject\\Trewike\\Trewike\\wwwroot\\work_page\\assets\\images\\rooms\\icon1.gif",
+      "PackagePath": "staticwebassets\\work_page\\assets\\images\\rooms\\icon1.gif"
+    },
+    {
+      "Id": "D:\\visualstudio-code\\DoAnTotNghiep\\MainProject\\Trewike\\Trewike\\wwwroot\\work_page\\assets\\images\\rooms\\icon2.gif",
+      "PackagePath": "staticwebassets\\work_page\\assets\\images\\rooms\\icon2.gif"
+    },
+    {
+      "Id": "D:\\visualstudio-code\\DoAnTotNghiep\\MainProject\\Trewike\\Trewike\\wwwroot\\work_page\\assets\\images\\rooms\\icon3.gif",
+      "PackagePath": "staticwebassets\\work_page\\assets\\images\\rooms\\icon3.gif"
+    },
+    {
+      "Id": "D:\\visualstudio-code\\DoAnTotNghiep\\MainProject\\Trewike\\Trewike\\wwwroot\\work_page\\assets\\images\\rooms\\icon4.gif",
+      "PackagePath": "staticwebassets\\work_page\\assets\\images\\rooms\\icon4.gif"
+    },
+    {
+      "Id": "D:\\visualstudio-code\\DoAnTotNghiep\\MainProject\\Trewike\\Trewike\\wwwroot\\work_page\\assets\\images\\rooms\\icon5.gif",
+      "PackagePath": "staticwebassets\\work_page\\assets\\images\\rooms\\icon5.gif"
+    },
+    {
+      "Id": "D:\\visualstudio-code\\DoAnTotNghiep\\MainProject\\Trewike\\Trewike\\wwwroot\\work_page\\assets\\images\\satisfiedresort\\1.jpg",
+      "PackagePath": "staticwebassets\\work_page\\assets\\images\\satisfiedresort\\1.jpg"
+    },
+    {
+      "Id": "D:\\visualstudio-code\\DoAnTotNghiep\\MainProject\\Trewike\\Trewike\\wwwroot\\work_page\\assets\\images\\select-menu-arrow.png",
+      "PackagePath": "staticwebassets\\work_page\\assets\\images\\select-menu-arrow.png"
+    },
+    {
+      "Id": "D:\\visualstudio-code\\DoAnTotNghiep\\MainProject\\Trewike\\Trewike\\wwwroot\\work_page\\assets\\images\\slider\\1.jpg",
+      "PackagePath": "staticwebassets\\work_page\\assets\\images\\slider\\1.jpg"
+    },
+    {
+      "Id": "D:\\visualstudio-code\\DoAnTotNghiep\\MainProject\\Trewike\\Trewike\\wwwroot\\work_page\\assets\\images\\slider\\10.jpg",
+      "PackagePath": "staticwebassets\\work_page\\assets\\images\\slider\\10.jpg"
+    },
+    {
+      "Id": "D:\\visualstudio-code\\DoAnTotNghiep\\MainProject\\Trewike\\Trewike\\wwwroot\\work_page\\assets\\images\\slider\\11.jpg",
+      "PackagePath": "staticwebassets\\work_page\\assets\\images\\slider\\11.jpg"
+    },
+    {
+      "Id": "D:\\visualstudio-code\\DoAnTotNghiep\\MainProject\\Trewike\\Trewike\\wwwroot\\work_page\\assets\\images\\slider\\12.jpg",
+      "PackagePath": "staticwebassets\\work_page\\assets\\images\\slider\\12.jpg"
+    },
+    {
+      "Id": "D:\\visualstudio-code\\DoAnTotNghiep\\MainProject\\Trewike\\Trewike\\wwwroot\\work_page\\assets\\images\\slider\\2.jpg",
+      "PackagePath": "staticwebassets\\work_page\\assets\\images\\slider\\2.jpg"
+    },
+    {
+      "Id": "D:\\visualstudio-code\\DoAnTotNghiep\\MainProject\\Trewike\\Trewike\\wwwroot\\work_page\\assets\\images\\slider\\3.jpg",
+      "PackagePath": "staticwebassets\\work_page\\assets\\images\\slider\\3.jpg"
+    },
+    {
+      "Id": "D:\\visualstudio-code\\DoAnTotNghiep\\MainProject\\Trewike\\Trewike\\wwwroot\\work_page\\assets\\images\\slider\\4.jpg",
+      "PackagePath": "staticwebassets\\work_page\\assets\\images\\slider\\4.jpg"
+    },
+    {
+      "Id": "D:\\visualstudio-code\\DoAnTotNghiep\\MainProject\\Trewike\\Trewike\\wwwroot\\work_page\\assets\\images\\slider\\5.jpg",
+      "PackagePath": "staticwebassets\\work_page\\assets\\images\\slider\\5.jpg"
+    },
+    {
+      "Id": "D:\\visualstudio-code\\DoAnTotNghiep\\MainProject\\Trewike\\Trewike\\wwwroot\\work_page\\assets\\images\\slider\\6.jpg",
+      "PackagePath": "staticwebassets\\work_page\\assets\\images\\slider\\6.jpg"
+    },
+    {
+      "Id": "D:\\visualstudio-code\\DoAnTotNghiep\\MainProject\\Trewike\\Trewike\\wwwroot\\work_page\\assets\\images\\slider\\7.jpg",
+      "PackagePath": "staticwebassets\\work_page\\assets\\images\\slider\\7.jpg"
+    },
+    {
+      "Id": "D:\\visualstudio-code\\DoAnTotNghiep\\MainProject\\Trewike\\Trewike\\wwwroot\\work_page\\assets\\images\\slider\\8.jpg",
+      "PackagePath": "staticwebassets\\work_page\\assets\\images\\slider\\8.jpg"
+    },
+    {
+      "Id": "D:\\visualstudio-code\\DoAnTotNghiep\\MainProject\\Trewike\\Trewike\\wwwroot\\work_page\\assets\\images\\slider\\9.jpg",
+      "PackagePath": "staticwebassets\\work_page\\assets\\images\\slider\\9.jpg"
+    },
+    {
+      "Id": "D:\\visualstudio-code\\DoAnTotNghiep\\MainProject\\Trewike\\Trewike\\wwwroot\\work_page\\assets\\images\\slider\\play.png",
+      "PackagePath": "staticwebassets\\work_page\\assets\\images\\slider\\play.png"
+    },
+    {
+      "Id": "D:\\visualstudio-code\\DoAnTotNghiep\\MainProject\\Trewike\\Trewike\\wwwroot\\work_page\\assets\\images\\testimonials\\1.png",
+      "PackagePath": "staticwebassets\\work_page\\assets\\images\\testimonials\\1.png"
+    },
+    {
+      "Id": "D:\\visualstudio-code\\DoAnTotNghiep\\MainProject\\Trewike\\Trewike\\wwwroot\\work_page\\assets\\images\\testimonials\\2.png",
+      "PackagePath": "staticwebassets\\work_page\\assets\\images\\testimonials\\2.png"
+    },
+    {
+      "Id": "D:\\visualstudio-code\\DoAnTotNghiep\\MainProject\\Trewike\\Trewike\\wwwroot\\work_page\\assets\\images\\testimonials\\3.png",
+      "PackagePath": "staticwebassets\\work_page\\assets\\images\\testimonials\\3.png"
+    },
+    {
+      "Id": "D:\\visualstudio-code\\DoAnTotNghiep\\MainProject\\Trewike\\Trewike\\wwwroot\\work_page\\assets\\images\\testimonials\\4.png",
+      "PackagePath": "staticwebassets\\work_page\\assets\\images\\testimonials\\4.png"
+    },
+    {
+      "Id": "D:\\visualstudio-code\\DoAnTotNghiep\\MainProject\\Trewike\\Trewike\\wwwroot\\work_page\\assets\\images\\testimonials\\5.png",
+      "PackagePath": "staticwebassets\\work_page\\assets\\images\\testimonials\\5.png"
+    },
+    {
+      "Id": "D:\\visualstudio-code\\DoAnTotNghiep\\MainProject\\Trewike\\Trewike\\wwwroot\\work_page\\assets\\images\\testimonials\\6.jpg",
+      "PackagePath": "staticwebassets\\work_page\\assets\\images\\testimonials\\6.jpg"
+    },
+    {
+      "Id": "D:\\visualstudio-code\\DoAnTotNghiep\\MainProject\\Trewike\\Trewike\\wwwroot\\work_page\\assets\\images\\testimonials\\7.jpg",
+      "PackagePath": "staticwebassets\\work_page\\assets\\images\\testimonials\\7.jpg"
+    },
+    {
+      "Id": "D:\\visualstudio-code\\DoAnTotNghiep\\MainProject\\Trewike\\Trewike\\wwwroot\\work_page\\assets\\images\\testimonials\\8.jpg",
+      "PackagePath": "staticwebassets\\work_page\\assets\\images\\testimonials\\8.jpg"
+    },
+    {
+      "Id": "D:\\visualstudio-code\\DoAnTotNghiep\\MainProject\\Trewike\\Trewike\\wwwroot\\work_page\\assets\\images\\testimonials\\9.jpg",
+      "PackagePath": "staticwebassets\\work_page\\assets\\images\\testimonials\\9.jpg"
+    },
+    {
+      "Id": "D:\\visualstudio-code\\DoAnTotNghiep\\MainProject\\Trewike\\Trewike\\wwwroot\\work_page\\assets\\images\\testimonials\\sign.jpg",
+      "PackagePath": "staticwebassets\\work_page\\assets\\images\\testimonials\\sign.jpg"
+    },
+    {
+      "Id": "D:\\visualstudio-code\\DoAnTotNghiep\\MainProject\\Trewike\\Trewike\\wwwroot\\work_page\\assets\\images\\welcome-blocks\\1.jpg",
+      "PackagePath": "staticwebassets\\work_page\\assets\\images\\welcome-blocks\\1.jpg"
+    },
+    {
+      "Id": "D:\\visualstudio-code\\DoAnTotNghiep\\MainProject\\Trewike\\Trewike\\wwwroot\\work_page\\assets\\images\\welcome-blocks\\1.png",
+      "PackagePath": "staticwebassets\\work_page\\assets\\images\\welcome-blocks\\1.png"
+    },
+    {
+      "Id": "D:\\visualstudio-code\\DoAnTotNghiep\\MainProject\\Trewike\\Trewike\\wwwroot\\work_page\\assets\\images\\welcome-blocks\\2.jpg",
+      "PackagePath": "staticwebassets\\work_page\\assets\\images\\welcome-blocks\\2.jpg"
+    },
+    {
+      "Id": "D:\\visualstudio-code\\DoAnTotNghiep\\MainProject\\Trewike\\Trewike\\wwwroot\\work_page\\assets\\images\\welcome-blocks\\2.png",
+      "PackagePath": "staticwebassets\\work_page\\assets\\images\\welcome-blocks\\2.png"
+    },
+    {
+      "Id": "D:\\visualstudio-code\\DoAnTotNghiep\\MainProject\\Trewike\\Trewike\\wwwroot\\work_page\\assets\\images\\welcome-blocks\\3.png",
+      "PackagePath": "staticwebassets\\work_page\\assets\\images\\welcome-blocks\\3.png"
+    },
+    {
+      "Id": "D:\\visualstudio-code\\DoAnTotNghiep\\MainProject\\Trewike\\Trewike\\wwwroot\\work_page\\assets\\images\\welcome-blocks\\4.png",
+      "PackagePath": "staticwebassets\\work_page\\assets\\images\\welcome-blocks\\4.png"
+    },
+    {
+      "Id": "D:\\visualstudio-code\\DoAnTotNghiep\\MainProject\\Trewike\\Trewike\\wwwroot\\work_page\\assets\\images\\welcome\\1.jpg",
+      "PackagePath": "staticwebassets\\work_page\\assets\\images\\welcome\\1.jpg"
+    },
+    {
+      "Id": "D:\\visualstudio-code\\DoAnTotNghiep\\MainProject\\Trewike\\Trewike\\wwwroot\\work_page\\assets\\images\\welcome\\email-bg.png",
+      "PackagePath": "staticwebassets\\work_page\\assets\\images\\welcome\\email-bg.png"
+    },
+    {
+      "Id": "D:\\visualstudio-code\\DoAnTotNghiep\\MainProject\\Trewike\\Trewike\\wwwroot\\work_page\\assets\\images\\welcome\\icon-1.png",
+      "PackagePath": "staticwebassets\\work_page\\assets\\images\\welcome\\icon-1.png"
+    },
+    {
+      "Id": "D:\\visualstudio-code\\DoAnTotNghiep\\MainProject\\Trewike\\Trewike\\wwwroot\\work_page\\assets\\images\\welcome\\icon-2.png",
+      "PackagePath": "staticwebassets\\work_page\\assets\\images\\welcome\\icon-2.png"
+    },
+    {
+      "Id": "D:\\visualstudio-code\\DoAnTotNghiep\\MainProject\\Trewike\\Trewike\\wwwroot\\work_page\\assets\\images\\welcome\\icon-3.png",
+      "PackagePath": "staticwebassets\\work_page\\assets\\images\\welcome\\icon-3.png"
+    },
+    {
+      "Id": "D:\\visualstudio-code\\DoAnTotNghiep\\MainProject\\Trewike\\Trewike\\wwwroot\\work_page\\assets\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\work_page\\assets\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "D:\\visualstudio-code\\DoAnTotNghiep\\MainProject\\Trewike\\Trewike\\wwwroot\\work_page\\assets\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\work_page\\assets\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "D:\\visualstudio-code\\DoAnTotNghiep\\MainProject\\Trewike\\Trewike\\wwwroot\\work_page\\assets\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\work_page\\assets\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "D:\\visualstudio-code\\DoAnTotNghiep\\MainProject\\Trewike\\Trewike\\wwwroot\\work_page\\assets\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\work_page\\assets\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "D:\\visualstudio-code\\DoAnTotNghiep\\MainProject\\Trewike\\Trewike\\wwwroot\\work_page\\assets\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\work_page\\assets\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "D:\\visualstudio-code\\DoAnTotNghiep\\MainProject\\Trewike\\Trewike\\wwwroot\\work_page\\assets\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\work_page\\assets\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "D:\\visualstudio-code\\DoAnTotNghiep\\MainProject\\Trewike\\Trewike\\wwwroot\\work_page\\assets\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\work_page\\assets\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "D:\\visualstudio-code\\DoAnTotNghiep\\MainProject\\Trewike\\Trewike\\wwwroot\\work_page\\assets\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\work_page\\assets\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "D:\\visualstudio-code\\DoAnTotNghiep\\MainProject\\Trewike\\Trewike\\wwwroot\\work_page\\assets\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\work_page\\assets\\js\\bootstrap.js"
+    },
+    {
+      "Id": "D:\\visualstudio-code\\DoAnTotNghiep\\MainProject\\Trewike\\Trewike\\wwwroot\\work_page\\assets\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\work_page\\assets\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "D:\\visualstudio-code\\DoAnTotNghiep\\MainProject\\Trewike\\Trewike\\wwwroot\\work_page\\assets\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\work_page\\assets\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "D:\\visualstudio-code\\DoAnTotNghiep\\MainProject\\Trewike\\Trewike\\wwwroot\\work_page\\assets\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\work_page\\assets\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "D:\\visualstudio-code\\DoAnTotNghiep\\MainProject\\Trewike\\Trewike\\wwwroot\\work_page\\assets\\js\\contact.js",
+      "PackagePath": "staticwebassets\\work_page\\assets\\js\\contact.js"
+    },
+    {
+      "Id": "D:\\visualstudio-code\\DoAnTotNghiep\\MainProject\\Trewike\\Trewike\\wwwroot\\work_page\\assets\\js\\custom.js",
+      "PackagePath": "staticwebassets\\work_page\\assets\\js\\custom.js"
+    },
+    {
+      "Id": "D:\\visualstudio-code\\DoAnTotNghiep\\MainProject\\Trewike\\Trewike\\wwwroot\\work_page\\assets\\js\\email.js",
+      "PackagePath": "staticwebassets\\work_page\\assets\\js\\email.js"
+    },
+    {
+      "Id": "D:\\visualstudio-code\\DoAnTotNghiep\\MainProject\\Trewike\\Trewike\\wwwroot\\work_page\\assets\\js\\jquery-2.2.4.min.js",
+      "PackagePath": "staticwebassets\\work_page\\assets\\js\\jquery-2.2.4.min.js"
+    },
+    {
+      "Id": "D:\\visualstudio-code\\DoAnTotNghiep\\MainProject\\Trewike\\Trewike\\wwwroot\\work_page\\assets\\js\\jquery.bxslider.js",
+      "PackagePath": "staticwebassets\\work_page\\assets\\js\\jquery.bxslider.js"
+    },
+    {
+      "Id": "D:\\visualstudio-code\\DoAnTotNghiep\\MainProject\\Trewike\\Trewike\\wwwroot\\work_page\\assets\\js\\jquery.easing.min.js",
+      "PackagePath": "staticwebassets\\work_page\\assets\\js\\jquery.easing.min.js"
+    },
+    {
+      "Id": "D:\\visualstudio-code\\DoAnTotNghiep\\MainProject\\Trewike\\Trewike\\wwwroot\\work_page\\assets\\js\\jquery.fancybox.pack.js",
+      "PackagePath": "staticwebassets\\work_page\\assets\\js\\jquery.fancybox.pack.js"
+    },
+    {
+      "Id": "D:\\visualstudio-code\\DoAnTotNghiep\\MainProject\\Trewike\\Trewike\\wwwroot\\work_page\\assets\\js\\jquery.form.js",
+      "PackagePath": "staticwebassets\\work_page\\assets\\js\\jquery.form.js"
+    },
+    {
+      "Id": "D:\\visualstudio-code\\DoAnTotNghiep\\MainProject\\Trewike\\Trewike\\wwwroot\\work_page\\assets\\js\\jquery.mCustomScrollbar.concat.min.js",
+      "PackagePath": "staticwebassets\\work_page\\assets\\js\\jquery.mCustomScrollbar.concat.min.js"
+    },
+    {
+      "Id": "D:\\visualstudio-code\\DoAnTotNghiep\\MainProject\\Trewike\\Trewike\\wwwroot\\work_page\\assets\\js\\jquery.mixitup.min.js",
+      "PackagePath": "staticwebassets\\work_page\\assets\\js\\jquery.mixitup.min.js"
+    },
+    {
+      "Id": "D:\\visualstudio-code\\DoAnTotNghiep\\MainProject\\Trewike\\Trewike\\wwwroot\\work_page\\assets\\js\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\work_page\\assets\\js\\jquery.validate.min.js"
+    },
+    {
+      "Id": "D:\\visualstudio-code\\DoAnTotNghiep\\MainProject\\Trewike\\Trewike\\wwwroot\\work_page\\assets\\js\\map.js",
+      "PackagePath": "staticwebassets\\work_page\\assets\\js\\map.js"
+    },
+    {
+      "Id": "D:\\visualstudio-code\\DoAnTotNghiep\\MainProject\\Trewike\\Trewike\\wwwroot\\work_page\\assets\\js\\owl.carousel.min.js",
+      "PackagePath": "staticwebassets\\work_page\\assets\\js\\owl.carousel.min.js"
+    },
+    {
+      "Id": "D:\\visualstudio-code\\DoAnTotNghiep\\MainProject\\Trewike\\Trewike\\wwwroot\\work_page\\assets\\js\\validate.js",
+      "PackagePath": "staticwebassets\\work_page\\assets\\js\\validate.js"
+    },
+    {
+      "Id": "D:\\visualstudio-code\\DoAnTotNghiep\\MainProject\\Trewike\\Trewike\\wwwroot\\work_page\\assets\\js\\zebra_datepicker.js",
+      "PackagePath": "staticwebassets\\work_page\\assets\\js\\zebra_datepicker.js"
+    },
+    {
+      "Id": "D:\\visualstudio-code\\DoAnTotNghiep\\MainProject\\Trewike\\Trewike\\wwwroot\\work_page\\assets\\vendors\\Stroke-Gap-Icons-Webfont\\fonts\\Stroke-Gap-Icons.eot",
+      "PackagePath": "staticwebassets\\work_page\\assets\\vendors\\Stroke-Gap-Icons-Webfont\\fonts\\Stroke-Gap-Icons.eot"
+    },
+    {
+      "Id": "D:\\visualstudio-code\\DoAnTotNghiep\\MainProject\\Trewike\\Trewike\\wwwroot\\work_page\\assets\\vendors\\Stroke-Gap-Icons-Webfont\\style.css",
+      "PackagePath": "staticwebassets\\work_page\\assets\\vendors\\Stroke-Gap-Icons-Webfont\\style.css"
+    },
+    {
+      "Id": "D:\\visualstudio-code\\DoAnTotNghiep\\MainProject\\Trewike\\Trewike\\wwwroot\\work_page\\assets\\vendors\\imagelightbox\\imagelightbox.min.css",
+      "PackagePath": "staticwebassets\\work_page\\assets\\vendors\\imagelightbox\\imagelightbox.min.css"
+    },
+    {
+      "Id": "D:\\visualstudio-code\\DoAnTotNghiep\\MainProject\\Trewike\\Trewike\\wwwroot\\work_page\\assets\\vendors\\imagelightbox\\imagelightbox.min.js",
+      "PackagePath": "staticwebassets\\work_page\\assets\\vendors\\imagelightbox\\imagelightbox.min.js"
+    },
+    {
+      "Id": "D:\\visualstudio-code\\DoAnTotNghiep\\MainProject\\Trewike\\Trewike\\wwwroot\\work_page\\assets\\vendors\\imagesloaded\\imagesloaded.pkgd.min.js",
+      "PackagePath": "staticwebassets\\work_page\\assets\\vendors\\imagesloaded\\imagesloaded.pkgd.min.js"
+    },
+    {
+      "Id": "D:\\visualstudio-code\\DoAnTotNghiep\\MainProject\\Trewike\\Trewike\\wwwroot\\work_page\\assets\\vendors\\isotope\\isotope.min.js",
+      "PackagePath": "staticwebassets\\work_page\\assets\\vendors\\isotope\\isotope.min.js"
+    },
+    {
+      "Id": "D:\\visualstudio-code\\DoAnTotNghiep\\MainProject\\Trewike\\Trewike\\wwwroot\\work_page\\assets\\vendors\\jquery-appear\\jquery.appear.js",
+      "PackagePath": "staticwebassets\\work_page\\assets\\vendors\\jquery-appear\\jquery.appear.js"
+    },
+    {
+      "Id": "D:\\visualstudio-code\\DoAnTotNghiep\\MainProject\\Trewike\\Trewike\\wwwroot\\work_page\\assets\\vendors\\jquery-countTo\\jquery.countTo.js",
+      "PackagePath": "staticwebassets\\work_page\\assets\\vendors\\jquery-countTo\\jquery.countTo.js"
+    },
+    {
+      "Id": "D:\\visualstudio-code\\DoAnTotNghiep\\MainProject\\Trewike\\Trewike\\wwwroot\\work_page\\assets\\vendors\\jquery-ui-1.11.4\\images\\ui-bg_diagonals-thick_18_b81900_40x40.png",
+      "PackagePath": "staticwebassets\\work_page\\assets\\vendors\\jquery-ui-1.11.4\\images\\ui-bg_diagonals-thick_18_b81900_40x40.png"
+    },
+    {
+      "Id": "D:\\visualstudio-code\\DoAnTotNghiep\\MainProject\\Trewike\\Trewike\\wwwroot\\work_page\\assets\\vendors\\jquery-ui-1.11.4\\images\\ui-bg_diagonals-thick_20_666666_40x40.png",
+      "PackagePath": "staticwebassets\\work_page\\assets\\vendors\\jquery-ui-1.11.4\\images\\ui-bg_diagonals-thick_20_666666_40x40.png"
+    },
+    {
+      "Id": "D:\\visualstudio-code\\DoAnTotNghiep\\MainProject\\Trewike\\Trewike\\wwwroot\\work_page\\assets\\vendors\\jquery-ui-1.11.4\\images\\ui-bg_flat_10_000000_40x100.png",
+      "PackagePath": "staticwebassets\\work_page\\assets\\vendors\\jquery-ui-1.11.4\\images\\ui-bg_flat_10_000000_40x100.png"
+    },
+    {
+      "Id": "D:\\visualstudio-code\\DoAnTotNghiep\\MainProject\\Trewike\\Trewike\\wwwroot\\work_page\\assets\\vendors\\jquery-ui-1.11.4\\images\\ui-bg_glass_100_f6f6f6_1x400.png",
+      "PackagePath": "staticwebassets\\work_page\\assets\\vendors\\jquery-ui-1.11.4\\images\\ui-bg_glass_100_f6f6f6_1x400.png"
+    },
+    {
+      "Id": "D:\\visualstudio-code\\DoAnTotNghiep\\MainProject\\Trewike\\Trewike\\wwwroot\\work_page\\assets\\vendors\\jquery-ui-1.11.4\\images\\ui-bg_glass_100_fdf5ce_1x400.png",
+      "PackagePath": "staticwebassets\\work_page\\assets\\vendors\\jquery-ui-1.11.4\\images\\ui-bg_glass_100_fdf5ce_1x400.png"
+    },
+    {
+      "Id": "D:\\visualstudio-code\\DoAnTotNghiep\\MainProject\\Trewike\\Trewike\\wwwroot\\work_page\\assets\\vendors\\jquery-ui-1.11.4\\images\\ui-bg_glass_65_ffffff_1x400.png",
+      "PackagePath": "staticwebassets\\work_page\\assets\\vendors\\jquery-ui-1.11.4\\images\\ui-bg_glass_65_ffffff_1x400.png"
+    },
+    {
+      "Id": "D:\\visualstudio-code\\DoAnTotNghiep\\MainProject\\Trewike\\Trewike\\wwwroot\\work_page\\assets\\vendors\\jquery-ui-1.11.4\\images\\ui-bg_gloss-wave_35_f6a828_500x100.png",
+      "PackagePath": "staticwebassets\\work_page\\assets\\vendors\\jquery-ui-1.11.4\\images\\ui-bg_gloss-wave_35_f6a828_500x100.png"
+    },
+    {
+      "Id": "D:\\visualstudio-code\\DoAnTotNghiep\\MainProject\\Trewike\\Trewike\\wwwroot\\work_page\\assets\\vendors\\jquery-ui-1.11.4\\images\\ui-bg_highlight-soft_100_eeeeee_1x100.png",
+      "PackagePath": "staticwebassets\\work_page\\assets\\vendors\\jquery-ui-1.11.4\\images\\ui-bg_highlight-soft_100_eeeeee_1x100.png"
+    },
+    {
+      "Id": "D:\\visualstudio-code\\DoAnTotNghiep\\MainProject\\Trewike\\Trewike\\wwwroot\\work_page\\assets\\vendors\\jquery-ui-1.11.4\\images\\ui-bg_highlight-soft_75_ffe45c_1x100.png",
+      "PackagePath": "staticwebassets\\work_page\\assets\\vendors\\jquery-ui-1.11.4\\images\\ui-bg_highlight-soft_75_ffe45c_1x100.png"
+    },
+    {
+      "Id": "D:\\visualstudio-code\\DoAnTotNghiep\\MainProject\\Trewike\\Trewike\\wwwroot\\work_page\\assets\\vendors\\jquery-ui-1.11.4\\images\\ui-icons_222222_256x240.png",
+      "PackagePath": "staticwebassets\\work_page\\assets\\vendors\\jquery-ui-1.11.4\\images\\ui-icons_222222_256x240.png"
+    },
+    {
+      "Id": "D:\\visualstudio-code\\DoAnTotNghiep\\MainProject\\Trewike\\Trewike\\wwwroot\\work_page\\assets\\vendors\\jquery-ui-1.11.4\\images\\ui-icons_228ef1_256x240.png",
+      "PackagePath": "staticwebassets\\work_page\\assets\\vendors\\jquery-ui-1.11.4\\images\\ui-icons_228ef1_256x240.png"
+    },
+    {
+      "Id": "D:\\visualstudio-code\\DoAnTotNghiep\\MainProject\\Trewike\\Trewike\\wwwroot\\work_page\\assets\\vendors\\jquery-ui-1.11.4\\images\\ui-icons_ef8c08_256x240.png",
+      "PackagePath": "staticwebassets\\work_page\\assets\\vendors\\jquery-ui-1.11.4\\images\\ui-icons_ef8c08_256x240.png"
+    },
+    {
+      "Id": "D:\\visualstudio-code\\DoAnTotNghiep\\MainProject\\Trewike\\Trewike\\wwwroot\\work_page\\assets\\vendors\\jquery-ui-1.11.4\\images\\ui-icons_ffd27a_256x240.png",
+      "PackagePath": "staticwebassets\\work_page\\assets\\vendors\\jquery-ui-1.11.4\\images\\ui-icons_ffd27a_256x240.png"
+    },
+    {
+      "Id": "D:\\visualstudio-code\\DoAnTotNghiep\\MainProject\\Trewike\\Trewike\\wwwroot\\work_page\\assets\\vendors\\jquery-ui-1.11.4\\images\\ui-icons_ffffff_256x240.png",
+      "PackagePath": "staticwebassets\\work_page\\assets\\vendors\\jquery-ui-1.11.4\\images\\ui-icons_ffffff_256x240.png"
+    },
+    {
+      "Id": "D:\\visualstudio-code\\DoAnTotNghiep\\MainProject\\Trewike\\Trewike\\wwwroot\\work_page\\assets\\vendors\\jquery-ui-1.11.4\\jquery-ui.min.css",
+      "PackagePath": "staticwebassets\\work_page\\assets\\vendors\\jquery-ui-1.11.4\\jquery-ui.min.css"
+    },
+    {
+      "Id": "D:\\visualstudio-code\\DoAnTotNghiep\\MainProject\\Trewike\\Trewike\\wwwroot\\work_page\\assets\\vendors\\jquery-ui-1.11.4\\jquery-ui.min.js",
+      "PackagePath": "staticwebassets\\work_page\\assets\\vendors\\jquery-ui-1.11.4\\jquery-ui.min.js"
+    },
+    {
+      "Id": "D:\\visualstudio-code\\DoAnTotNghiep\\MainProject\\Trewike\\Trewike\\wwwroot\\work_page\\assets\\vendors\\owlcarousel\\owl.carousel.css",
+      "PackagePath": "staticwebassets\\work_page\\assets\\vendors\\owlcarousel\\owl.carousel.css"
+    },
+    {
+      "Id": "D:\\visualstudio-code\\DoAnTotNghiep\\MainProject\\Trewike\\Trewike\\wwwroot\\work_page\\assets\\vendors\\owlcarousel\\owl.carousel.min.js",
+      "PackagePath": "staticwebassets\\work_page\\assets\\vendors\\owlcarousel\\owl.carousel.min.js"
+    },
+    {
+      "Id": "D:\\visualstudio-code\\DoAnTotNghiep\\MainProject\\Trewike\\Trewike\\wwwroot\\work_page\\index.html",
+      "PackagePath": "staticwebassets\\work_page\\index.html"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.Trewike.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.Trewike.props",
+      "PackagePath": "build\\Trewike.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.Trewike.props",
+      "PackagePath": "buildMultiTargeting\\Trewike.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.Trewike.props",
+      "PackagePath": "buildTransitive\\Trewike.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

@@ -1,0 +1,68 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.VisualStudio.Web.CodeGeneration.Design" Version="6.0.16" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Folder Include="Areas\LoginArea\Data\" />
+    <Folder Include="Areas\LoginArea\Models\" />
+    <Folder Include="Areas\WorkArea\Data\" />
+    <Folder Include="Areas\WorkArea\Models\" />
+    <Folder Include="wwwroot\img\alphabet-avatar\" />
+    <Folder Include="wwwroot\img\background\workspace\" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Include="wwwroot\work_page\assets\css\bootstrap-grid.css.map" />
+    <None Include="wwwroot\work_page\assets\css\bootstrap-grid.min.css.map" />
+    <None Include="wwwroot\work_page\assets\css\bootstrap-grid.rtl.css.map" />
+    <None Include="wwwroot\work_page\assets\css\bootstrap-grid.rtl.min.css.map" />
+    <None Include="wwwroot\work_page\assets\css\bootstrap-reboot.css.map" />
+    <None Include="wwwroot\work_page\assets\css\bootstrap-reboot.min.css.map" />
+    <None Include="wwwroot\work_page\assets\css\bootstrap-reboot.rtl.css.map" />
+    <None Include="wwwroot\work_page\assets\css\bootstrap-reboot.rtl.min.css.map" />
+    <None Include="wwwroot\work_page\assets\css\bootstrap-utilities.css.map" />
+    <None Include="wwwroot\work_page\assets\css\bootstrap-utilities.min.css.map" />
+    <None Include="wwwroot\work_page\assets\css\bootstrap-utilities.rtl.css.map" />
+    <None Include="wwwroot\work_page\assets\css\bootstrap-utilities.rtl.min.css.map" />
+    <None Include="wwwroot\work_page\assets\css\bootstrap.css.map" />
+    <None Include="wwwroot\work_page\assets\css\bootstrap.min.css.map" />
+    <None Include="wwwroot\work_page\assets\css\bootstrap.rtl.css.map" />
+    <None Include="wwwroot\work_page\assets\css\bootstrap.rtl.min.css.map" />
+    <None Include="wwwroot\work_page\assets\js\bootstrap.bundle.js" />
+    <None Include="wwwroot\work_page\assets\js\bootstrap.bundle.js.map" />
+    <None Include="wwwroot\work_page\assets\js\bootstrap.bundle.min.js" />
+    <None Include="wwwroot\work_page\assets\js\bootstrap.bundle.min.js.map" />
+    <None Include="wwwroot\work_page\assets\js\bootstrap.esm.js" />
+    <None Include="wwwroot\work_page\assets\js\bootstrap.esm.js.map" />
+    <None Include="wwwroot\work_page\assets\js\bootstrap.esm.min.js" />
+    <None Include="wwwroot\work_page\assets\js\bootstrap.esm.min.js.map" />
+    <None Include="wwwroot\work_page\assets\js\bootstrap.js" />
+    <None Include="wwwroot\work_page\assets\js\bootstrap.js.map" />
+    <None Include="wwwroot\work_page\assets\js\bootstrap.min.js" />
+    <None Include="wwwroot\work_page\assets\js\bootstrap.min.js.map" />
+    <None Include="wwwroot\work_page\assets\js\contact.js" />
+    <None Include="wwwroot\work_page\assets\js\custom.js" />
+    <None Include="wwwroot\work_page\assets\js\email.js" />
+    <None Include="wwwroot\work_page\assets\js\jquery-2.2.4.min.js" />
+    <None Include="wwwroot\work_page\assets\js\jquery.bxslider.js" />
+    <None Include="wwwroot\work_page\assets\js\jquery.easing.min.js" />
+    <None Include="wwwroot\work_page\assets\js\jquery.fancybox.pack.js" />
+    <None Include="wwwroot\work_page\assets\js\jquery.form.js" />
+    <None Include="wwwroot\work_page\assets\js\jquery.mCustomScrollbar.concat.min.js" />
+    <None Include="wwwroot\work_page\assets\js\jquery.mixitup.min.js" />
+    <None Include="wwwroot\work_page\assets\js\jquery.validate.min.js" />
+    <None Include="wwwroot\work_page\assets\js\map.js" />
+    <None Include="wwwroot\work_page\assets\js\owl.carousel.min.js" />
+    <None Include="wwwroot\work_page\assets\js\validate.js" />
+    <None Include="wwwroot\work_page\assets\js\zebra_datepicker.js" />
+  </ItemGroup>
+
+</Project>

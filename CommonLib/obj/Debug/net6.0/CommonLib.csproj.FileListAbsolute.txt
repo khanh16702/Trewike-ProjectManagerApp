@@ -1,0 +1,12 @@
+D:\visualstudio-code\DoAnTotNghiep\MainProject\Trewike\CommonLib\bin\Debug\net6.0\CommonLib.deps.json
+D:\visualstudio-code\DoAnTotNghiep\MainProject\Trewike\CommonLib\bin\Debug\net6.0\CommonLib.dll
+D:\visualstudio-code\DoAnTotNghiep\MainProject\Trewike\CommonLib\bin\Debug\net6.0\CommonLib.pdb
+D:\visualstudio-code\DoAnTotNghiep\MainProject\Trewike\CommonLib\obj\Debug\net6.0\CommonLib.csproj.AssemblyReference.cache
+D:\visualstudio-code\DoAnTotNghiep\MainProject\Trewike\CommonLib\obj\Debug\net6.0\CommonLib.GeneratedMSBuildEditorConfig.editorconfig
+D:\visualstudio-code\DoAnTotNghiep\MainProject\Trewike\CommonLib\obj\Debug\net6.0\CommonLib.AssemblyInfoInputs.cache
+D:\visualstudio-code\DoAnTotNghiep\MainProject\Trewike\CommonLib\obj\Debug\net6.0\CommonLib.AssemblyInfo.cs
+D:\visualstudio-code\DoAnTotNghiep\MainProject\Trewike\CommonLib\obj\Debug\net6.0\CommonLib.csproj.CoreCompileInputs.cache
+D:\visualstudio-code\DoAnTotNghiep\MainProject\Trewike\CommonLib\obj\Debug\net6.0\CommonLib.dll
+D:\visualstudio-code\DoAnTotNghiep\MainProject\Trewike\CommonLib\obj\Debug\net6.0\refint\CommonLib.dll
+D:\visualstudio-code\DoAnTotNghiep\MainProject\Trewike\CommonLib\obj\Debug\net6.0\CommonLib.pdb
+D:\visualstudio-code\DoAnTotNghiep\MainProject\Trewike\CommonLib\obj\Debug\net6.0\ref\CommonLib.dll
